@@ -3,17 +3,44 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      as="style"
+      crossorigin
+      href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css"
+    />
+    <link rel="stylesheet" href="reset.css" />
+    <link rel="stylesheet" href="fonts.css" />
     <link rel="stylesheet" href="style.css" />
-    <title>관계들</title>
+    <title>관계들 - 월간 AG 랩 25년 4월호</title>
   </head>
 
   <body>
-    <main class="container">
-      <section class="section">
+    <header class="header">
+      <a href="index.html">
         <h1>관계들</h1>
-        <p>테스트</p>
+      </a>
+    </header>
+    <main class="main">
+      <section class="section">
+        <nav class="nav">
+          <button id="prevDay">&lt; 어제</button>
+          <h1 id="title"></h1>
+          <button id="nextDay">내일 &gt;</button>
+        </nav>
       </section>
+      <section class="section">
+        <ul class="words"></ul>
+        <button id="submit"></button>
+      </section>
+      <section class="section">
+        <p class="disclaimer">
+          <span class="ahn">관계들</span>은 The New York Times의 Connections를
+          향한 사랑으로 쓰였습니다.
+        </p>
+      </section>
+      <section class="section"></section>
     </main>
-    <script src="script.js"></script>
+    <script type="module" src="script.js"></script>
   </body>
 </html>

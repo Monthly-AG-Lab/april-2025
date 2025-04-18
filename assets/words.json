@@ -1,0 +1,181 @@
+{
+  "20250418": {
+    "date": "2025-04-18T00:00:00.000Z",
+    "title": "2025.04.18",
+    "categories": ["문학의 갈래", "야구를 하기 위한", "검고 흰", "돌-"],
+    "words": [
+      {
+        "index": 0,
+        "content": "잔치",
+        "category": 3
+      },
+      {
+        "index": 1,
+        "content": "수필",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "글러브",
+        "category": 1
+      },
+      {
+        "index": 3,
+        "content": "고래",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "달마시안",
+        "category": 2
+      },
+      {
+        "index": 5,
+        "content": "헬멧",
+        "category": 1
+      },
+      {
+        "index": 6,
+        "content": "담",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "시",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "희곡",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "턱시도",
+        "category": 2
+      },
+      {
+        "index": 10,
+        "content": "흑백사진",
+        "category": 2
+      },
+      {
+        "index": 11,
+        "content": "방망이",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "공",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "부처",
+        "category": 3
+      },
+      {
+        "index": 14,
+        "content": "소설",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "피아노",
+        "category": 2
+      }
+    ]
+  },
+  "20250419": {
+    "date": "2025-04-19T00:00:00.000Z",
+    "title": "2025.04.19",
+    "categories": [
+      "일곱 개가 하나",
+      "고정하기 위한",
+      "키보드 특수문자",
+      "동물 + 동물"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "양말",
+        "category": 3
+      },
+      {
+        "index": 1,
+        "content": "압정",
+        "category": 1
+      },
+      {
+        "index": 2,
+        "content": "오리너구리",
+        "category": 3
+      },
+      {
+        "index": 3,
+        "content": "일주일",
+        "category": 0
+      },
+      {
+        "index": 4,
+        "content": "북두칠성",
+        "category": 0
+      },
+      {
+        "index": 5,
+        "content": "골뱅이",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "테이프",
+        "category": 1
+      },
+      {
+        "index": 7,
+        "content": "소개",
+        "category": 3
+      },
+      {
+        "index": 8,
+        "content": "자석",
+        "category": 1
+      },
+      {
+        "index": 9,
+        "content": "달러",
+        "category": 2
+      },
+      {
+        "index": 10,
+        "content": "무지개",
+        "category": 0
+      },
+      {
+        "index": 11,
+        "content": "클립",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "계이름",
+        "category": 0
+      },
+      {
+        "index": 13,
+        "content": "느낌표",
+        "category": 2
+      },
+      {
+        "index": 14,
+        "content": "학벌",
+        "category": 3
+      },
+      {
+        "index": 15,
+        "content": "별",
+        "category": 2
+      }
+    ]
+  }
+}

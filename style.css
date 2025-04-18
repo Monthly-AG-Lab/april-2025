@@ -1,0 +1,298 @@
+:root {
+  --words-gap: 0.4rem;
+  --words-width: 38rem;
+  --category-0-color: rgb(249, 223, 109);
+  --category-1-color: rgb(160, 195, 90);
+  --category-2-color: rgb(176, 196, 239);
+  --category-3-color: rgb(186, 129, 197);
+  --header-font-size: 1.6rem;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  background-color: whitesmoke;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  border: none;
+  outline: none;
+  background-color: inherit;
+  cursor: pointer;
+}
+
+.header {
+  padding: 1rem;
+}
+
+.header h1 {
+  font-family: "Ahn Sangsoo", sans-serif;
+  font-size: var(--header-font-size);
+  font-weight: 700;
+}
+
+.main {
+  width: 100%;
+  height: calc(100vh - var(--header-font-size) - 2rem);
+  padding: 1rem;
+  overflow-y: auto;
+  scroll-snap-type: y mandatory;
+}
+
+.section {
+  width: 100%;
+  height: calc(100vh - var(--header-font-size) - 2rem);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  scroll-snap-align: start;
+}
+
+.section.game {
+  padding-bottom: 3rem;
+  gap: 3rem;
+}
+
+.section.dictionary {
+  font-family: "Ahn Sangsoo", sans-serif;
+  font-weight: 700;
+  font-size: 5rem;
+  width: 100%;
+  display: block;
+  height: 100vh;
+}
+
+.container {
+  display: flex;
+  width: var(--words-width);
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.words {
+  display: flex;
+  flex-wrap: wrap;
+  width: var(--words-width);
+  gap: var(--words-gap);
+  margin-bottom: 2rem;
+  font-family: "Ahn Sangsoo", sans-serif;
+  font-weight: 700;
+  font-size: 1.6rem;
+}
+
+.words li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: calc((var(--words-width) - var(--words-gap) * 3) / 4);
+  height: 80px;
+  list-style: none;
+  cursor: pointer;
+  background-color: gainsboro;
+  border-radius: 8px;
+}
+
+li.correct {
+  /* background-color: lightgreen; */
+  pointer-events: none;
+}
+
+li.active {
+  background-color: black;
+  color: white;
+}
+
+#submit {
+  width: 100%;
+  height: 60px;
+  border: none;
+  border-radius: 30px;
+  outline: none;
+  background-color: black;
+  color: white;
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: normal;
+  cursor: pointer;
+}
+
+#submit:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.answer-block {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  width: 100%;
+  height: 80px;
+  line-height: 1.5;
+}
+
+.answer-block.category-0 {
+  background-color: var(--category-0-color);
+  color: black;
+}
+
+.answer-block.category-1 {
+  background-color: var(--category-1-color);
+  color: black;
+}
+
+.answer-block.category-2 {
+  background-color: var(--category-2-color);
+  color: black;
+}
+
+.answer-block.category-3 {
+  background-color: var(--category-3-color);
+  color: black;
+}
+
+.category-name {
+  font-family: "Pretendard Variable", Pretendard, sans-serif;
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+.category-words {
+  font-family: "Ahn Sangsoo", sans-serif;
+  font-weight: 700;
+  font-size: 1.3rem;
+}
+
+.nav {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+#prevDay,
+#nextDay,
+#title {
+  font-family: "Ahn Sangsoo", sans-serif;
+  font-size: 1.6rem;
+  font-weight: 700;
+}
+
+.pop-animation {
+  animation: popText 0.4s ease-in-out;
+}
+
+.typewriter-text {
+  opacity: 1;
+  transition: opacity 0.3s ease;
+  white-space: nowrap;
+}
+
+.disabled {
+  pointer-events: none;
+}
+
+.disclaimer {
+  font-family: "Pretendard Variable", Pretendard, sans-serif;
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: silver;
+  text-align: center;
+}
+
+.disclaimer .ahn {
+  font-family: "Ahn Sangsoo", sans-serif;
+  font-weight: 700;
+}
+
+.disclaimer .karnak {
+  font-family: "NYTKarnakCondensed", sans-serif;
+}
+
+.dictionary-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.dictionary-container li {
+  display: block;
+  position: relative;
+  color: silver;
+}
+
+.dictionary-container li p {
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.dictionary-container li p:hover {
+  color: black;
+  cursor: pointer;
+}
+
+.dictionary-container li p.active {
+  color: black;
+}
+
+.dictionary-container .definition {
+  position: absolute;
+  left: 0px;
+  z-index: 1;
+  width: 300px;
+  padding: 1.5rem;
+  border-radius: 8px;
+  background-color: black;
+  font-family: "Pretendard Variable", Pretendard, sans-serif;
+  font-weight: 700;
+  font-size: 1rem;
+  line-height: 1.7;
+  word-break: keep-all;
+  color: white;
+  animation: popText 0.4s ease-in-out;
+}
+
+@keyframes popText {
+  0% {
+    transform: scale(0.9);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+@media screen and (max-width: 600px) {
+  :root {
+    --words-width: 100%;
+  }
+  .words {
+    font-size: 1.4rem;
+  }
+  #submit {
+    font-size: 0.9rem;
+  }
+  .dictionary-container .definition {
+    width: 200px;
+    padding: 1rem;
+  }
+  .section.dictionary {
+    font-size: 3rem;
+  }
+}
+
+::-webkit-scrollbar {
+  display: none;
+}

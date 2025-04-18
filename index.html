@@ -3,17 +3,52 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      as="style"
+      crossorigin
+      href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css"
+    />
+    <link rel="stylesheet" href="reset.css" />
+    <link rel="stylesheet" href="fonts.css" />
     <link rel="stylesheet" href="style.css" />
-    <title>관계들</title>
+    <title>관계들 - 월간 AG 랩 25년 4월호</title>
   </head>
 
   <body>
-    <main class="container">
-      <section class="section">
+    <header class="header">
+      <a href="index.html">
         <h1>관계들</h1>
-        <p>테스트</p>
+      </a>
+    </header>
+    <main class="main">
+      <section class="section game">
+        <div class="container">
+          <nav class="nav">
+            <button id="prevDay">&lt; 어제</button>
+            <h1 id="title"></h1>
+            <button id="nextDay">내일 &gt;</button>
+          </nav>
+        </div>
+        <div class="container">
+          <ul class="words"></ul>
+          <button id="submit"></button>
+        </div>
+        <div class="container">
+          <p class="disclaimer">
+            <span class="ahn">관계들</span>은 The New York Times의
+            <a href="https://www.nytimes.com/games/connections" target="_blank"
+              ><span class="karnak">Connections</span></a
+            >를 향한 사랑으로 쓰였습니다.
+          </p>
+        </div>
+      </section>
+
+      <section class="section dictionary">
+        <ul class="dictionary-container"></ul>
       </section>
     </main>
-    <script src="script.js"></script>
+    <script type="module" src="script.js"></script>
+    <script type="module" src="dictionary.js"></script>
   </body>
 </html>

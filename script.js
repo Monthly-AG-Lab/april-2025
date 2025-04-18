@@ -1,4 +1,5 @@
 import { animateTextContent, typeWriteContent } from "./textEffect.js";
+import { fetchData } from "./fetchData.js";
 
 const wordsContainer = document.querySelector(".words");
 const submitButton = document.querySelector("#submit");
@@ -16,8 +17,7 @@ let currentKey = ""; // 날짜 키
 
 // 데이터 불러오기
 const loadAllData = async () => {
-  const response = await fetch("assets/words.json");
-  const data = await response.json();
+  const data = await fetchData();
   allData = data;
 
   // 오늘의 데이터 처리

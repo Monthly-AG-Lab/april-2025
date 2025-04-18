@@ -57,3 +57,13 @@
   src: url("./assets/fonts/ahn-sangsoo-extra-bold.woff2") format("woff2"),
     url("./assets/fonts/ahn-sangsoo-extra-bold.woff") format("woff");
 }
+
+@font-face {
+  font-family: "NYTKarnakCondensed";
+  font-style: normal;
+  font-weight: 700;
+  src: url("https://db.onlinewebfonts.com/t/4789cf828c01b22acb9b2b73ee91aa0d.woff2")
+      format("woff2"),
+    url("https://db.onlinewebfonts.com/t/4789cf828c01b22acb9b2b73ee91aa0d.woff")
+      format("woff");
+}

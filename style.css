@@ -5,12 +5,16 @@
   --category-1-color: rgb(160, 195, 90);
   --category-2-color: rgb(176, 196, 239);
   --category-3-color: rgb(186, 129, 197);
+  --header-font-size: 1.6rem;
 }
 
+html,
 body {
   width: 100%;
-  background-color: seashell;
+  height: 100%;
+  background-color: whitesmoke;
   box-sizing: border-box;
+  overflow: hidden;
 }
 
 a {
@@ -31,27 +35,48 @@ button {
 
 .header h1 {
   font-family: "Ahn Sangsoo", sans-serif;
-  font-size: 1.6rem;
+  font-size: var(--header-font-size);
   font-weight: 700;
 }
 
 .main {
   width: 100%;
-  height: 100%;
+  height: calc(100vh - var(--header-font-size) - 2rem);
   padding: 1rem;
+  overflow-y: auto;
+  scroll-snap-type: y mandatory;
+}
+
+.section {
+  width: 100%;
+  height: calc(100vh - var(--header-font-size) - 2rem);
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  scroll-snap-align: start;
 }
 
-.section {
+.section.game {
+  padding-bottom: 3rem;
+  gap: 3rem;
+}
+
+.section.dictionary {
+  font-family: "Ahn Sangsoo", sans-serif;
+  font-weight: 700;
+  font-size: 5rem;
+  width: 100%;
+  display: block;
+  height: 100vh;
+}
+
+.container {
   display: flex;
   width: var(--words-width);
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-top: 5rem;
 }
 
 .words {
@@ -187,9 +212,54 @@ li.active {
 
 .disclaimer .ahn {
   font-family: "Ahn Sangsoo", sans-serif;
-  font-size: 0.8rem;
   font-weight: 700;
+}
+
+.disclaimer .karnak {
+  font-family: "NYTKarnakCondensed", sans-serif;
+}
+
+.dictionary-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.dictionary-container li {
+  display: block;
+  position: relative;
   color: silver;
+}
+
+.dictionary-container li p {
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.dictionary-container li p:hover {
+  color: black;
+  cursor: pointer;
+}
+
+.dictionary-container li p.active {
+  color: black;
+}
+
+.dictionary-container .definition {
+  position: absolute;
+  left: 0px;
+  z-index: 1;
+  width: 300px;
+  padding: 1.5rem;
+  border-radius: 8px;
+  background-color: black;
+  font-family: "Pretendard Variable", Pretendard, sans-serif;
+  font-weight: 700;
+  font-size: 1rem;
+  line-height: 1.7;
+  word-break: keep-all;
+  color: white;
+  animation: popText 0.4s ease-in-out;
 }
 
 @keyframes popText {
@@ -214,4 +284,15 @@ li.active {
   #submit {
     font-size: 0.9rem;
   }
+  .dictionary-container .definition {
+    width: 200px;
+    padding: 1rem;
+  }
+  .section.dictionary {
+    font-size: 3rem;
+  }
+}
+
+::-webkit-scrollbar {
+  display: none;
 }

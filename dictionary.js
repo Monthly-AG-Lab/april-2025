@@ -1,5 +1,6 @@
 import { fetchData } from "./fetchData.js";
 
+const dictionarySection = document.querySelector(".section.dictionary");
 const dictionaryContainer = document.querySelector(".dictionary-container");
 
 const wordList = {};
@@ -49,38 +50,54 @@ const createDictionary = async () => {
 };
 
 const onWordClick = (event) => {
-  const target = event.target;
-  const wordInfo = wordList[target.textContent];
+  const target = event.target; // ex. <p>계이름</p>
+  const targetWord = target.textContent; // ex. 계이름
+  console.log(targetWord);
+  console.log(targetWord.length);
+  console.log(target);
+  const wordInfo = wordList[targetWord];
 
-  if (target.parentElement.querySelector(".definition")) {
-    target.parentElement.querySelector(".definition").remove();
+  if (target.classList.contains("active")) {
+    target.textContent = targetWord;
     target.classList.remove("active");
     return;
   }
 
   target.classList.add("active");
 
-  const box = document.createElement("div");
-  box.classList.add("definition");
-
   wordInfo.forEach((info) => {
-    box.innerHTML += `${info.connectedWords.join(", ")}${
+    target.textContent += `${
+      hasBatchim(targetWord) ? "은" : "는"
+    } ${info.connectedWords.join(", ")}${
       hasBatchim(info.connectedWords[2]) ? "과" : "와"
     } 〈${info.category}〉${
       hasBatchimForRo(info.category) ? "으로" : "로"
     } 하나가 됩니다. (${info.date.substring(0, 10).replace(/-/g, ".")})`;
   });
 
-  target.parentElement.appendChild(box);
+  // const box = document.createElement("div");
+  // box.classList.add("definition");
 
-  const definitionWidth = box.offsetWidth;
-  const wordRect = target.getBoundingClientRect();
-  const viewportWidth = window.innerWidth;
-  const wordLeft = wordRect.left;
+  // wordInfo.forEach((info) => {
+  //   box.innerHTML += `${target.textContent}는 ${info.connectedWords.join(
+  //     ", "
+  //   )}${hasBatchim(info.connectedWords[2]) ? "과" : "와"} 〈${info.category}〉${
+  //     hasBatchimForRo(info.category) ? "으로" : "로"
+  //   } 하나가 됩니다. (${info.date.substring(0, 10).replace(/-/g, ".")})`;
+  // });
 
-  if (wordLeft + definitionWidth > viewportWidth) {
-    box.style.right = "0px";
-  }
+  // // target.parentElement.appendChild(box);
+  // dictionarySection.appendChild(box);
+
+  // const definitionWidth = box.offsetWidth;
+  // const wordRect = target.getBoundingClientRect();
+  // const viewportWidth = window.innerWidth;
+  // const wordLeft = wordRect.left;
+
+  // if (wordLeft + definitionWidth > viewportWidth) {
+  //   box.style.right = "0px !important";
+  //   console.log("overflow");
+  // }
   // console.log(viewportWidth);
 
   // const idealLeft = wordRect.left;

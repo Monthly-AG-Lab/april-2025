@@ -30,6 +30,7 @@ button {
 }
 
 .header {
+  position: sticky;
   padding: 1rem;
 }
 
@@ -41,7 +42,7 @@ button {
 
 .main {
   width: 100%;
-  height: calc(100vh - var(--header-font-size) - 2rem);
+  height: calc(100dvh - var(--header-font-size) - 2rem);
   padding: 1rem;
   overflow-y: auto;
   scroll-snap-type: y mandatory;
@@ -49,7 +50,7 @@ button {
 
 .section {
   width: 100%;
-  height: calc(100vh - var(--header-font-size) - 2rem);
+  height: calc(100dvh - var(--header-font-size) - 2rem);
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -58,7 +59,7 @@ button {
 }
 
 .section.game {
-  padding-bottom: 3rem;
+  padding-bottom: 0rem;
   gap: 3rem;
 }
 
@@ -68,7 +69,7 @@ button {
   font-size: 5rem;
   width: 100%;
   display: block;
-  height: 100vh;
+  height: 100dvh;
 }
 
 .container {
@@ -188,6 +189,11 @@ li.active {
   font-weight: 700;
 }
 
+#prevDay:enabled,
+#nextDay:enabled {
+  color: black;
+}
+
 .pop-animation {
   animation: popText 0.4s ease-in-out;
 }
@@ -289,7 +295,13 @@ li.active {
     padding: 1rem;
   }
   .section.dictionary {
-    font-size: 3rem;
+    font-size: 2.5rem;
+  }
+  .section.game {
+    gap: 1.5rem;
+  }
+  .disclaimer {
+    font-size: 0.6rem;
   }
 }
 

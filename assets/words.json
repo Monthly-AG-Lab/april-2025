@@ -177,5 +177,184 @@
         "category": 2
       }
     ]
+  },
+  "20250420": {
+    "date": "2025-04-20T00:00:00.000Z",
+    "title": "2025.04.20",
+    "categories": [
+      "천만 관객 돌파 영화",
+      "바둑에서 유래한",
+      "신문에서 볼 수 있는",
+      "-효과"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "정석",
+        "category": 1
+      },
+      {
+        "index": 1,
+        "content": "온실",
+        "category": 3
+      },
+      {
+        "index": 2,
+        "content": "암살",
+        "category": 0
+      },
+      {
+        "index": 3,
+        "content": "초읽기",
+        "category": 1
+      },
+      {
+        "index": 4,
+        "content": "기사",
+        "category": 2
+      },
+      {
+        "index": 5,
+        "content": "괴물",
+        "category": 0
+      },
+      {
+        "index": 6,
+        "content": "나비",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "해운대",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "날짜",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "자충수",
+        "category": 1
+      },
+      {
+        "index": 10,
+        "content": "착시",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "복기",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "베테랑",
+        "category": 0
+      },
+      {
+        "index": 13,
+        "content": "특수",
+        "category": 3
+      },
+      {
+        "index": 14,
+        "content": "만화",
+        "category": 2
+      },
+      {
+        "index": 15,
+        "content": "부고",
+        "category": 2
+      }
+    ]
+  },
+  "20250421": {
+    "date": "2025-04-21T00:00:00.000Z",
+    "title": "2025.04.21",
+    "categories": ["한국어 조사", "액체를 담는", "십이간지", "-옷"],
+    "words": [
+      {
+        "index": 0,
+        "content": "갑",
+        "category": 3
+      },
+      {
+        "index": 1,
+        "content": "을",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "병",
+        "category": 1
+      },
+      {
+        "index": 3,
+        "content": "속",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "은",
+        "category": 0
+      },
+      {
+        "index": 5,
+        "content": "미",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "신",
+        "category": 2
+      },
+      {
+        "index": 7,
+        "content": "캔",
+        "category": 1
+      },
+      {
+        "index": 8,
+        "content": "술",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "비",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "이",
+        "category": 0
+      },
+      {
+        "index": 11,
+        "content": "통",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "컵",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "잠",
+        "category": 3
+      },
+      {
+        "index": 14,
+        "content": "해",
+        "category": 2
+      },
+      {
+        "index": 15,
+        "content": "도",
+        "category": 0
+      }
+    ]
   }
 }

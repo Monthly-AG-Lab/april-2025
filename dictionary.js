@@ -3,13 +3,21 @@ import { fetchData } from "./fetchData.js";
 const dictionaryContainer = document.querySelector(".dictionary-container");
 
 const wordList = {};
+let allData = {}; // 오늘까지의 전체 데이터
 
 const createDictionary = async () => {
   const data = await fetchData();
+  const today = new Date().setHours(0, 0, 0, 0);
+  allData = Object.fromEntries(
+    Object.entries(data).filter(([key, value]) => {
+      const entryDate = new Date(value.date);
+      entryDate.setHours(0, 0, 0, 0);
+      return entryDate.getTime() <= today;
+    })
+  );
 
   // 단어 리스트 생성
-  for (const [key, value] of Object.entries(data)) {
-    console.log(value);
+  for (const [key, value] of Object.entries(allData)) {
     value.words.forEach((word) => {
       if (!wordList[word.content]) wordList[word.content] = [];
 
@@ -24,8 +32,6 @@ const createDictionary = async () => {
       });
     });
   }
-
-  console.log(wordList);
 
   // 가나다순 정렬
   const keys = Object.keys(wordList);
@@ -44,7 +50,6 @@ const createDictionary = async () => {
 
 const onWordClick = (event) => {
   const target = event.target;
-  console.log(target);
   const wordInfo = wordList[target.textContent];
 
   if (target.parentElement.querySelector(".definition")) {

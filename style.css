@@ -14,7 +14,7 @@ body {
   height: 100%;
   background-color: whitesmoke;
   box-sizing: border-box;
-  overflow: hidden;
+  overflow-y: auto;
 }
 
 a {
@@ -42,10 +42,9 @@ button {
 
 .main {
   width: 100%;
-  height: calc(100dvh - var(--header-font-size) - 2rem);
+  /* height: calc(100dvh - var(--header-font-size) - 2rem); */
   padding: 1rem;
-  overflow-y: auto;
-  scroll-snap-type: y mandatory;
+  /* scroll-snap-type: y mandatory; */
 }
 
 .section {
@@ -55,7 +54,7 @@ button {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  scroll-snap-align: start;
+  /* scroll-snap-align: start; */
 }
 
 .section.game {
@@ -64,12 +63,13 @@ button {
 }
 
 .section.dictionary {
+  padding-top: 2rem;
   font-family: "Ahn Sangsoo", sans-serif;
   font-weight: 700;
-  font-size: 5rem;
+  font-size: 4rem;
   width: 100%;
   display: block;
-  height: 100dvh;
+  min-height: 100dvh;
 }
 
 .container {
@@ -232,8 +232,6 @@ li.active {
 }
 
 .dictionary-container li {
-  display: block;
-  position: relative;
   color: silver;
 }
 
@@ -303,8 +301,4 @@ li.active {
   .disclaimer {
     font-size: 0.6rem;
   }
-}
-
-::-webkit-scrollbar {
-  display: none;
 }

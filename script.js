@@ -9,7 +9,7 @@ const nextButton = document.querySelector("#nextDay");
 
 let wordsCounter = 0; // 선택된 단어 개수
 let answerCount = 0; // 정답 블록 개수 (최대 4)
-let allData = {}; // 전체 데이터
+let allData = {}; // 오늘까지의 전체 데이터
 let wordsData = []; // 오늘의 단어 데이터
 let titleData = ""; // 오늘의 제목 데이터
 let categoriesData = []; // 오늘의 카테고리 데이터
@@ -18,14 +18,24 @@ let currentKey = ""; // 날짜 키
 // 데이터 불러오기
 const loadAllData = async () => {
   const data = await fetchData();
-  allData = data;
+  const today = new Date().setHours(0, 0, 0, 0);
+  allData = Object.fromEntries(
+    Object.entries(data).filter(([key, value]) => {
+      const entryDate = new Date(value.date);
+      entryDate.setHours(0, 0, 0, 0);
+      return entryDate.getTime() <= today;
+    })
+  );
 
   // 오늘의 데이터 처리
   const todayString = new Date().toISOString().split("T")[0].replace(/-/g, ""); // ex. 20250418
-  currentKey = todayString;
+
+  currentKey = allData[todayString]
+    ? todayString
+    : Object.keys(allData)[Object.keys(allData).length - 1];
   const todayData = allData[todayString]
     ? allData[todayString]
-    : Object.values(data)[Object.values(data).length - 1];
+    : Object.values(allData)[Object.values(allData).length - 1];
   renderWords(todayData);
 
   // 어제, 내일 UI 처리

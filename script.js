@@ -169,6 +169,38 @@ const handleCorrect = (selectedWords) => {
     if (answerCount === 4) {
       submitButton.disabled = true;
       animateTextContent(submitButton, "모든 관계를 맺었습니다!");
+
+      // 정답 정렬
+      const answerBlocks = document.querySelectorAll(".answer-block");
+      const sortedBlocks = Array.from(answerBlocks).sort(
+        (a, b) => a.dataset.categoryId - b.dataset.categoryId
+      );
+      console.log(sortedBlocks);
+
+      const oldPositions = new Map();
+      sortedBlocks.forEach((block) => {
+        const rect = block.getBoundingClientRect();
+        oldPositions.set(block, rect);
+      });
+
+      sortedBlocks.forEach((block) => wordsContainer.appendChild(block));
+      sortedBlocks.forEach((block) => {
+        const oldRect = oldPositions.get(block);
+        const newRect = block.getBoundingClientRect();
+
+        const deltaX = oldRect.left - newRect.left;
+        const deltaY = oldRect.top - newRect.top;
+
+        block.style.transition = "none";
+        block.style.transform = `translate(${deltaX}px, ${deltaY}px)`;
+
+        block.getBoundingClientRect();
+
+        requestAnimationFrame(() => {
+          block.style.transition = "transform 0.8s ease";
+          block.style.transform = "translate(0, 0)";
+        });
+      });
     } else {
       submitButton.disabled = false;
       animateTextContent(submitButton, "관계를 맺었습니다.");
@@ -213,6 +245,7 @@ const createAnswerBlock = (selectedWords) => {
   ).category;
 
   answerBlock.classList.add(`category-${categoryId}`);
+  answerBlock.dataset.categoryId = categoryId;
 
   const categoryName = categoriesData[categoryId];
 

@@ -100,6 +100,8 @@ const moveDay = (direction) => {
   } else {
     nextButton.disabled = false;
   }
+  submitButton.disabled = false;
+  submitButton.style.backgroundColor = "";
 };
 
 // 정답 시 실행되는 함수

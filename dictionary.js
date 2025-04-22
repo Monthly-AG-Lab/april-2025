@@ -3,7 +3,7 @@ import { fetchData } from "./fetchData.js";
 const dictionarySection = document.querySelector(".section.dictionary");
 const dictionaryContainer = document.querySelector(".dictionary-container");
 
-const wordList = {};
+const wordList = {}; // 사전 데이터
 let allData = {}; // 오늘까지의 전체 데이터
 
 const createDictionary = async () => {
@@ -33,15 +33,18 @@ const createDictionary = async () => {
       });
     });
   }
+  console.log(wordList);
 
   // 가나다순 정렬
   const keys = Object.keys(wordList);
   keys.sort((a, b) => a.localeCompare(b, "ko"));
 
-  // 사전에 렌더링
+  // 단어들 사전에 렌더링
   keys.forEach((key) => {
     const li = document.createElement("li");
     const p = document.createElement("p");
+    p.classList.add("word");
+    p.dataset.word = key;
     p.textContent = key;
     li.appendChild(p);
     dictionaryContainer.appendChild(li);
@@ -50,21 +53,20 @@ const createDictionary = async () => {
 };
 
 const onWordClick = (event) => {
-  const target = event.target; // ex. <p>계이름</p>
-  const targetWord = target.textContent; // ex. 계이름
-  console.log(targetWord);
-  console.log(targetWord.length);
-  console.log(target);
-  const wordInfo = wordList[targetWord];
+  const target = event.target;
 
-  if (target.classList.contains("active")) {
+  if (!target || !target.classList.contains("word")) return;
+
+  const targetWord = target.dataset.word;
+
+  if (target && target.classList.contains("active")) {
     target.textContent = targetWord;
     target.classList.remove("active");
     return;
   }
+  const wordInfo = wordList[targetWord];
 
   target.classList.add("active");
-
   wordInfo.forEach((info) => {
     target.textContent += `${
       hasBatchim(targetWord) ? "은" : "는"
@@ -74,47 +76,6 @@ const onWordClick = (event) => {
       hasBatchimForRo(info.category) ? "으로" : "로"
     } 하나가 됩니다. (${info.date.substring(0, 10).replace(/-/g, ".")})`;
   });
-
-  // const box = document.createElement("div");
-  // box.classList.add("definition");
-
-  // wordInfo.forEach((info) => {
-  //   box.innerHTML += `${target.textContent}는 ${info.connectedWords.join(
-  //     ", "
-  //   )}${hasBatchim(info.connectedWords[2]) ? "과" : "와"} 〈${info.category}〉${
-  //     hasBatchimForRo(info.category) ? "으로" : "로"
-  //   } 하나가 됩니다. (${info.date.substring(0, 10).replace(/-/g, ".")})`;
-  // });
-
-  // // target.parentElement.appendChild(box);
-  // dictionarySection.appendChild(box);
-
-  // const definitionWidth = box.offsetWidth;
-  // const wordRect = target.getBoundingClientRect();
-  // const viewportWidth = window.innerWidth;
-  // const wordLeft = wordRect.left;
-
-  // if (wordLeft + definitionWidth > viewportWidth) {
-  //   box.style.right = "0px !important";
-  //   console.log("overflow");
-  // }
-  // console.log(viewportWidth);
-
-  // const idealLeft = wordRect.left;
-  // const idealRight = wordRect.right;
-  // console.log(idealRight);
-  // console.log(idealLeft);
-
-  // if (idealLeft + definitionWidth > viewportWidth) {
-  //   box.style.right = `${viewportWidth - idealRight}px`;
-  // } else {
-  //   box.style.left = `${idealLeft}px`;
-  // }
-  // box.style.top = `${wordRect.bottom + 5}px`;
-
-  // console.log(box.style.left);
-  // console.log(box.style.top);
-  // console.log(box.style.right);
 };
 
 document.addEventListener("DOMContentLoaded", () => {

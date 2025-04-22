@@ -443,5 +443,97 @@
         "category": 0
       }
     ]
+  },
+  "20250423": {
+    "date": "2025-04-23T00:00:00.000Z",
+    "title": "2025.04.23",
+    "categories": [
+      "영화의 장르",
+      "게시판의 기능",
+      "식당에서 볼 수 있는",
+      "동사의 어간"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "코미디",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "굽",
+        "category": 3
+      },
+      {
+        "index": 2,
+        "content": "뚝배기",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "수정",
+        "category": 1
+      },
+      {
+        "index": 4,
+        "content": "휴지",
+        "category": 2
+      },
+      {
+        "index": 5,
+        "content": "망치",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "액션",
+        "category": 0
+      },
+      {
+        "index": 7,
+        "content": "수저",
+        "category": 2
+      },
+      {
+        "index": 8,
+        "content": "생성",
+        "category": 1
+      },
+      {
+        "index": 9,
+        "content": "먹",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "배우",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "조회",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "공포",
+        "category": 0
+      },
+      {
+        "index": 13,
+        "content": "삭제",
+        "category": 1
+      },
+      {
+        "index": 14,
+        "content": "벨",
+        "category": 2
+      },
+      {
+        "index": 15,
+        "content": "드라마",
+        "category": 0
+      }
+    ]
   }
 }

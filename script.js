@@ -217,7 +217,7 @@ const handleOneAway = () => {
   submitButton.disabled = true;
   setTimeout(() => {
     submitButton.disabled = false;
-    animateTextContent(submitButton, "관계를 거의 다 맺었습니다.");
+    animateTextContent(submitButton, "거의 다 왔습니다...");
     // submitButton.style.backgroundColor = "darkorange";
   }, 1800);
 };

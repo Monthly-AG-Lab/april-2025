@@ -217,7 +217,7 @@ const handleOneAway = () => {
   submitButton.disabled = true;
   setTimeout(() => {
     submitButton.disabled = false;
-    animateTextContent(submitButton, "관계를 거의 다 맺었습니다.");
+    animateTextContent(submitButton, "거의 다 왔습니다...");
     // submitButton.style.backgroundColor = "darkorange";
   }, 1800);
 };
@@ -285,7 +285,9 @@ const onWordClick = (event) => {
 };
 
 // 정답 확인 시 로직
-const onSubmit = () => {
+const onSubmit = (e) => {
+  e.preventDefault();
+
   // 선택된 단어 DOM element
   const selectedWords = document.querySelectorAll(".words li.active");
   // 4개 선택되지 않았을 경우 return
@@ -295,6 +297,7 @@ const onSubmit = () => {
     return;
   }
 
+  submitButton.style.backgroundColor = "";
   typeWriteContent(submitButton, "관계를 맺고 있습니다...");
 
   // category(정답) 숫자 array
@@ -338,6 +341,9 @@ document.addEventListener("DOMContentLoaded", () => {
   loadAllData();
 
   submitButton.textContent = "관계 맺기";
+  submitButton.addEventListener("mousedown", (e) => {
+    e.preventDefault();
+  });
   submitButton.addEventListener("click", onSubmit);
 
   prevButton.addEventListener("click", () => {

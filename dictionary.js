@@ -41,14 +41,12 @@ const createDictionary = async () => {
 
   // 단어들 사전에 렌더링
   keys.forEach((key) => {
-    const li = document.createElement("li");
-    const p = document.createElement("p");
-    p.classList.add("word");
-    p.dataset.word = key;
-    p.textContent = key;
-    li.appendChild(p);
-    dictionaryContainer.appendChild(li);
-    p.addEventListener("click", onWordClick);
+    const span = document.createElement("span");
+    span.classList.add("word");
+    span.dataset.word = key;
+    span.textContent = key;
+    dictionaryContainer.appendChild(span);
+    span.addEventListener("click", onWordClick);
   });
 };
 
@@ -74,7 +72,7 @@ const onWordClick = (event) => {
       hasBatchim(info.connectedWords[2]) ? "과" : "와"
     } 〈${info.category}〉${
       hasBatchimForRo(info.category) ? "으로" : "로"
-    } 하나가 됩니다. (${info.date.substring(0, 10).replace(/-/g, ".")})`;
+    } 하나가 됩니다(${info.date.substring(0, 10).replace(/-/g, ".")})`;
   });
 };
 

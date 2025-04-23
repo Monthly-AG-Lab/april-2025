@@ -114,6 +114,8 @@ button {
   cursor: pointer;
   background-color: gainsboro;
   border-radius: 8px;
+  user-select: none;
+  -webkit-user-select: none;
 }
 
 li.correct {
@@ -129,15 +131,23 @@ li.active {
 #submit {
   width: 100%;
   height: 60px;
+  outline: none;
   border: none;
   border-radius: 30px;
-  outline: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   background-color: black;
   color: white;
+  font-family: "Pretendard Variable", Pretendard, sans-serif;
   font-size: 1rem;
   font-weight: 700;
   letter-spacing: normal;
   cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
 }
 
 #submit:disabled {
@@ -198,7 +208,7 @@ li.active {
 #nextDay,
 #title {
   font-family: "Ahn Sangsoo", sans-serif;
-  font-size: 1.6rem;
+  font-size: 1.5rem;
   font-weight: 700;
 }
 
@@ -239,44 +249,26 @@ li.active {
 }
 
 .dictionary-container {
-  display: flex;
+  /* display: flex;
   flex-wrap: wrap;
-  gap: 0.5rem;
+  gap: 0.5rem; */
+  line-height: 1.5;
 }
 
-.dictionary-container li {
+.dictionary-container span {
   color: silver;
-}
-
-.dictionary-container li p {
   user-select: none;
   -webkit-user-select: none;
+  margin-right: 0.5rem;
 }
 
-.dictionary-container li p:hover {
+.dictionary-container span:hover {
   color: black;
   cursor: pointer;
 }
 
-.dictionary-container li p.active {
+.dictionary-container span.active {
   color: black;
-}
-
-.dictionary-container .definition {
-  position: absolute;
-  left: 0px;
-  z-index: 1;
-  width: 300px;
-  padding: 1.5rem;
-  border-radius: 8px;
-  background-color: black;
-  font-family: "Pretendard Variable", Pretendard, sans-serif;
-  font-weight: 700;
-  font-size: 1rem;
-  line-height: 1.7;
-  word-break: keep-all;
-  color: white;
-  animation: popText 0.4s ease-in-out;
 }
 
 @keyframes popText {
@@ -300,10 +292,6 @@ li.active {
   }
   #submit {
     font-size: 0.9rem;
-  }
-  .dictionary-container .definition {
-    width: 200px;
-    padding: 1rem;
   }
   .section.dictionary {
     font-size: 2rem;

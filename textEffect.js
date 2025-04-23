@@ -12,7 +12,7 @@ const animateTextContent = (element, newText) => {
 // 텍스트 효과: Typewriter
 const typeWriteContent = (element, newText, speed = 50) => {
   element.textContent = "";
-  element.classList.add("typewriter-text");
+  // element.classList.add("typewriter-text");
 
   let index = 0;
 

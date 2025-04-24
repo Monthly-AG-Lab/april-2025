@@ -1,7 +1,7 @@
 {
   "20250418": {
     "date": "2025-04-18T00:00:00.000Z",
-    "title": "2025년 4월 18일",
+    "title": "2025년 4월 18일의 관계들",
     "categories": ["문학의 갈래", "야구를 하기 위한", "검고 흰", "돌-"],
     "words": [
       {
@@ -88,7 +88,7 @@
   },
   "20250419": {
     "date": "2025-04-19T00:00:00.000Z",
-    "title": "2025년 4월 19일",
+    "title": "2025년 4월 19일의 관계들",
     "categories": [
       "일곱 개가 하나",
       "고정하기 위한",
@@ -180,7 +180,7 @@
   },
   "20250420": {
     "date": "2025-04-20T00:00:00.000Z",
-    "title": "2025년 4월 20일",
+    "title": "2025년 4월 20일의 관계들",
     "categories": [
       "천만 관객 돌파 영화",
       "바둑에서 유래한",
@@ -272,7 +272,7 @@
   },
   "20250421": {
     "date": "2025-04-21T00:00:00.000Z",
-    "title": "2025년 4월 21일",
+    "title": "2025년 4월 21일의 관계들",
     "categories": ["한국어 조사", "액체를 담는", "십이간지", "-옷"],
     "words": [
       {
@@ -359,7 +359,7 @@
   },
   "20250422": {
     "date": "2025-04-22T00:00:00.000Z",
-    "title": "2025년 4월 22일",
+    "title": "2025년 4월 22일의 관계들",
     "categories": ["빛을 내는", "할로윈", "콩으로 만들 수 있는", "책-"],
     "words": [
       {
@@ -446,7 +446,7 @@
   },
   "20250423": {
     "date": "2025-04-23T00:00:00.000Z",
-    "title": "2025년 4월 23일",
+    "title": "2025년 4월 23일의 관계들",
     "categories": [
       "영화의 장르",
       "게시판의 기능",
@@ -538,7 +538,7 @@
   },
   "20250424": {
     "date": "2025-04-24T00:00:00.000Z",
-    "title": "2025년 4월 24일",
+    "title": "2025년 4월 24일의 관계들",
     "categories": ["수학 시간", "단군 신화", "끝말잇기", "좌우 대칭"],
     "words": [
       {
@@ -625,7 +625,7 @@
   },
   "20250425": {
     "date": "2025-04-25T00:00:00.000Z",
-    "title": "2025년 4월 25일",
+    "title": "2025년 4월 25일의 관계들",
     "categories": [
       "추억의 놀이",
       "환경 설정",
@@ -712,6 +712,185 @@
         "index": 15,
         "content": "밝기",
         "category": 1
+      }
+    ]
+  },
+  "20250426": {
+    "date": "2025-04-26T00:00:00.000Z",
+    "title": "2025년 4월 26일의 관계들",
+    "categories": [
+      "사군자",
+      "마녀와 마법사",
+      "애국가에 등장하는",
+      "사자성어의 뒤 두 글자"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "망토",
+        "category": 1
+      },
+      {
+        "index": 1,
+        "content": "국화",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "가상",
+        "category": 3
+      },
+      {
+        "index": 3,
+        "content": "가을",
+        "category": 2
+      },
+      {
+        "index": 4,
+        "content": "무궁화",
+        "category": 2
+      },
+      {
+        "index": 5,
+        "content": "빗자루",
+        "category": 1
+      },
+      {
+        "index": 6,
+        "content": "마비",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "난방",
+        "category": 3
+      },
+      {
+        "index": 8,
+        "content": "난초",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "유서",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "대나무",
+        "category": 0
+      },
+      {
+        "index": 11,
+        "content": "소나무",
+        "category": 2
+      },
+      {
+        "index": 12,
+        "content": "모자",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "백두산",
+        "category": 2
+      },
+      {
+        "index": 14,
+        "content": "지팡이",
+        "category": 1
+      },
+      {
+        "index": 15,
+        "content": "매화",
+        "category": 0
+      }
+    ]
+  },
+  "20250427": {
+    "date": "2025-04-27T00:00:00.000Z",
+    "title": "2025년 4월 27일의 관계들",
+    "categories": ["계이름", "원통형", "한국어 수사", "알파벳"],
+    "words": [
+      {
+        "index": 0,
+        "content": "도",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "미",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "솔",
+        "category": 0
+      },
+      {
+        "index": 3,
+        "content": "씨",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "알",
+        "category": 3
+      },
+      {
+        "index": 5,
+        "content": "필름",
+        "category": 1
+      },
+      {
+        "index": 6,
+        "content": "열",
+        "category": 2
+      },
+      {
+        "index": 7,
+        "content": "아이",
+        "category": 3
+      },
+      {
+        "index": 8,
+        "content": "통조림",
+        "category": 1
+      },
+      {
+        "index": 9,
+        "content": "한",
+        "category": 2
+      },
+      {
+        "index": 10,
+        "content": "쥐",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "분필",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "여덟",
+        "category": 2
+      },
+      {
+        "index": 13,
+        "content": "파",
+        "category": 0
+      },
+      {
+        "index": 14,
+        "content": "건전지",
+        "category": 1
+      },
+      {
+        "index": 15,
+        "content": "네",
+        "category": 2
       }
     ]
   }

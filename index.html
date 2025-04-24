@@ -12,42 +12,52 @@
     <link rel="stylesheet" href="reset.css" />
     <link rel="stylesheet" href="fonts.css" />
     <link rel="stylesheet" href="style.css" />
-    <title>관계들 - 월간 AG 랩 25년 4월호</title>
+    <title>관계들</title>
   </head>
 
   <body>
-    <header class="header">
+    <!-- <header class="header">
       <a href="index.html">
         <h1>관계들</h1>
       </a>
       <div class="links">
         <a href="#dictionary">
-          <!-- <i class="ri-book-marked-line"></i> -->
-          <h1>찾아보기</h1>
-        </a>
-        <a
-          href="http://lab.ag.co.kr/hyperlinks/gwangyedeul?token=1bf2b29a5c33216c2952cbee94028ab0588f6b82"
-          target="_blank"
-        >
-          <!-- <i class="ri-arrow-right-up-line"></i> -->
-          <h1>랩</h1>
-        </a>
-      </div>
-    </header>
+        
+    <h1>찾아보기</h1>
+    </a>
+    <a href="http://lab.ag.co.kr/hyperlinks/gwangyedeul?token=1bf2b29a5c33216c2952cbee94028ab0588f6b82" target="_blank">
+     
+        <h1>랩</h1>
+    </a>
+    </div>
+    </header> -->
     <main class="main">
       <section class="section game">
-        <div class="container">
+        <div class="container nav">
           <nav class="nav">
-            <button id="prevDay">&lt; 어제</button>
+            <button id="prevDay">어제</button>
             <h1 id="title"></h1>
-            <button id="nextDay">내일 &gt;</button>
+            <button id="nextDay">내일</button>
           </nav>
         </div>
-        <div class="container">
+        <div class="container game">
           <ul class="words"></ul>
           <button id="submit"></button>
+          <div class="additional-buttons">
+            <a class="button" href="dictionary.html" target="_blank"
+              >찾아보기</a
+            >
+            <a
+              href="http://lab.ag.co.kr/hyperlinks/gwangyedeul?token=1bf2b29a5c33216c2952cbee94028ab0588f6b82"
+              target="_blank"
+              class="button"
+            >
+              소개
+            </a>
+          </div>
         </div>
-        <div class="container">
+
+        <div class="container disclaimer">
           <p class="disclaimer">
             <span class="ahn">관계들</span>은 The New York Times의
             <a href="https://www.nytimes.com/games/connections" target="_blank"
@@ -57,11 +67,10 @@
         </div>
       </section>
 
-      <section class="section dictionary" id="dictionary">
+      <!-- <section class="section dictionary" id="dictionary">
         <div class="dictionary-container"></div>
-      </section>
+      </section> -->
     </main>
     <script type="module" src="script.js"></script>
-    <script type="module" src="dictionary.js"></script>
   </body>
 </html>

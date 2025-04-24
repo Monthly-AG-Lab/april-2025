@@ -1,10 +1,14 @@
 :root {
   --words-gap: 0.4rem;
-  --words-width: 38rem;
+  --words-width: 32rem;
   --category-0-color: rgb(249, 223, 109);
   --category-1-color: rgb(160, 195, 90);
   --category-2-color: rgb(176, 196, 239);
   --category-3-color: rgb(186, 129, 197);
+  /* --category-0-color: linear-gradient(rgb(249, 223, 109), rgb(160, 195, 90));
+  --category-1-color: linear-gradient(rgb(160, 195, 90), rgb(176, 196, 239));
+  --category-2-color: linear-gradient(rgb(176, 196, 239), rgb(186, 129, 197));
+  --category-3-color: linear-gradient(rgb(186, 129, 197), rgb(186, 129, 197)); */
   --header-font-size: 1.6rem;
 }
 
@@ -14,6 +18,10 @@ body {
   height: 100%;
   background-color: whitesmoke;
   box-sizing: border-box;
+  overflow-y: hidden;
+}
+
+.body.dictionary {
   overflow-y: auto;
 }
 
@@ -31,65 +39,27 @@ button {
   -webkit-user-select: none;
 }
 
-.header {
-  width: 100%;
-  background-color: whitesmoke;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  position: sticky;
-  top: 0;
-  left: 0;
-  padding: 1rem;
-}
-
-.header h1 {
-  font-family: "Ahn Sangsoo", sans-serif;
-  font-size: var(--header-font-size);
-  font-weight: 700;
-}
-
-.header i {
-  font-size: 1.5rem;
-}
-
-.header .links {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 2rem;
-}
-
 .main {
   width: 100%;
-  /* height: calc(100dvh - var(--header-font-size) - 2rem); */
+  height: 100dvh;
   padding: 1rem;
-  /* scroll-snap-type: y mandatory; */
 }
 
 .section {
   width: 100%;
-  height: calc(100dvh - var(--header-font-size) - 2rem);
+  height: 100%;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  /* scroll-snap-align: start; */
-}
-
-.section.game {
-  padding-bottom: 5rem;
-  gap: 3rem;
 }
 
 .section.dictionary {
-  padding-top: calc(var(--header-font-size) + 3rem);
   font-family: "Ahn Sangsoo", sans-serif;
   font-weight: 700;
-  font-size: 2rem;
+  font-size: 4rem;
   width: 100%;
   display: block;
-  min-height: 100dvh;
 }
 
 .container {
@@ -100,12 +70,31 @@ button {
   align-items: center;
 }
 
+.container.nav {
+  width: var(--words-width);
+  margin-bottom: 1.5rem;
+}
+
+.container.disclaimer {
+  margin-top: 3rem;
+}
+
+.container.title h1 {
+  font-family: "Ahn Sangsoo", sans-serif;
+  font-size: 2rem;
+  font-weight: 700;
+}
+
 .words {
-  display: flex;
+  /* display: flex;
   flex-wrap: wrap;
   width: var(--words-width);
-  gap: var(--words-gap);
-  margin-bottom: 2rem;
+  gap: var(--words-gap); */
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  /* gap: var(--words-gap); */
+  width: 100%;
+  margin-bottom: 1rem;
   font-family: "Ahn Sangsoo", sans-serif;
   font-weight: 700;
   font-size: 1.6rem;
@@ -115,12 +104,12 @@ button {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: calc((var(--words-width) - var(--words-gap) * 3) / 4);
-  height: 80px;
+  /* width: calc((var(--words-width) - var(--words-gap) * 3) / 4); */
+  aspect-ratio: 1/1;
   list-style: none;
   cursor: pointer;
   background-color: gainsboro;
-  border-radius: 8px;
+  color: black;
   user-select: none;
   -webkit-user-select: none;
 }
@@ -140,7 +129,7 @@ li.active {
   height: 60px;
   outline: none;
   border: none;
-  border-radius: 30px;
+  border-radius: 6rem;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -155,6 +144,7 @@ li.active {
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
+  margin-bottom: 0.5rem;
 }
 
 #submit:disabled {
@@ -167,61 +157,88 @@ li.active {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  border-radius: 8px;
-  width: 100%;
-  height: 80px;
-  line-height: 1.5;
+  aspect-ratio: 4/1;
+  grid-column: span 4;
+  gap: 0.6rem;
 }
 
 .answer-block.category-0 {
-  background-color: var(--category-0-color);
+  background: var(--category-0-color);
   color: black;
 }
 
 .answer-block.category-1 {
-  background-color: var(--category-1-color);
+  background: var(--category-1-color);
   color: black;
 }
 
 .answer-block.category-2 {
-  background-color: var(--category-2-color);
+  background: var(--category-2-color);
   color: black;
 }
 
 .answer-block.category-3 {
-  background-color: var(--category-3-color);
+  background: var(--category-3-color);
   color: black;
 }
 
 .category-name {
   font-family: "Pretendard Variable", Pretendard, sans-serif;
   font-weight: 700;
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 
 .category-words {
   font-family: "Ahn Sangsoo", sans-serif;
   font-weight: 700;
-  font-size: 1.3rem;
+  font-size: 1.6rem;
 }
 
 .nav {
   width: 100%;
   display: flex;
   justify-content: space-between;
+  font-family: "Pretendard Variable", Pretendard, sans-serif;
 }
 
 #prevDay,
 #nextDay,
 #title {
-  font-family: "Ahn Sangsoo", sans-serif;
-  font-size: 1.5rem;
+  font-family: "Pretendard Variable", Pretendard, sans-serif;
+  font-size: 1.2rem;
   font-weight: 700;
 }
 
 #prevDay:enabled,
 #nextDay:enabled {
   color: black;
+}
+
+.additional-buttons {
+  display: flex;
+  width: 100%;
+  gap: 0.25rem;
+}
+
+.additional-buttons .button {
+  width: 50%;
+  height: 60px;
+  outline: none;
+  border: none;
+  border-radius: 6rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  color: white;
+  font-family: "Pretendard Variable", Pretendard, sans-serif;
+  font-size: 1rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.additional-buttons .button:not(:first-child) {
+  border-left: none;
 }
 
 .pop-animation {
@@ -240,7 +257,7 @@ li.active {
 
 .disclaimer {
   font-family: "Pretendard Variable", Pretendard, sans-serif;
-  font-size: 0.8rem;
+  font-size: 1rem;
   font-weight: 400;
   color: silver;
   text-align: center;
@@ -300,14 +317,35 @@ li.active {
   #submit {
     font-size: 0.9rem;
   }
+  .answer-block {
+    height: auto;
+    aspect-ratio: 4/1;
+    gap: 0.3rem;
+  }
+  .category-name {
+    font-size: 0.9rem;
+  }
+  .category-words {
+    font-size: 1.2rem;
+  }
   .section.dictionary {
     font-size: 2rem;
   }
-  .section.game {
-    padding-bottom: 3rem;
-    gap: 1.5rem;
+  #prevDay,
+  #title,
+  #nextDay {
+    font-size: 0.9rem;
+  }
+  .container.nav {
+    margin-bottom: 1rem;
+  }
+  .additional-buttons .button {
+    font-size: 0.9rem;
+  }
+  .container.disclaimer {
+    margin-top: 1rem;
   }
   .disclaimer {
-    font-size: 0.6rem;
+    font-size: 0.7rem;
   }
 }

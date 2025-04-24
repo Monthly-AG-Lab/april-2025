@@ -33,7 +33,6 @@ const createDictionary = async () => {
       });
     });
   }
-  console.log(wordList);
 
   // 가나다순 정렬
   const keys = Object.keys(wordList);

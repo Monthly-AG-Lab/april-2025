@@ -175,7 +175,6 @@ const handleCorrect = (selectedWords) => {
       const sortedBlocks = Array.from(answerBlocks).sort(
         (a, b) => a.dataset.categoryId - b.dataset.categoryId
       );
-      console.log(sortedBlocks);
 
       const oldPositions = new Map();
       sortedBlocks.forEach((block) => {

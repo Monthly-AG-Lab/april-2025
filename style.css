@@ -76,6 +76,12 @@ button {
 }
 
 .container.disclaimer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: var(--words-width);
+  gap: 0.3rem;
   margin-top: 3rem;
 }
 
@@ -344,6 +350,7 @@ li.active {
   }
   .container.disclaimer {
     margin-top: 1rem;
+    gap: 0.1rem;
   }
   .disclaimer {
     font-size: 0.7rem;

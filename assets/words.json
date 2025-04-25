@@ -893,5 +893,190 @@
         "category": 2
       }
     ]
+  },
+  "20250428": {
+    "date": "2025-04-28T00:00:00.000Z",
+    "title": "2025년 4월 28일의 관계들",
+    "categories": [
+      "학교를 이르는",
+      "구개음화",
+      "옷감이 될 수 있는",
+      "'-과' 앞에 붙어 병원이 되는"
+    ],
+    "credit": "이 관계들은 정서윤의 지원으로 쓰였습니다.",
+    "words": [
+      {
+        "index": 0,
+        "content": "누에",
+        "category": 2
+      },
+      {
+        "index": 1,
+        "content": "고",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "치",
+        "category": 3
+      },
+      {
+        "index": 3,
+        "content": "같이",
+        "category": 1
+      },
+      {
+        "index": 4,
+        "content": "닫히다",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "양",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "초",
+        "category": 0
+      },
+      {
+        "index": 7,
+        "content": "안",
+        "category": 3
+      },
+      {
+        "index": 8,
+        "content": "대",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "해돋이",
+        "category": 1
+      },
+      {
+        "index": 10,
+        "content": "피부",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "목화",
+        "category": 2
+      },
+      {
+        "index": 12,
+        "content": "굳이",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "마",
+        "category": 2
+      },
+      {
+        "index": 14,
+        "content": "중",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "정신",
+        "category": 3
+      }
+    ]
+  },
+  "20250429": {
+    "date": "2025-04-29T00:00:00.000Z",
+    "title": "2025년 4월 29일의 관계들",
+    "categories": [
+      "건축 자재",
+      "자연에서 물의 형태",
+      "미용실에서 볼 수 있는",
+      "-게임"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "구름",
+        "category": 1
+      },
+      {
+        "index": 1,
+        "content": "나무",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "거울",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "카드",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "미니",
+        "category": 3
+      },
+      {
+        "index": 5,
+        "content": "염색약",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "벽돌",
+        "category": 0
+      },
+      {
+        "index": 7,
+        "content": "치킨",
+        "category": 3
+      },
+      {
+        "index": 8,
+        "content": "콘크리트",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "안개",
+        "category": 1
+      },
+      {
+        "index": 10,
+        "content": "오징어",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "수건",
+        "category": 2
+      },
+      {
+        "index": 12,
+        "content": "서리",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "철근",
+        "category": 0
+      },
+      {
+        "index": 14,
+        "content": "가위",
+        "category": 2
+      },
+      {
+        "index": 15,
+        "content": "이슬",
+        "category": 1
+      }
+    ]
   }
 }

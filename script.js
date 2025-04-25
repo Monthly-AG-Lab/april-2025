@@ -6,6 +6,7 @@ const submitButton = document.querySelector("#submit");
 const title = document.querySelector("#title");
 const prevButton = document.querySelector("#prevDay");
 const nextButton = document.querySelector("#nextDay");
+const creditContainer = document.querySelector(".credit");
 
 let wordsCounter = 0; // 선택된 단어 개수
 let answerCount = 0; // 정답 블록 개수 (최대 4)
@@ -61,6 +62,9 @@ const renderWords = (dateData) => {
     dateData.categories,
     dateData.title,
   ];
+
+  if (dateData.credit) creditContainer.textContent = dateData.credit;
+  else creditContainer.textContent = "";
 
   wordsContainer.innerHTML = "";
   answerCount = 0;

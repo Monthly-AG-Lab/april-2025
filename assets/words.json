@@ -1,1082 +1,1253 @@
 {
-  "20250418": {
-    "date": "2025-04-18T00:00:00.000Z",
-    "title": "2025년 4월 18일의 관계들",
-    "categories": ["문학의 갈래", "야구를 하기 위한", "검고 흰", "돌-"],
-    "words": [
-      {
-        "index": 0,
-        "content": "잔치",
-        "category": 3
-      },
-      {
-        "index": 1,
-        "content": "수필",
-        "category": 0
-      },
-      {
-        "index": 2,
-        "content": "글러브",
-        "category": 1
-      },
-      {
-        "index": 3,
-        "content": "고래",
-        "category": 3
-      },
-      {
-        "index": 4,
-        "content": "달마시안",
-        "category": 2
-      },
-      {
-        "index": 5,
-        "content": "헬멧",
-        "category": 1
-      },
-      {
-        "index": 6,
-        "content": "담",
-        "category": 3
-      },
-      {
-        "index": 7,
-        "content": "시",
-        "category": 0
-      },
-      {
-        "index": 8,
-        "content": "희곡",
-        "category": 0
-      },
-      {
-        "index": 9,
-        "content": "턱시도",
-        "category": 2
-      },
-      {
-        "index": 10,
-        "content": "흑백사진",
-        "category": 2
-      },
-      {
-        "index": 11,
-        "content": "방망이",
-        "category": 1
-      },
-      {
-        "index": 12,
-        "content": "공",
-        "category": 1
-      },
-      {
-        "index": 13,
-        "content": "부처",
-        "category": 3
-      },
-      {
-        "index": 14,
-        "content": "소설",
-        "category": 0
-      },
-      {
-        "index": 15,
-        "content": "피아노",
-        "category": 2
-      }
-    ]
-  },
-  "20250419": {
-    "date": "2025-04-19T00:00:00.000Z",
-    "title": "2025년 4월 19일의 관계들",
-    "categories": [
-      "일곱 개가 하나",
-      "고정하기 위한",
-      "키보드 특수문자",
-      "동물 + 동물"
-    ],
-    "words": [
-      {
-        "index": 0,
-        "content": "양말",
-        "category": 3
-      },
-      {
-        "index": 1,
-        "content": "압정",
-        "category": 1
-      },
-      {
-        "index": 2,
-        "content": "오리너구리",
-        "category": 3
-      },
-      {
-        "index": 3,
-        "content": "일주일",
-        "category": 0
-      },
-      {
-        "index": 4,
-        "content": "북두칠성",
-        "category": 0
-      },
-      {
-        "index": 5,
-        "content": "골뱅이",
-        "category": 2
-      },
-      {
-        "index": 6,
-        "content": "테이프",
-        "category": 1
-      },
-      {
-        "index": 7,
-        "content": "소개",
-        "category": 3
-      },
-      {
-        "index": 8,
-        "content": "자석",
-        "category": 1
-      },
-      {
-        "index": 9,
-        "content": "달러",
-        "category": 2
-      },
-      {
-        "index": 10,
-        "content": "무지개",
-        "category": 0
-      },
-      {
-        "index": 11,
-        "content": "클립",
-        "category": 1
-      },
-      {
-        "index": 12,
-        "content": "계이름",
-        "category": 0
-      },
-      {
-        "index": 13,
-        "content": "느낌표",
-        "category": 2
-      },
-      {
-        "index": 14,
-        "content": "학벌",
-        "category": 3
-      },
-      {
-        "index": 15,
-        "content": "별",
-        "category": 2
-      }
-    ]
-  },
-  "20250420": {
-    "date": "2025-04-20T00:00:00.000Z",
-    "title": "2025년 4월 20일의 관계들",
-    "categories": [
-      "천만 관객 돌파 영화",
-      "바둑에서 유래한",
-      "신문에서 볼 수 있는",
-      "-효과"
-    ],
-    "words": [
-      {
-        "index": 0,
-        "content": "정석",
-        "category": 1
-      },
-      {
-        "index": 1,
-        "content": "온실",
-        "category": 3
-      },
-      {
-        "index": 2,
-        "content": "암살",
-        "category": 0
-      },
-      {
-        "index": 3,
-        "content": "초읽기",
-        "category": 1
-      },
-      {
-        "index": 4,
-        "content": "기사",
-        "category": 2
-      },
-      {
-        "index": 5,
-        "content": "괴물",
-        "category": 0
-      },
-      {
-        "index": 6,
-        "content": "나비",
-        "category": 3
-      },
-      {
-        "index": 7,
-        "content": "해운대",
-        "category": 0
-      },
-      {
-        "index": 8,
-        "content": "날짜",
-        "category": 2
-      },
-      {
-        "index": 9,
-        "content": "자충수",
-        "category": 1
-      },
-      {
-        "index": 10,
-        "content": "착시",
-        "category": 3
-      },
-      {
-        "index": 11,
-        "content": "복기",
-        "category": 1
-      },
-      {
-        "index": 12,
-        "content": "베테랑",
-        "category": 0
-      },
-      {
-        "index": 13,
-        "content": "특수",
-        "category": 3
-      },
-      {
-        "index": 14,
-        "content": "만화",
-        "category": 2
-      },
-      {
-        "index": 15,
-        "content": "부고",
-        "category": 2
-      }
-    ]
-  },
-  "20250421": {
-    "date": "2025-04-21T00:00:00.000Z",
-    "title": "2025년 4월 21일의 관계들",
-    "categories": ["한국어 조사", "액체를 담는", "십이간지", "-옷"],
-    "words": [
-      {
-        "index": 0,
-        "content": "갑",
-        "category": 3
-      },
-      {
-        "index": 1,
-        "content": "을",
-        "category": 0
-      },
-      {
-        "index": 2,
-        "content": "병",
-        "category": 1
-      },
-      {
-        "index": 3,
-        "content": "속",
-        "category": 3
-      },
-      {
-        "index": 4,
-        "content": "은",
-        "category": 0
-      },
-      {
-        "index": 5,
-        "content": "미",
-        "category": 2
-      },
-      {
-        "index": 6,
-        "content": "자",
-        "category": 2
-      },
-      {
-        "index": 7,
-        "content": "캔",
-        "category": 1
-      },
-      {
-        "index": 8,
-        "content": "술",
-        "category": 2
-      },
-      {
-        "index": 9,
-        "content": "비",
-        "category": 3
-      },
-      {
-        "index": 10,
-        "content": "이",
-        "category": 0
-      },
-      {
-        "index": 11,
-        "content": "통",
-        "category": 1
-      },
-      {
-        "index": 12,
-        "content": "컵",
-        "category": 1
-      },
-      {
-        "index": 13,
-        "content": "잠",
-        "category": 3
-      },
-      {
-        "index": 14,
-        "content": "해",
-        "category": 2
-      },
-      {
-        "index": 15,
-        "content": "도",
-        "category": 0
-      }
-    ]
-  },
-  "20250422": {
-    "date": "2025-04-22T00:00:00.000Z",
-    "title": "2025년 4월 22일의 관계들",
-    "categories": ["빛을 내는", "할로윈", "콩으로 만들 수 있는", "책-"],
-    "words": [
-      {
-        "index": 0,
-        "content": "사탕",
-        "category": 1
-      },
-      {
-        "index": 1,
-        "content": "두부",
-        "category": 2
-      },
-      {
-        "index": 2,
-        "content": "커피",
-        "category": 2
-      },
-      {
-        "index": 3,
-        "content": "호박",
-        "category": 1
-      },
-      {
-        "index": 4,
-        "content": "전구",
-        "category": 0
-      },
-      {
-        "index": 5,
-        "content": "고물",
-        "category": 2
-      },
-      {
-        "index": 6,
-        "content": "등",
-        "category": 3
-      },
-      {
-        "index": 7,
-        "content": "날개",
-        "category": 3
-      },
-      {
-        "index": 8,
-        "content": "불",
-        "category": 0
-      },
-      {
-        "index": 9,
-        "content": "기름",
-        "category": 2
-      },
-      {
-        "index": 10,
-        "content": "벌레",
-        "category": 3
-      },
-      {
-        "index": 11,
-        "content": "박쥐",
-        "category": 1
-      },
-      {
-        "index": 12,
-        "content": "태양",
-        "category": 0
-      },
-      {
-        "index": 13,
-        "content": "유령",
-        "category": 1
-      },
-      {
-        "index": 14,
-        "content": "갈피",
-        "category": 3
-      },
-      {
-        "index": 15,
-        "content": "번개",
-        "category": 0
-      }
-    ]
-  },
-  "20250423": {
-    "date": "2025-04-23T00:00:00.000Z",
-    "title": "2025년 4월 23일의 관계들",
-    "categories": [
-      "영화의 장르",
-      "게시판의 기능",
-      "식당에서 볼 수 있는",
-      "동사의 어간"
-    ],
-    "words": [
-      {
-        "index": 0,
-        "content": "코미디",
-        "category": 0
-      },
-      {
-        "index": 1,
-        "content": "굽",
-        "category": 3
-      },
-      {
-        "index": 2,
-        "content": "뚝배기",
-        "category": 2
-      },
-      {
-        "index": 3,
-        "content": "수정",
-        "category": 1
-      },
-      {
-        "index": 4,
-        "content": "휴지",
-        "category": 2
-      },
-      {
-        "index": 5,
-        "content": "망치",
-        "category": 3
-      },
-      {
-        "index": 6,
-        "content": "액션",
-        "category": 0
-      },
-      {
-        "index": 7,
-        "content": "수저",
-        "category": 2
-      },
-      {
-        "index": 8,
-        "content": "생성",
-        "category": 1
-      },
-      {
-        "index": 9,
-        "content": "먹",
-        "category": 3
-      },
-      {
-        "index": 10,
-        "content": "배우",
-        "category": 3
-      },
-      {
-        "index": 11,
-        "content": "조회",
-        "category": 1
-      },
-      {
-        "index": 12,
-        "content": "공포",
-        "category": 0
-      },
-      {
-        "index": 13,
-        "content": "삭제",
-        "category": 1
-      },
-      {
-        "index": 14,
-        "content": "벨",
-        "category": 2
-      },
-      {
-        "index": 15,
-        "content": "드라마",
-        "category": 0
-      }
-    ]
-  },
-  "20250424": {
-    "date": "2025-04-24T00:00:00.000Z",
-    "title": "2025년 4월 24일의 관계들",
-    "categories": ["수학 시간", "단군 신화", "끝말잇기", "좌우 대칭"],
-    "words": [
-      {
-        "index": 0,
-        "content": "함수",
-        "category": 0
-      },
-      {
-        "index": 1,
-        "content": "몸",
-        "category": 3
-      },
-      {
-        "index": 2,
-        "content": "쑥",
-        "category": 1
-      },
-      {
-        "index": 3,
-        "content": "불꽃",
-        "category": 2
-      },
-      {
-        "index": 4,
-        "content": "숨",
-        "category": 3
-      },
-      {
-        "index": 5,
-        "content": "집착",
-        "category": 2
-      },
-      {
-        "index": 6,
-        "content": "평균",
-        "category": 0
-      },
-      {
-        "index": 7,
-        "content": "호랑이",
-        "category": 1
-      },
-      {
-        "index": 8,
-        "content": "꽃집",
-        "category": 2
-      },
-      {
-        "index": 9,
-        "content": "마늘",
-        "category": 1
-      },
-      {
-        "index": 10,
-        "content": "미지수",
-        "category": 0
-      },
-      {
-        "index": 11,
-        "content": "접선",
-        "category": 0
-      },
-      {
-        "index": 12,
-        "content": "착불",
-        "category": 2
-      },
-      {
-        "index": 13,
-        "content": "종종",
-        "category": 3
-      },
-      {
-        "index": 14,
-        "content": "용",
-        "category": 3
-      },
-      {
-        "index": 15,
-        "content": "곰",
-        "category": 1
-      }
-    ]
-  },
-  "20250425": {
-    "date": "2025-04-25T00:00:00.000Z",
-    "title": "2025년 4월 25일의 관계들",
-    "categories": [
-      "추억의 놀이",
-      "환경 설정",
-      "「기생충」을 이루는",
-      "'금'이 뜻할 수 있는"
-    ],
-    "words": [
-      {
-        "index": 0,
-        "content": "수석",
-        "category": 2
-      },
-      {
-        "index": 1,
-        "content": "딱지",
-        "category": 0
-      },
-      {
-        "index": 2,
-        "content": "경계",
-        "category": 3
-      },
-      {
-        "index": 3,
-        "content": "배경화면",
-        "category": 1
-      },
-      {
-        "index": 4,
-        "content": "암호",
-        "category": 1
-      },
-      {
-        "index": 5,
-        "content": "냄새",
-        "category": 2
-      },
-      {
-        "index": 6,
-        "content": "음량",
-        "category": 1
-      },
-      {
-        "index": 7,
-        "content": "고무줄",
-        "category": 0
-      },
-      {
-        "index": 8,
-        "content": "무궁화",
-        "category": 0
-      },
-      {
-        "index": 9,
-        "content": "부상",
-        "category": 3
-      },
-      {
-        "index": 10,
-        "content": "요일",
-        "category": 3
-      },
-      {
-        "index": 11,
-        "content": "계단",
-        "category": 2
-      },
-      {
-        "index": 12,
-        "content": "반지하",
-        "category": 2
-      },
-      {
-        "index": 13,
-        "content": "굴렁쇠",
-        "category": 0
-      },
-      {
-        "index": 14,
-        "content": "자산",
-        "category": 3
-      },
-      {
-        "index": 15,
-        "content": "밝기",
-        "category": 1
-      }
-    ]
-  },
-  "20250426": {
-    "date": "2025-04-26T00:00:00.000Z",
-    "title": "2025년 4월 26일의 관계들",
-    "categories": [
-      "사군자",
-      "마녀와 마법사",
-      "애국가에 등장하는",
-      "사자성어의 뒤 두 글자"
-    ],
-    "words": [
-      {
-        "index": 0,
-        "content": "망토",
-        "category": 1
-      },
-      {
-        "index": 1,
-        "content": "국화",
-        "category": 0
-      },
-      {
-        "index": 2,
-        "content": "가상",
-        "category": 3
-      },
-      {
-        "index": 3,
-        "content": "가을",
-        "category": 2
-      },
-      {
-        "index": 4,
-        "content": "무궁화",
-        "category": 2
-      },
-      {
-        "index": 5,
-        "content": "빗자루",
-        "category": 1
-      },
-      {
-        "index": 6,
-        "content": "마비",
-        "category": 3
-      },
-      {
-        "index": 7,
-        "content": "난방",
-        "category": 3
-      },
-      {
-        "index": 8,
-        "content": "난초",
-        "category": 0
-      },
-      {
-        "index": 9,
-        "content": "유서",
-        "category": 3
-      },
-      {
-        "index": 10,
-        "content": "대나무",
-        "category": 0
-      },
-      {
-        "index": 11,
-        "content": "소나무",
-        "category": 2
-      },
-      {
-        "index": 12,
-        "content": "모자",
-        "category": 1
-      },
-      {
-        "index": 13,
-        "content": "백두산",
-        "category": 2
-      },
-      {
-        "index": 14,
-        "content": "지팡이",
-        "category": 1
-      },
-      {
-        "index": 15,
-        "content": "매화",
-        "category": 0
-      }
-    ]
-  },
-  "20250427": {
-    "date": "2025-04-27T00:00:00.000Z",
-    "title": "2025년 4월 27일의 관계들",
-    "categories": ["계이름", "원통형", "한국어 수사", "알파벳"],
-    "words": [
-      {
-        "index": 0,
-        "content": "도",
-        "category": 0
-      },
-      {
-        "index": 1,
-        "content": "미",
-        "category": 0
-      },
-      {
-        "index": 2,
-        "content": "솔",
-        "category": 0
-      },
-      {
-        "index": 3,
-        "content": "씨",
-        "category": 3
-      },
-      {
-        "index": 4,
-        "content": "알",
-        "category": 3
-      },
-      {
-        "index": 5,
-        "content": "필름",
-        "category": 1
-      },
-      {
-        "index": 6,
-        "content": "열",
-        "category": 2
-      },
-      {
-        "index": 7,
-        "content": "아이",
-        "category": 3
-      },
-      {
-        "index": 8,
-        "content": "통조림",
-        "category": 1
-      },
-      {
-        "index": 9,
-        "content": "한",
-        "category": 2
-      },
-      {
-        "index": 10,
-        "content": "쥐",
-        "category": 3
-      },
-      {
-        "index": 11,
-        "content": "분필",
-        "category": 1
-      },
-      {
-        "index": 12,
-        "content": "여덟",
-        "category": 2
-      },
-      {
-        "index": 13,
-        "content": "파",
-        "category": 0
-      },
-      {
-        "index": 14,
-        "content": "건전지",
-        "category": 1
-      },
-      {
-        "index": 15,
-        "content": "네",
-        "category": 2
-      }
-    ]
-  },
-  "20250428": {
-    "date": "2025-04-28T00:00:00.000Z",
-    "title": "2025년 4월 28일의 관계들",
-    "categories": [
-      "학교를 이르는",
-      "구개음화",
-      "옷감이 될 수 있는",
-      "'-과' 앞에 붙어 병원이 되는"
-    ],
-    "credit": "이 관계들은 정서윤의 지원으로 쓰였습니다.",
-    "words": [
-      {
-        "index": 0,
-        "content": "누에",
-        "category": 2
-      },
-      {
-        "index": 1,
-        "content": "고",
-        "category": 0
-      },
-      {
-        "index": 2,
-        "content": "치",
-        "category": 3
-      },
-      {
-        "index": 3,
-        "content": "같이",
-        "category": 1
-      },
-      {
-        "index": 4,
-        "content": "닫히다",
-        "category": 1
-      },
-      {
-        "index": 5,
-        "content": "양",
-        "category": 2
-      },
-      {
-        "index": 6,
-        "content": "초",
-        "category": 0
-      },
-      {
-        "index": 7,
-        "content": "안",
-        "category": 3
-      },
-      {
-        "index": 8,
-        "content": "대",
-        "category": 0
-      },
-      {
-        "index": 9,
-        "content": "해돋이",
-        "category": 1
-      },
-      {
-        "index": 10,
-        "content": "피부",
-        "category": 3
-      },
-      {
-        "index": 11,
-        "content": "목화",
-        "category": 2
-      },
-      {
-        "index": 12,
-        "content": "굳이",
-        "category": 1
-      },
-      {
-        "index": 13,
-        "content": "마",
-        "category": 2
-      },
-      {
-        "index": 14,
-        "content": "중",
-        "category": 0
-      },
-      {
-        "index": 15,
-        "content": "정신",
-        "category": 3
-      }
-    ]
-  },
-  "20250429": {
-    "date": "2025-04-29T00:00:00.000Z",
-    "title": "2025년 4월 29일의 관계들",
-    "categories": [
-      "건축 자재",
-      "자연에서 물의 형태",
-      "미용실에서 볼 수 있는",
-      "-게임"
-    ],
-    "words": [
-      {
-        "index": 0,
-        "content": "구름",
-        "category": 1
-      },
-      {
-        "index": 1,
-        "content": "나무",
-        "category": 0
-      },
-      {
-        "index": 2,
-        "content": "거울",
-        "category": 2
-      },
-      {
-        "index": 3,
-        "content": "카드",
-        "category": 3
-      },
-      {
-        "index": 4,
-        "content": "미니",
-        "category": 3
-      },
-      {
-        "index": 5,
-        "content": "염색약",
-        "category": 2
-      },
-      {
-        "index": 6,
-        "content": "벽돌",
-        "category": 0
-      },
-      {
-        "index": 7,
-        "content": "치킨",
-        "category": 3
-      },
-      {
-        "index": 8,
-        "content": "콘크리트",
-        "category": 0
-      },
-      {
-        "index": 9,
-        "content": "안개",
-        "category": 1
-      },
-      {
-        "index": 10,
-        "content": "오징어",
-        "category": 3
-      },
-      {
-        "index": 11,
-        "content": "수건",
-        "category": 2
-      },
-      {
-        "index": 12,
-        "content": "서리",
-        "category": 1
-      },
-      {
-        "index": 13,
-        "content": "철근",
-        "category": 0
-      },
-      {
-        "index": 14,
-        "content": "가위",
-        "category": 2
-      },
-      {
-        "index": 15,
-        "content": "이슬",
-        "category": 1
-      }
-    ]
-  }
+    "20250418": {
+        "date": "2025-04-18T00:00:00.000Z",
+        "title": "2025년 4월 18일의 관계들",
+        "categories": ["문학의 갈래", "야구를 하기 위한", "검고 흰", "돌-"],
+        "words": [{
+                "index": 0,
+                "content": "잔치",
+                "category": 3
+            },
+            {
+                "index": 1,
+                "content": "수필",
+                "category": 0
+            },
+            {
+                "index": 2,
+                "content": "글러브",
+                "category": 1
+            },
+            {
+                "index": 3,
+                "content": "고래",
+                "category": 3
+            },
+            {
+                "index": 4,
+                "content": "달마시안",
+                "category": 2
+            },
+            {
+                "index": 5,
+                "content": "헬멧",
+                "category": 1
+            },
+            {
+                "index": 6,
+                "content": "담",
+                "category": 3
+            },
+            {
+                "index": 7,
+                "content": "시",
+                "category": 0
+            },
+            {
+                "index": 8,
+                "content": "희곡",
+                "category": 0
+            },
+            {
+                "index": 9,
+                "content": "턱시도",
+                "category": 2
+            },
+            {
+                "index": 10,
+                "content": "흑백사진",
+                "category": 2
+            },
+            {
+                "index": 11,
+                "content": "방망이",
+                "category": 1
+            },
+            {
+                "index": 12,
+                "content": "공",
+                "category": 1
+            },
+            {
+                "index": 13,
+                "content": "부처",
+                "category": 3
+            },
+            {
+                "index": 14,
+                "content": "소설",
+                "category": 0
+            },
+            {
+                "index": 15,
+                "content": "피아노",
+                "category": 2
+            }
+        ]
+    },
+    "20250419": {
+        "date": "2025-04-19T00:00:00.000Z",
+        "title": "2025년 4월 19일의 관계들",
+        "categories": [
+            "일곱 개가 하나",
+            "고정하기 위한",
+            "키보드 특수문자",
+            "동물 + 동물"
+        ],
+        "words": [{
+                "index": 0,
+                "content": "양말",
+                "category": 3
+            },
+            {
+                "index": 1,
+                "content": "압정",
+                "category": 1
+            },
+            {
+                "index": 2,
+                "content": "오리너구리",
+                "category": 3
+            },
+            {
+                "index": 3,
+                "content": "일주일",
+                "category": 0
+            },
+            {
+                "index": 4,
+                "content": "북두칠성",
+                "category": 0
+            },
+            {
+                "index": 5,
+                "content": "골뱅이",
+                "category": 2
+            },
+            {
+                "index": 6,
+                "content": "테이프",
+                "category": 1
+            },
+            {
+                "index": 7,
+                "content": "소개",
+                "category": 3
+            },
+            {
+                "index": 8,
+                "content": "자석",
+                "category": 1
+            },
+            {
+                "index": 9,
+                "content": "달러",
+                "category": 2
+            },
+            {
+                "index": 10,
+                "content": "무지개",
+                "category": 0
+            },
+            {
+                "index": 11,
+                "content": "클립",
+                "category": 1
+            },
+            {
+                "index": 12,
+                "content": "계이름",
+                "category": 0
+            },
+            {
+                "index": 13,
+                "content": "느낌표",
+                "category": 2
+            },
+            {
+                "index": 14,
+                "content": "학벌",
+                "category": 3
+            },
+            {
+                "index": 15,
+                "content": "별",
+                "category": 2
+            }
+        ]
+    },
+    "20250420": {
+        "date": "2025-04-20T00:00:00.000Z",
+        "title": "2025년 4월 20일의 관계들",
+        "categories": [
+            "천만 관객 돌파 영화",
+            "바둑에서 유래한",
+            "신문에서 볼 수 있는",
+            "-효과"
+        ],
+        "words": [{
+                "index": 0,
+                "content": "정석",
+                "category": 1
+            },
+            {
+                "index": 1,
+                "content": "온실",
+                "category": 3
+            },
+            {
+                "index": 2,
+                "content": "암살",
+                "category": 0
+            },
+            {
+                "index": 3,
+                "content": "초읽기",
+                "category": 1
+            },
+            {
+                "index": 4,
+                "content": "기사",
+                "category": 2
+            },
+            {
+                "index": 5,
+                "content": "괴물",
+                "category": 0
+            },
+            {
+                "index": 6,
+                "content": "나비",
+                "category": 3
+            },
+            {
+                "index": 7,
+                "content": "해운대",
+                "category": 0
+            },
+            {
+                "index": 8,
+                "content": "날짜",
+                "category": 2
+            },
+            {
+                "index": 9,
+                "content": "자충수",
+                "category": 1
+            },
+            {
+                "index": 10,
+                "content": "착시",
+                "category": 3
+            },
+            {
+                "index": 11,
+                "content": "복기",
+                "category": 1
+            },
+            {
+                "index": 12,
+                "content": "베테랑",
+                "category": 0
+            },
+            {
+                "index": 13,
+                "content": "특수",
+                "category": 3
+            },
+            {
+                "index": 14,
+                "content": "만화",
+                "category": 2
+            },
+            {
+                "index": 15,
+                "content": "부고",
+                "category": 2
+            }
+        ]
+    },
+    "20250421": {
+        "date": "2025-04-21T00:00:00.000Z",
+        "title": "2025년 4월 21일의 관계들",
+        "categories": ["한국어 조사", "액체를 담는", "십이간지", "-옷"],
+        "words": [{
+                "index": 0,
+                "content": "갑",
+                "category": 3
+            },
+            {
+                "index": 1,
+                "content": "을",
+                "category": 0
+            },
+            {
+                "index": 2,
+                "content": "병",
+                "category": 1
+            },
+            {
+                "index": 3,
+                "content": "속",
+                "category": 3
+            },
+            {
+                "index": 4,
+                "content": "은",
+                "category": 0
+            },
+            {
+                "index": 5,
+                "content": "미",
+                "category": 2
+            },
+            {
+                "index": 6,
+                "content": "자",
+                "category": 2
+            },
+            {
+                "index": 7,
+                "content": "캔",
+                "category": 1
+            },
+            {
+                "index": 8,
+                "content": "술",
+                "category": 2
+            },
+            {
+                "index": 9,
+                "content": "비",
+                "category": 3
+            },
+            {
+                "index": 10,
+                "content": "이",
+                "category": 0
+            },
+            {
+                "index": 11,
+                "content": "통",
+                "category": 1
+            },
+            {
+                "index": 12,
+                "content": "컵",
+                "category": 1
+            },
+            {
+                "index": 13,
+                "content": "잠",
+                "category": 3
+            },
+            {
+                "index": 14,
+                "content": "해",
+                "category": 2
+            },
+            {
+                "index": 15,
+                "content": "도",
+                "category": 0
+            }
+        ]
+    },
+    "20250422": {
+        "date": "2025-04-22T00:00:00.000Z",
+        "title": "2025년 4월 22일의 관계들",
+        "categories": ["빛을 내는", "할로윈", "콩으로 만들 수 있는", "책-"],
+        "credit": "이 관계들은 유지예의 지원으로 쓰였습니다.",
+        "words": [{
+                "index": 0,
+                "content": "사탕",
+                "category": 1
+            },
+            {
+                "index": 1,
+                "content": "두부",
+                "category": 2
+            },
+            {
+                "index": 2,
+                "content": "커피",
+                "category": 2
+            },
+            {
+                "index": 3,
+                "content": "호박",
+                "category": 1
+            },
+            {
+                "index": 4,
+                "content": "전구",
+                "category": 0
+            },
+            {
+                "index": 5,
+                "content": "고물",
+                "category": 2
+            },
+            {
+                "index": 6,
+                "content": "등",
+                "category": 3
+            },
+            {
+                "index": 7,
+                "content": "날개",
+                "category": 3
+            },
+            {
+                "index": 8,
+                "content": "불",
+                "category": 0
+            },
+            {
+                "index": 9,
+                "content": "기름",
+                "category": 2
+            },
+            {
+                "index": 10,
+                "content": "벌레",
+                "category": 3
+            },
+            {
+                "index": 11,
+                "content": "박쥐",
+                "category": 1
+            },
+            {
+                "index": 12,
+                "content": "태양",
+                "category": 0
+            },
+            {
+                "index": 13,
+                "content": "유령",
+                "category": 1
+            },
+            {
+                "index": 14,
+                "content": "갈피",
+                "category": 3
+            },
+            {
+                "index": 15,
+                "content": "번개",
+                "category": 0
+            }
+        ]
+    },
+    "20250423": {
+        "date": "2025-04-23T00:00:00.000Z",
+        "title": "2025년 4월 23일의 관계들",
+        "categories": [
+            "영화의 장르",
+            "게시판의 기능",
+            "식당에서 볼 수 있는",
+            "동사의 어간"
+        ],
+        "words": [{
+                "index": 0,
+                "content": "코미디",
+                "category": 0
+            },
+            {
+                "index": 1,
+                "content": "굽",
+                "category": 3
+            },
+            {
+                "index": 2,
+                "content": "뚝배기",
+                "category": 2
+            },
+            {
+                "index": 3,
+                "content": "수정",
+                "category": 1
+            },
+            {
+                "index": 4,
+                "content": "휴지",
+                "category": 2
+            },
+            {
+                "index": 5,
+                "content": "망치",
+                "category": 3
+            },
+            {
+                "index": 6,
+                "content": "액션",
+                "category": 0
+            },
+            {
+                "index": 7,
+                "content": "수저",
+                "category": 2
+            },
+            {
+                "index": 8,
+                "content": "생성",
+                "category": 1
+            },
+            {
+                "index": 9,
+                "content": "먹",
+                "category": 3
+            },
+            {
+                "index": 10,
+                "content": "배우",
+                "category": 3
+            },
+            {
+                "index": 11,
+                "content": "조회",
+                "category": 1
+            },
+            {
+                "index": 12,
+                "content": "공포",
+                "category": 0
+            },
+            {
+                "index": 13,
+                "content": "삭제",
+                "category": 1
+            },
+            {
+                "index": 14,
+                "content": "벨",
+                "category": 2
+            },
+            {
+                "index": 15,
+                "content": "드라마",
+                "category": 0
+            }
+        ]
+    },
+    "20250424": {
+        "date": "2025-04-24T00:00:00.000Z",
+        "title": "2025년 4월 24일의 관계들",
+        "categories": ["수학 시간", "단군 신화", "끝말잇기", "좌우 대칭"],
+        "words": [{
+                "index": 0,
+                "content": "함수",
+                "category": 0
+            },
+            {
+                "index": 1,
+                "content": "몸",
+                "category": 3
+            },
+            {
+                "index": 2,
+                "content": "쑥",
+                "category": 1
+            },
+            {
+                "index": 3,
+                "content": "불꽃",
+                "category": 2
+            },
+            {
+                "index": 4,
+                "content": "숨",
+                "category": 3
+            },
+            {
+                "index": 5,
+                "content": "집착",
+                "category": 2
+            },
+            {
+                "index": 6,
+                "content": "평균",
+                "category": 0
+            },
+            {
+                "index": 7,
+                "content": "호랑이",
+                "category": 1
+            },
+            {
+                "index": 8,
+                "content": "꽃집",
+                "category": 2
+            },
+            {
+                "index": 9,
+                "content": "마늘",
+                "category": 1
+            },
+            {
+                "index": 10,
+                "content": "미지수",
+                "category": 0
+            },
+            {
+                "index": 11,
+                "content": "접선",
+                "category": 0
+            },
+            {
+                "index": 12,
+                "content": "착불",
+                "category": 2
+            },
+            {
+                "index": 13,
+                "content": "종종",
+                "category": 3
+            },
+            {
+                "index": 14,
+                "content": "용",
+                "category": 3
+            },
+            {
+                "index": 15,
+                "content": "곰",
+                "category": 1
+            }
+        ]
+    },
+    "20250425": {
+        "date": "2025-04-25T00:00:00.000Z",
+        "title": "2025년 4월 25일의 관계들",
+        "categories": [
+            "추억의 놀이",
+            "환경 설정",
+            "「기생충」을 이루는",
+            "'금'이 뜻할 수 있는"
+        ],
+        "words": [{
+                "index": 0,
+                "content": "수석",
+                "category": 2
+            },
+            {
+                "index": 1,
+                "content": "딱지",
+                "category": 0
+            },
+            {
+                "index": 2,
+                "content": "경계",
+                "category": 3
+            },
+            {
+                "index": 3,
+                "content": "배경화면",
+                "category": 1
+            },
+            {
+                "index": 4,
+                "content": "암호",
+                "category": 1
+            },
+            {
+                "index": 5,
+                "content": "냄새",
+                "category": 2
+            },
+            {
+                "index": 6,
+                "content": "음량",
+                "category": 1
+            },
+            {
+                "index": 7,
+                "content": "고무줄",
+                "category": 0
+            },
+            {
+                "index": 8,
+                "content": "무궁화",
+                "category": 0
+            },
+            {
+                "index": 9,
+                "content": "부상",
+                "category": 3
+            },
+            {
+                "index": 10,
+                "content": "요일",
+                "category": 3
+            },
+            {
+                "index": 11,
+                "content": "계단",
+                "category": 2
+            },
+            {
+                "index": 12,
+                "content": "반지하",
+                "category": 2
+            },
+            {
+                "index": 13,
+                "content": "굴렁쇠",
+                "category": 0
+            },
+            {
+                "index": 14,
+                "content": "자산",
+                "category": 3
+            },
+            {
+                "index": 15,
+                "content": "밝기",
+                "category": 1
+            }
+        ]
+    },
+    "20250426": {
+        "date": "2025-04-26T00:00:00.000Z",
+        "title": "2025년 4월 26일의 관계들",
+        "categories": [
+            "사군자",
+            "마녀와 마법사",
+            "애국가에 등장하는",
+            "사자성어의 뒤 두 글자"
+        ],
+        "words": [{
+                "index": 0,
+                "content": "망토",
+                "category": 1
+            },
+            {
+                "index": 1,
+                "content": "국화",
+                "category": 0
+            },
+            {
+                "index": 2,
+                "content": "가상",
+                "category": 3
+            },
+            {
+                "index": 3,
+                "content": "가을",
+                "category": 2
+            },
+            {
+                "index": 4,
+                "content": "무궁화",
+                "category": 2
+            },
+            {
+                "index": 5,
+                "content": "빗자루",
+                "category": 1
+            },
+            {
+                "index": 6,
+                "content": "마비",
+                "category": 3
+            },
+            {
+                "index": 7,
+                "content": "난방",
+                "category": 3
+            },
+            {
+                "index": 8,
+                "content": "난초",
+                "category": 0
+            },
+            {
+                "index": 9,
+                "content": "유서",
+                "category": 3
+            },
+            {
+                "index": 10,
+                "content": "대나무",
+                "category": 0
+            },
+            {
+                "index": 11,
+                "content": "소나무",
+                "category": 2
+            },
+            {
+                "index": 12,
+                "content": "모자",
+                "category": 1
+            },
+            {
+                "index": 13,
+                "content": "백두산",
+                "category": 2
+            },
+            {
+                "index": 14,
+                "content": "지팡이",
+                "category": 1
+            },
+            {
+                "index": 15,
+                "content": "매화",
+                "category": 0
+            }
+        ]
+    },
+    "20250427": {
+        "date": "2025-04-27T00:00:00.000Z",
+        "title": "2025년 4월 27일의 관계들",
+        "categories": ["계이름", "원통형", "한국어 수사", "알파벳"],
+        "words": [{
+                "index": 0,
+                "content": "도",
+                "category": 0
+            },
+            {
+                "index": 1,
+                "content": "미",
+                "category": 0
+            },
+            {
+                "index": 2,
+                "content": "솔",
+                "category": 0
+            },
+            {
+                "index": 3,
+                "content": "씨",
+                "category": 3
+            },
+            {
+                "index": 4,
+                "content": "알",
+                "category": 3
+            },
+            {
+                "index": 5,
+                "content": "필름",
+                "category": 1
+            },
+            {
+                "index": 6,
+                "content": "열",
+                "category": 2
+            },
+            {
+                "index": 7,
+                "content": "아이",
+                "category": 3
+            },
+            {
+                "index": 8,
+                "content": "통조림",
+                "category": 1
+            },
+            {
+                "index": 9,
+                "content": "한",
+                "category": 2
+            },
+            {
+                "index": 10,
+                "content": "쥐",
+                "category": 3
+            },
+            {
+                "index": 11,
+                "content": "분필",
+                "category": 1
+            },
+            {
+                "index": 12,
+                "content": "여덟",
+                "category": 2
+            },
+            {
+                "index": 13,
+                "content": "파",
+                "category": 0
+            },
+            {
+                "index": 14,
+                "content": "건전지",
+                "category": 1
+            },
+            {
+                "index": 15,
+                "content": "네",
+                "category": 2
+            }
+        ]
+    },
+    "20250428": {
+        "date": "2025-04-28T00:00:00.000Z",
+        "title": "2025년 4월 28일의 관계들",
+        "categories": [
+            "학교를 이르는",
+            "구개음화",
+            "옷감이 될 수 있는",
+            "'-과' 앞에 붙어 병원이 되는"
+        ],
+        "credit": "이 관계들은 정서윤의 지원으로 쓰였습니다.",
+        "words": [{
+                "index": 0,
+                "content": "누에",
+                "category": 2
+            },
+            {
+                "index": 1,
+                "content": "고",
+                "category": 0
+            },
+            {
+                "index": 2,
+                "content": "치",
+                "category": 3
+            },
+            {
+                "index": 3,
+                "content": "같이",
+                "category": 1
+            },
+            {
+                "index": 4,
+                "content": "닫히다",
+                "category": 1
+            },
+            {
+                "index": 5,
+                "content": "양",
+                "category": 2
+            },
+            {
+                "index": 6,
+                "content": "초",
+                "category": 0
+            },
+            {
+                "index": 7,
+                "content": "안",
+                "category": 3
+            },
+            {
+                "index": 8,
+                "content": "대",
+                "category": 0
+            },
+            {
+                "index": 9,
+                "content": "해돋이",
+                "category": 1
+            },
+            {
+                "index": 10,
+                "content": "피부",
+                "category": 3
+            },
+            {
+                "index": 11,
+                "content": "목화",
+                "category": 2
+            },
+            {
+                "index": 12,
+                "content": "굳이",
+                "category": 1
+            },
+            {
+                "index": 13,
+                "content": "마",
+                "category": 2
+            },
+            {
+                "index": 14,
+                "content": "중",
+                "category": 0
+            },
+            {
+                "index": 15,
+                "content": "정신",
+                "category": 3
+            }
+        ]
+    },
+    "20250429": {
+        "date": "2025-04-29T00:00:00.000Z",
+        "title": "2025년 4월 29일의 관계들",
+        "categories": [
+            "건축 자재",
+            "자연에서 물의 형태",
+            "미용실에서 볼 수 있는",
+            "-게임"
+        ],
+        "words": [{
+                "index": 0,
+                "content": "구름",
+                "category": 1
+            },
+            {
+                "index": 1,
+                "content": "나무",
+                "category": 0
+            },
+            {
+                "index": 2,
+                "content": "거울",
+                "category": 2
+            },
+            {
+                "index": 3,
+                "content": "카드",
+                "category": 3
+            },
+            {
+                "index": 4,
+                "content": "미니",
+                "category": 3
+            },
+            {
+                "index": 5,
+                "content": "염색약",
+                "category": 2
+            },
+            {
+                "index": 6,
+                "content": "벽돌",
+                "category": 0
+            },
+            {
+                "index": 7,
+                "content": "치킨",
+                "category": 3
+            },
+            {
+                "index": 8,
+                "content": "콘크리트",
+                "category": 0
+            },
+            {
+                "index": 9,
+                "content": "안개",
+                "category": 1
+            },
+            {
+                "index": 10,
+                "content": "오징어",
+                "category": 3
+            },
+            {
+                "index": 11,
+                "content": "수건",
+                "category": 2
+            },
+            {
+                "index": 12,
+                "content": "서리",
+                "category": 1
+            },
+            {
+                "index": 13,
+                "content": "철근",
+                "category": 0
+            },
+            {
+                "index": 14,
+                "content": "가위",
+                "category": 2
+            },
+            {
+                "index": 15,
+                "content": "이슬",
+                "category": 1
+            }
+        ]
+    },
+    "20250430": {
+        "date": "2025-04-30T00:00:00.000Z",
+        "title": "2025년 4월 30일의 관계들",
+        "categories": [
+            "위치의 변화",
+            "&",
+            "커피를 -",
+            "음악 장르를 한국어로 직역한"
+        ],
+        "words": [{
+                "index": 0,
+                "content": "마시다",
+                "category": 2
+            },
+            {
+                "index": 1,
+                "content": "터지다",
+                "category": 3
+            },
+            {
+                "index": 2,
+                "content": "그리고",
+                "category": 1
+            },
+            {
+                "index": 3,
+                "content": "움직이다",
+                "category": 0
+            },
+            {
+                "index": 4,
+                "content": "돌",
+                "category": 3
+            },
+            {
+                "index": 5,
+                "content": "과",
+                "category": 1
+            },
+            {
+                "index": 6,
+                "content": "집",
+                "category": 3
+            },
+            {
+                "index": 7,
+                "content": "또한",
+                "category": 1
+            },
+            {
+                "index": 8,
+                "content": "떠나다",
+                "category": 0
+            },
+            {
+                "index": 9,
+                "content": "고전",
+                "category": 3
+            },
+            {
+                "index": 10,
+                "content": "끊다",
+                "category": 2
+            },
+            {
+                "index": 11,
+                "content": "가다",
+                "category": 0
+            },
+            {
+                "index": 12,
+                "content": "및",
+                "category": 1
+            },
+            {
+                "index": 13,
+                "content": "출발하다",
+                "category": 0
+            },
+            {
+                "index": 14,
+                "content": "볶다",
+                "category": 2
+            },
+            {
+                "index": 15,
+                "content": "쏟다",
+                "category": 2
+            }
+        ]
+    },
+    "20250501": {
+        "date": "2025-05-01T00:00:00.000Z",
+        "title": "2025년 5월 1일의 관계들",
+        "categories": [
+            "적을 수 있는",
+            "영화 스태프의 역할",
+            "구분하기 위한",
+            "-관계"
+        ],
+        "words": [{
+                "index": 0,
+                "content": "조명",
+                "category": 1
+            },
+            {
+                "index": 1,
+                "content": "공책",
+                "category": 0
+            },
+            {
+                "index": 2,
+                "content": "표식",
+                "category": 2
+            },
+            {
+                "index": 3,
+                "content": "이해",
+                "category": 3
+            },
+            {
+                "index": 4,
+                "content": "수첩",
+                "category": 0
+            },
+            {
+                "index": 5,
+                "content": "연출",
+                "category": 1
+            },
+            {
+                "index": 6,
+                "content": "사실",
+                "category": 3
+            },
+            {
+                "index": 7,
+                "content": "일련번호",
+                "category": 2
+            },
+            {
+                "index": 8,
+                "content": "반비례",
+                "category": 3
+            },
+            {
+                "index": 9,
+                "content": "명찰",
+                "category": 2
+            },
+            {
+                "index": 10,
+                "content": "메모지",
+                "category": 0
+            },
+            {
+                "index": 11,
+                "content": "편집",
+                "category": 1
+            },
+            {
+                "index": 12,
+                "content": "경계",
+                "category": 2
+            },
+            {
+                "index": 13,
+                "content": "인간",
+                "category": 3
+            },
+            {
+                "index": 14,
+                "content": "촬영",
+                "category": 1
+            },
+            {
+                "index": 15,
+                "content": "일기장",
+                "category": 0
+            }
+        ]
+    }
 }

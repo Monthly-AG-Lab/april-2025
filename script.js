@@ -30,7 +30,11 @@ const loadAllData = async() => {
     );
 
     // 오늘의 데이터 처리
-    const todayString = new Date().toISOString().split("T")[0].replace(/-/g, ""); // ex. 20250418
+    const now = new Date();
+    const koreaTime = new Date(now.getTime() + 9 * 60 * 60 * 1000);
+    const todayString = koreaTime.toISOString().split("T")[0].replace(/-/g, ""); // ex. 20250418
+
+    console.log(todayString);
 
     currentKey = allData[todayString] ?
         todayString :

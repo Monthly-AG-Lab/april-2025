@@ -1249,5 +1249,542 @@
                 "category": 0
             }
         ]
+    },
+    "20250502": {
+        "date": "2025-05-02T00:00:00.000Z",
+        "title": "2025년 5월 2일의 관계들",
+        "categories": ["신체 부위", "모임", "장기말에 쓰인", "-색"],
+        "words": [{
+                "index": 0,
+                "content": "회",
+                "category": 3
+            },
+            {
+                "index": 1,
+                "content": "계",
+                "category": 1
+            },
+            {
+                "index": 2,
+                "content": "한",
+                "category": 2
+            },
+            {
+                "index": 3,
+                "content": "턱",
+                "category": 0
+            },
+            {
+                "index": 4,
+                "content": "초",
+                "category": 2
+            },
+            {
+                "index": 5,
+                "content": "무",
+                "category": 3
+            },
+            {
+                "index": 6,
+                "content": "동아리",
+                "category": 1
+            },
+            {
+                "index": 7,
+                "content": "등",
+                "category": 0
+            },
+            {
+                "index": 8,
+                "content": "눈",
+                "category": 0
+            },
+            {
+                "index": 9,
+                "content": "조직",
+                "category": 1
+            },
+            {
+                "index": 10,
+                "content": "남",
+                "category": 3
+            },
+            {
+                "index": 11,
+                "content": "병",
+                "category": 2
+            },
+            {
+                "index": 12,
+                "content": "주황",
+                "category": 3
+            },
+            {
+                "index": 13,
+                "content": "차",
+                "category": 2
+            },
+            {
+                "index": 14,
+                "content": "팔",
+                "category": 0
+            },
+            {
+                "index": 15,
+                "content": "밴드",
+                "category": 1
+            }
+        ]
+    },
+    "20250503": {
+        "date": "2025-05-03T00:00:00.000Z",
+        "title": "2025년 5월 3일의 관계들",
+        "categories": [
+            "물건을 파는",
+            "관계들의 색깔",
+            "단단한 사람을 이르는",
+            "두 손가락을 들어 나타낼 수 있는"
+        ],
+        "words": [{
+                "index": 0,
+                "content": "가위",
+                "category": 3
+            },
+            {
+                "index": 1,
+                "content": "바위",
+                "category": 2
+            },
+            {
+                "index": 2,
+                "content": "보",
+                "category": 1
+            },
+            {
+                "index": 3,
+                "content": "가게",
+                "category": 0
+            },
+            {
+                "index": 4,
+                "content": "전화",
+                "category": 3
+            },
+            {
+                "index": 5,
+                "content": "마트",
+                "category": 0
+            },
+            {
+                "index": 6,
+                "content": "태산",
+                "category": 2
+            },
+            {
+                "index": 7,
+                "content": "초",
+                "category": 1
+            },
+            {
+                "index": 8,
+                "content": "상점",
+                "category": 0
+            },
+            {
+                "index": 9,
+                "content": "강철",
+                "category": 2
+            },
+            {
+                "index": 10,
+                "content": "약속",
+                "category": 3
+            },
+            {
+                "index": 11,
+                "content": "총",
+                "category": 3
+            },
+            {
+                "index": 12,
+                "content": "노",
+                "category": 1
+            },
+            {
+                "index": 13,
+                "content": "대나무",
+                "category": 2
+            },
+            {
+                "index": 14,
+                "content": "백화점",
+                "category": 0
+            },
+            {
+                "index": 15,
+                "content": "파",
+                "category": 1
+            }
+        ]
+    },
+    "20250504": {
+        "date": "2025-05-04T00:00:00.000Z",
+        "title": "2025년 5월 4일의 관계들",
+        "categories": ["기록물", "모험가를 위한", "겨울 하면 떠오르는", "구두-"],
+        "words": [{
+                "index": 0,
+                "content": "데이터",
+                "category": 0
+            },
+            {
+                "index": 1,
+                "content": "나침반",
+                "category": 1
+            },
+            {
+                "index": 2,
+                "content": "붕어빵",
+                "category": 2
+            },
+            {
+                "index": 3,
+                "content": "계약",
+                "category": 3
+            },
+            {
+                "index": 4,
+                "content": "지도",
+                "category": 1
+            },
+            {
+                "index": 5,
+                "content": "스키",
+                "category": 2
+            },
+            {
+                "index": 6,
+                "content": "문헌",
+                "category": 0
+            },
+            {
+                "index": 7,
+                "content": "물통",
+                "category": 1
+            },
+            {
+                "index": 8,
+                "content": "자료",
+                "category": 0
+            },
+            {
+                "index": 9,
+                "content": "김장",
+                "category": 2
+            },
+            {
+                "index": 10,
+                "content": "베낭",
+                "category": 1
+            },
+            {
+                "index": 11,
+                "content": "정보",
+                "category": 0
+            },
+            {
+                "index": 12,
+                "content": "점",
+                "category": 3
+            },
+            {
+                "index": 13,
+                "content": "쇠",
+                "category": 3
+            },
+            {
+                "index": 14,
+                "content": "눈",
+                "category": 2
+            },
+            {
+                "index": 15,
+                "content": "약",
+                "category": 3
+            }
+        ]
+    },
+    "20250505": {
+        "date": "2025-05-05T00:00:00.000Z",
+        "title": "2025년 5월 5일의 관계들",
+        "categories": [
+            "빨간 옷을 입은",
+            "안경을 쓴",
+            "코가 특징적인",
+            "무언가를 먹는 것이 중요한"
+        ],
+        "words": [{
+                "index": 0,
+                "content": "스파이더맨",
+                "category": 0
+            },
+            {
+                "index": 1,
+                "content": "팩맨",
+                "category": 3
+            },
+            {
+                "index": 2,
+                "content": "해리포터",
+                "category": 1
+            },
+            {
+                "index": 3,
+                "content": "볼드모트",
+                "category": 2
+            },
+            {
+                "index": 4,
+                "content": "산타클로스",
+                "category": 0
+            },
+            {
+                "index": 5,
+                "content": "루돌프",
+                "category": 2
+            },
+            {
+                "index": 6,
+                "content": "백설공주",
+                "category": 3
+            },
+            {
+                "index": 7,
+                "content": "피노키오",
+                "category": 2
+            },
+            {
+                "index": 8,
+                "content": "미니언즈",
+                "category": 1
+            },
+            {
+                "index": 9,
+                "content": "푸",
+                "category": 0
+            },
+            {
+                "index": 10,
+                "content": "짱구",
+                "category": 0
+            },
+            {
+                "index": 11,
+                "content": "뱀파이어",
+                "category": 3
+            },
+            {
+                "index": 12,
+                "content": "죠스",
+                "category": 3
+            },
+            {
+                "index": 13,
+                "content": "코난",
+                "category": 1
+            },
+            {
+                "index": 14,
+                "content": "징징이",
+                "category": 2
+            },
+            {
+                "index": 15,
+                "content": "뽀로로",
+                "category": 1
+            }
+        ]
+    },
+    "20250506": {
+        "date": "2025-05-06T00:00:00.000Z",
+        "title": "2025년 5월 6일의 관계들",
+        "categories": [
+            "동영상 플레이어 옵션",
+            "범죄 현장에 남는",
+            "나라 이름",
+            "과일 이름을 거꾸로 한"
+        ],
+        "credit": "이 관계들은 최규리의 지원으로 쓰였습니다.",
+        "words": [{
+                "index": 0,
+                "content": "박수",
+                "category": 3
+            },
+            {
+                "index": 1,
+                "content": "되감기",
+                "category": 0
+            },
+            {
+                "index": 2,
+                "content": "피지",
+                "category": 2
+            },
+            {
+                "index": 3,
+                "content": "지문",
+                "category": 1
+            },
+            {
+                "index": 4,
+                "content": "루머",
+                "category": 3
+            },
+            {
+                "index": 5,
+                "content": "머리카락",
+                "category": 1
+            },
+            {
+                "index": 6,
+                "content": "재생",
+                "category": 0
+            },
+            {
+                "index": 7,
+                "content": "인도",
+                "category": 2
+            },
+            {
+                "index": 8,
+                "content": "자막",
+                "category": 0
+            },
+            {
+                "index": 9,
+                "content": "호주",
+                "category": 2
+            },
+            {
+                "index": 10,
+                "content": "도포",
+                "category": 3
+            },
+            {
+                "index": 11,
+                "content": "발자국",
+                "category": 1
+            },
+            {
+                "index": 12,
+                "content": "오만",
+                "category": 2
+            },
+            {
+                "index": 13,
+                "content": "자유",
+                "category": 3
+            },
+            {
+                "index": 14,
+                "content": "혈흔",
+                "category": 1
+            },
+            {
+                "index": 15,
+                "content": "음량",
+                "category": 0
+            }
+        ]
+    },
+    "20250507": {
+        "date": "2025-05-07T00:00:00.000Z",
+        "title": "2025년 5월 7일의 관계들",
+        "categories": [
+            "색",
+            "공구",
+            "체스에서 볼 수 있는",
+            "연달아 말하면 의성어가 되는"
+        ],
+        "words": [{
+                "index": 0,
+                "content": "멍",
+                "category": 3
+            },
+            {
+                "index": 1,
+                "content": "성",
+                "category": 2
+            },
+            {
+                "index": 2,
+                "content": "정",
+                "category": 1
+            },
+            {
+                "index": 3,
+                "content": "청",
+                "category": 0
+            },
+            {
+                "index": 4,
+                "content": "통",
+                "category": 3
+            },
+            {
+                "index": 5,
+                "content": "톱",
+                "category": 1
+            },
+            {
+                "index": 6,
+                "content": "백",
+                "category": 0
+            },
+            {
+                "index": 7,
+                "content": "꿀",
+                "category": 3
+            },
+            {
+                "index": 8,
+                "content": "황",
+                "category": 0
+            },
+            {
+                "index": 9,
+                "content": "왕",
+                "category": 2
+            },
+            {
+                "index": 10,
+                "content": "빵",
+                "category": 3
+            },
+            {
+                "index": 11,
+                "content": "적",
+                "category": 0
+            },
+            {
+                "index": 12,
+                "content": "칸",
+                "category": 2
+            },
+            {
+                "index": 13,
+                "content": "칼",
+                "category": 1
+            },
+            {
+                "index": 14,
+                "content": "말",
+                "category": 2
+            },
+            {
+                "index": 15,
+                "content": "삽",
+                "category": 1
+            }
+        ]
     }
 }

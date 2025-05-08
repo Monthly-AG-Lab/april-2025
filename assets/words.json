@@ -1898,5 +1898,97 @@
         "category": 3
       }
     ]
+  },
+  "20250509": {
+    "date": "2025-05-09T00:00:00.000Z",
+    "title": "2025년 5월 9일의 관계들",
+    "categories": [
+      "휴대폰 기본 앱",
+      "정처 없는",
+      "「관계들」 페이지에 적힌",
+      "해리포터 시리즈의 이름을 이루는"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "비밀",
+        "category": 3
+      },
+      {
+        "index": 1,
+        "content": "메모",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "사랑",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "방황",
+        "category": 1
+      },
+      {
+        "index": 4,
+        "content": "갈팡질팡",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "죽음",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "표류",
+        "category": 1
+      },
+      {
+        "index": 7,
+        "content": "내일",
+        "category": 2
+      },
+      {
+        "index": 8,
+        "content": "왕자",
+        "category": 3
+      },
+      {
+        "index": 9,
+        "content": "사진",
+        "category": 0
+      },
+      {
+        "index": 10,
+        "content": "관계",
+        "category": 2
+      },
+      {
+        "index": 11,
+        "content": "설정",
+        "category": 0
+      },
+      {
+        "index": 12,
+        "content": "소개",
+        "category": 2
+      },
+      {
+        "index": 13,
+        "content": "배회",
+        "category": 1
+      },
+      {
+        "index": 14,
+        "content": "전화",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "죄수",
+        "category": 3
+      }
+    ]
   }
 }

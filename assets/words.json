@@ -1990,5 +1990,97 @@
         "category": 3
       }
     ]
+  },
+  "20250510": {
+    "date": "2025-05-10T00:00:00.000Z",
+    "title": "2025년 5월 10일의 관계들",
+    "categories": [
+      "거꾸로 읽어도 똑같은",
+      "안타까운",
+      "탈 수 있는",
+      "하트가 뜻할 수 있는"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "저런",
+        "category": 1
+      },
+      {
+        "index": 1,
+        "content": "사랑",
+        "category": 3
+      },
+      {
+        "index": 2,
+        "content": "종종",
+        "category": 0
+      },
+      {
+        "index": 3,
+        "content": "아쉽다",
+        "category": 1
+      },
+      {
+        "index": 4,
+        "content": "나무",
+        "category": 2
+      },
+      {
+        "index": 5,
+        "content": "목마",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "심박수",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "토마토",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "기러기",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "기회",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "후회",
+        "category": 1
+      },
+      {
+        "index": 11,
+        "content": "그네",
+        "category": 2
+      },
+      {
+        "index": 12,
+        "content": "비극",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "다가가다",
+        "category": 0
+      },
+      {
+        "index": 14,
+        "content": "공감",
+        "category": 3
+      },
+      {
+        "index": 15,
+        "content": "스키",
+        "category": 2
+      }
+    ]
   }
 }

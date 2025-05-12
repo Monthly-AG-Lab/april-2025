@@ -1906,7 +1906,7 @@
       "휴대폰 기본 앱",
       "정처 없는",
       "「관계들」 페이지에 적힌",
-      "해리포터 시리즈의 이름을 이루는"
+      "해리포터 시리즈의 제목을 이루는"
     ],
     "words": [
       {
@@ -2178,7 +2178,12 @@
   "20250512": {
     "date": "2025-05-12T00:00:00.000Z",
     "title": "2025년 5월 12일의 관계들",
-    "categories": ["직업", "마음과 관계", "외국에서 유래한", "모래 사를 쓰는"],
+    "categories": [
+      "직업",
+      "마음과 관계",
+      "외국에서 유래한",
+      "'모래 사'를 쓰는"
+    ],
     "words": [
       {
         "index": 0,
@@ -2259,6 +2264,185 @@
         "index": 15,
         "content": "사무치다",
         "category": 1
+      }
+    ]
+  },
+  "20250513": {
+    "date": "2025-05-13T00:00:00.000Z",
+    "title": "2025년 5월 13일의 관계들",
+    "categories": ["동그란", "방향", "'2'가 뜻할 수 있는", "손-"],
+    "words": [
+      {
+        "index": 0,
+        "content": "금",
+        "category": 3
+      },
+      {
+        "index": 1,
+        "content": "은",
+        "category": 2
+      },
+      {
+        "index": 2,
+        "content": "동",
+        "category": 1
+      },
+      {
+        "index": 3,
+        "content": "메달",
+        "category": 0
+      },
+      {
+        "index": 4,
+        "content": "원",
+        "category": 0
+      },
+      {
+        "index": 5,
+        "content": "둘",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "동전",
+        "category": 0
+      },
+      {
+        "index": 7,
+        "content": "화전",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "반시계",
+        "category": 1
+      },
+      {
+        "index": 9,
+        "content": "바닥",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "등",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "앞",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "쌍",
+        "category": 2
+      },
+      {
+        "index": 13,
+        "content": "오른쪽",
+        "category": 1
+      },
+      {
+        "index": 14,
+        "content": "톱",
+        "category": 3
+      },
+      {
+        "index": 15,
+        "content": "속편",
+        "category": 2
+      }
+    ]
+  },
+  "20250514": {
+    "date": "2025-05-14T00:00:00.000Z",
+    "title": "2025년 5월 14일의 관계들",
+    "categories": [
+      "네 개가 하나인",
+      "뛰어난",
+      "12345678",
+      "한 글자 신체 부위로 시작하는"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "동서남북",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "일석이조",
+        "category": 2
+      },
+      {
+        "index": 2,
+        "content": "다재다능",
+        "category": 1
+      },
+      {
+        "index": 3,
+        "content": "입춘대길",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "군계일학",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "매란국죽",
+        "category": 0
+      },
+      {
+        "index": 6,
+        "content": "배은망덕",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "조삼모사",
+        "category": 2
+      },
+      {
+        "index": 8,
+        "content": "오장육부",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "낭중지추",
+        "category": 1
+      },
+      {
+        "index": 10,
+        "content": "발본색원",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "춘하추동",
+        "category": 0
+      },
+      {
+        "index": 12,
+        "content": "희로애락",
+        "category": 0
+      },
+      {
+        "index": 13,
+        "content": "손자병법",
+        "category": 3
+      },
+      {
+        "index": 14,
+        "content": "영웅호걸",
+        "category": 1
+      },
+      {
+        "index": 15,
+        "content": "칠전팔기",
+        "category": 2
       }
     ]
   }

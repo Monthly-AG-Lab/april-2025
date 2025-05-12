@@ -2082,5 +2082,184 @@
         "category": 2
       }
     ]
+  },
+  "20250511": {
+    "date": "2025-05-11T00:00:00.000Z",
+    "title": "2025년 5월 11일의 관계들",
+    "categories": [
+      "올림픽 종목",
+      "그 밖의",
+      "양손을 중요하게 쓰는",
+      "한국 배우 이름"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "사랑",
+        "category": 3
+      },
+      {
+        "index": 1,
+        "content": "기도",
+        "category": 2
+      },
+      {
+        "index": 2,
+        "content": "박수",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "유도",
+        "category": 0
+      },
+      {
+        "index": 4,
+        "content": "탁구",
+        "category": 0
+      },
+      {
+        "index": 5,
+        "content": "뜨개질",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "여정",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "기타",
+        "category": 1
+      },
+      {
+        "index": 8,
+        "content": "설거지",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "나머지",
+        "category": 1
+      },
+      {
+        "index": 10,
+        "content": "인성",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "마라톤",
+        "category": 0
+      },
+      {
+        "index": 12,
+        "content": "외",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "조정",
+        "category": 0
+      },
+      {
+        "index": 14,
+        "content": "강",
+        "category": 3
+      },
+      {
+        "index": 15,
+        "content": "등",
+        "category": 1
+      }
+    ]
+  },
+  "20250512": {
+    "date": "2025-05-12T00:00:00.000Z",
+    "title": "2025년 5월 12일의 관계들",
+    "categories": ["직업", "마음과 관계", "외국에서 유래한", "모래 사를 쓰는"],
+    "words": [
+      {
+        "index": 0,
+        "content": "사서",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "사랑",
+        "category": 1
+      },
+      {
+        "index": 2,
+        "content": "사탕",
+        "category": 3
+      },
+      {
+        "index": 3,
+        "content": "사발",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "사귀다",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "사이렌",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "사진사",
+        "category": 0
+      },
+      {
+        "index": 7,
+        "content": "사케",
+        "category": 2
+      },
+      {
+        "index": 8,
+        "content": "사상누각",
+        "category": 3
+      },
+      {
+        "index": 9,
+        "content": "의사",
+        "category": 0
+      },
+      {
+        "index": 10,
+        "content": "사모",
+        "category": 1
+      },
+      {
+        "index": 11,
+        "content": "사이버",
+        "category": 2
+      },
+      {
+        "index": 12,
+        "content": "기사",
+        "category": 0
+      },
+      {
+        "index": 13,
+        "content": "마사지",
+        "category": 2
+      },
+      {
+        "index": 14,
+        "content": "백사장",
+        "category": 3
+      },
+      {
+        "index": 15,
+        "content": "사무치다",
+        "category": 1
+      }
+    ]
   }
 }

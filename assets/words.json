@@ -2445,5 +2445,189 @@
         "category": 2
       }
     ]
+  },
+  "20250515": {
+    "date": "2025-05-15T00:00:00.000Z",
+    "title": "2025년 5월 15일의 관계들",
+    "categories": [
+      "이메일 옵션",
+      "사무실 책상에 있는",
+      "덜 매운 맛을 나타내는",
+      "-을/를 먹다"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "나이",
+        "category": 3
+      },
+      {
+        "index": 1,
+        "content": "미리보기",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "착한",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "천사",
+        "category": 2
+      },
+      {
+        "index": 4,
+        "content": "참조",
+        "category": 0
+      },
+      {
+        "index": 5,
+        "content": "초보",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "겁",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "컵",
+        "category": 1
+      },
+      {
+        "index": 8,
+        "content": "마우스",
+        "category": 1
+      },
+      {
+        "index": 9,
+        "content": "예약",
+        "category": 0
+      },
+      {
+        "index": 10,
+        "content": "서류",
+        "category": 1
+      },
+      {
+        "index": 11,
+        "content": "첨부",
+        "category": 0
+      },
+      {
+        "index": 12,
+        "content": "욕",
+        "category": 3
+      },
+      {
+        "index": 13,
+        "content": "메모지",
+        "category": 1
+      },
+      {
+        "index": 14,
+        "content": "아기",
+        "category": 2
+      },
+      {
+        "index": 15,
+        "content": "마음",
+        "category": 3
+      }
+    ]
+  },
+  "20250516": {
+    "date": "2025-05-16T00:00:00.000Z",
+    "title": "2025년 5월 16일의 관계들",
+    "categories": [
+      "시간의 단위",
+      "원소의 이름",
+      "'+'가 뜻할 수 있는",
+      "맛있다는 표현에 쓰이는"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "십자",
+        "category": 2
+      },
+      {
+        "index": 1,
+        "content": "일",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "예술",
+        "category": 3
+      },
+      {
+        "index": 3,
+        "content": "칼슘",
+        "category": 1
+      },
+      {
+        "index": 4,
+        "content": "시",
+        "category": 0
+      },
+      {
+        "index": 5,
+        "content": "녹다",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "염소",
+        "category": 1
+      },
+      {
+        "index": 7,
+        "content": "좌표",
+        "category": 2
+      },
+      {
+        "index": 8,
+        "content": "철",
+        "category": 1
+      },
+      {
+        "index": 9,
+        "content": "병원",
+        "category": 2
+      },
+      {
+        "index": 10,
+        "content": "월",
+        "category": 0
+      },
+      {
+        "index": 11,
+        "content": "은",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "도둑",
+        "category": 3
+      },
+      {
+        "index": 13,
+        "content": "초",
+        "category": 0
+      },
+      {
+        "index": 14,
+        "content": "더하다",
+        "category": 2
+      },
+      {
+        "index": 15,
+        "content": "천상",
+        "category": 3
+      }
+    ]
   }
 }

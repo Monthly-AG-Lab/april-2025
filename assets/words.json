@@ -2629,5 +2629,190 @@
         "category": 3
       }
     ]
+  },
+  "20250517": {
+    "date": "2025-05-17T00:00:00.000Z",
+    "title": "2025년 5월 17일의 관계들",
+    "categories": [
+      "무기",
+      "주소지에 붙는",
+      "거꾸로 돌려도 읽을 수 있는",
+      "-나무"
+    ],
+    "credit": "이 관계들은 정서윤과 정하나의 지원으로 쓰였습니다.",
+    "words": [
+      {
+        "index": 0,
+        "content": "대",
+        "category": 3
+      },
+      {
+        "index": 1,
+        "content": "도",
+        "category": 1
+      },
+      {
+        "index": 2,
+        "content": "시",
+        "category": 1
+      },
+      {
+        "index": 3,
+        "content": "눈",
+        "category": 2
+      },
+      {
+        "index": 4,
+        "content": "총",
+        "category": 0
+      },
+      {
+        "index": 5,
+        "content": "동",
+        "category": 1
+      },
+      {
+        "index": 6,
+        "content": "검",
+        "category": 0
+      },
+      {
+        "index": 7,
+        "content": "곰",
+        "category": 2
+      },
+      {
+        "index": 8,
+        "content": "몸",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "활",
+        "category": 0
+      },
+      {
+        "index": 10,
+        "content": "소",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "면",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "감",
+        "category": 3
+      },
+      {
+        "index": 13,
+        "content": "용",
+        "category": 2
+      },
+      {
+        "index": 14,
+        "content": "칼",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "참",
+        "category": 3
+      }
+    ]
+  },
+  "20250518": {
+    "date": "2025-05-18T00:00:00.000Z",
+    "title": "2025년 5월 18일의 관계들",
+    "categories": [
+      "맡은 바",
+      "대나무로 만들 수 있는",
+      "무언가를 말려서 만든",
+      "서울시 자치구 이름"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "중",
+        "category": 3
+      },
+      {
+        "index": 1,
+        "content": "임무",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "황태",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "단소",
+        "category": 1
+      },
+      {
+        "index": 4,
+        "content": "건포도",
+        "category": 2
+      },
+      {
+        "index": 5,
+        "content": "서대문",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "돗자리",
+        "category": 1
+      },
+      {
+        "index": 7,
+        "content": "한약재",
+        "category": 2
+      },
+      {
+        "index": 8,
+        "content": "죽부인",
+        "category": 1
+      },
+      {
+        "index": 9,
+        "content": "한지",
+        "category": 2
+      },
+      {
+        "index": 10,
+        "content": "사명",
+        "category": 0
+      },
+      {
+        "index": 11,
+        "content": "동작",
+        "category": 3
+      },
+      {
+        "index": 12,
+        "content": "역할",
+        "category": 0
+      },
+      {
+        "index": 13,
+        "content": "창",
+        "category": 1
+      },
+      {
+        "index": 14,
+        "content": "강남",
+        "category": 3
+      },
+      {
+        "index": 15,
+        "content": "일",
+        "category": 0
+      }
+    ]
   }
 }

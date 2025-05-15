@@ -2814,5 +2814,189 @@
         "category": 0
       }
     ]
+  },
+  "20250519": {
+    "date": "2025-05-19T00:00:00.000Z",
+    "title": "2025년 5월 19일의 관계들",
+    "categories": [
+      "전체",
+      "짝을 이루는",
+      "시원한",
+      "슈퍼 마리오 게임을 이루는"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "전부",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "화투",
+        "category": 1
+      },
+      {
+        "index": 2,
+        "content": "버섯",
+        "category": 3
+      },
+      {
+        "index": 3,
+        "content": "선풍기",
+        "category": 2
+      },
+      {
+        "index": 4,
+        "content": "양말",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "치약",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "동전",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "총",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "다",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "별",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "열탕",
+        "category": 2
+      },
+      {
+        "index": 11,
+        "content": "젓가락",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "밤공기",
+        "category": 2
+      },
+      {
+        "index": 13,
+        "content": "쌍둥이",
+        "category": 1
+      },
+      {
+        "index": 14,
+        "content": "모두",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "거북이",
+        "category": 3
+      }
+    ]
+  },
+  "20250520": {
+    "date": "2025-05-20T00:00:00.000Z",
+    "title": "2025년 5월 20일의 관계들",
+    "categories": [
+      "부서명",
+      "수능을 위해 필요한",
+      "반대되는 한자로 이뤄진",
+      "-국수"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "인사",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "잔치",
+        "category": 3
+      },
+      {
+        "index": 2,
+        "content": "시비",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "시계",
+        "category": 1
+      },
+      {
+        "index": 4,
+        "content": "비빔",
+        "category": 3
+      },
+      {
+        "index": 5,
+        "content": "도시락",
+        "category": 1
+      },
+      {
+        "index": 6,
+        "content": "기획",
+        "category": 0
+      },
+      {
+        "index": 7,
+        "content": "내외",
+        "category": 2
+      },
+      {
+        "index": 8,
+        "content": "승패",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "막",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "수험표",
+        "category": 1
+      },
+      {
+        "index": 11,
+        "content": "개발",
+        "category": 0
+      },
+      {
+        "index": 12,
+        "content": "필기구",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "영업",
+        "category": 0
+      },
+      {
+        "index": 14,
+        "content": "장단",
+        "category": 2
+      },
+      {
+        "index": 15,
+        "content": "열무",
+        "category": 3
+      }
+    ]
   }
 }

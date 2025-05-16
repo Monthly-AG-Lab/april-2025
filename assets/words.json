@@ -2998,5 +2998,190 @@
         "category": 3
       }
     ]
+  },
+  "20250521": {
+    "date": "2025-05-21T00:00:00.000Z",
+    "title": "2025년 5월 21일의 관계들",
+    "categories": [
+      "사칙연산",
+      "동사이자 형용사인",
+      "동물 이름을 어간으로 하는",
+      "깨-"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "물다",
+        "category": 3
+      },
+      {
+        "index": 1,
+        "content": "말다",
+        "category": 2
+      },
+      {
+        "index": 2,
+        "content": "달다",
+        "category": 1
+      },
+      {
+        "index": 3,
+        "content": "더하다",
+        "category": 0
+      },
+      {
+        "index": 4,
+        "content": "오리다",
+        "category": 2
+      },
+      {
+        "index": 5,
+        "content": "나누다",
+        "category": 0
+      },
+      {
+        "index": 6,
+        "content": "적다",
+        "category": 1
+      },
+      {
+        "index": 7,
+        "content": "닫다",
+        "category": 3
+      },
+      {
+        "index": 8,
+        "content": "지다",
+        "category": 3
+      },
+      {
+        "index": 9,
+        "content": "쥐다",
+        "category": 2
+      },
+      {
+        "index": 10,
+        "content": "빼다",
+        "category": 0
+      },
+      {
+        "index": 11,
+        "content": "개다",
+        "category": 2
+      },
+      {
+        "index": 12,
+        "content": "곱하다",
+        "category": 0
+      },
+      {
+        "index": 13,
+        "content": "쓰다",
+        "category": 1
+      },
+      {
+        "index": 14,
+        "content": "부수다",
+        "category": 3
+      },
+      {
+        "index": 15,
+        "content": "크다",
+        "category": 1
+      }
+    ]
+  },
+  "20250522": {
+    "date": "2025-05-22T00:00:00.000Z",
+    "title": "2025년 5월 22일의 관계들",
+    "categories": [
+      "파충류",
+      "십이간지",
+      "한국 프로야구 팀 마스코트",
+      "'작은 동물원' 동요를 이루는"
+    ],
+    "credit": "이 관계들은 원종현의 지원으로 쓰였습니다.",
+    "words": [
+      {
+        "index": 0,
+        "content": "쥐",
+        "category": 1
+      },
+      {
+        "index": 1,
+        "content": "거북",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "소라",
+        "category": 3
+      },
+      {
+        "index": 3,
+        "content": "갈매기",
+        "category": 2
+      },
+      {
+        "index": 4,
+        "content": "도마뱀",
+        "category": 0
+      },
+      {
+        "index": 5,
+        "content": "곰",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "송아지",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "토끼",
+        "category": 1
+      },
+      {
+        "index": 8,
+        "content": "사자",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "개구리",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "원숭이",
+        "category": 1
+      },
+      {
+        "index": 11,
+        "content": "악어",
+        "category": 0
+      },
+      {
+        "index": 12,
+        "content": "돼지",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "카멜레온",
+        "category": 0
+      },
+      {
+        "index": 14,
+        "content": "독수리",
+        "category": 2
+      },
+      {
+        "index": 15,
+        "content": "병아리",
+        "category": 3
+      }
+    ]
   }
 }

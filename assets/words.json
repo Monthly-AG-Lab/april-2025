@@ -4089,5 +4089,184 @@
         "category": 2
       }
     ]
+  },
+  "20250602": {
+    "date": "2025-06-02T00:00:00.000Z",
+    "title": "2025년 6월 2일의 관계들",
+    "categories": ["정보를 전달하는", "2에 관한", "지하철 역명", "맨-"],
+    "words": [
+      {
+        "index": 0,
+        "content": "서울",
+        "category": 2
+      },
+      {
+        "index": 1,
+        "content": "미디어",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "시티",
+        "category": 3
+      },
+      {
+        "index": 3,
+        "content": "비엔날레",
+        "category": 1
+      },
+      {
+        "index": 4,
+        "content": "홀",
+        "category": 3
+      },
+      {
+        "index": 5,
+        "content": "듀엣",
+        "category": 1
+      },
+      {
+        "index": 6,
+        "content": "뉴스",
+        "category": 0
+      },
+      {
+        "index": 7,
+        "content": "이수",
+        "category": 2
+      },
+      {
+        "index": 8,
+        "content": "교대",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "속편",
+        "category": 1
+      },
+      {
+        "index": 10,
+        "content": "발",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "문서",
+        "category": 0
+      },
+      {
+        "index": 12,
+        "content": "백과사전",
+        "category": 0
+      },
+      {
+        "index": 13,
+        "content": "밥",
+        "category": 3
+      },
+      {
+        "index": 14,
+        "content": "경복궁",
+        "category": 2
+      },
+      {
+        "index": 15,
+        "content": "쌍둥이",
+        "category": 1
+      }
+    ]
+  },
+  "20250603": {
+    "date": "2025-06-03T00:00:00.000Z",
+    "title": "2025년 6월 3일의 관계들",
+    "categories": [
+      "표현 기법",
+      "헌법에 보장된 국민의 권리",
+      "여름 하면 떠오르는",
+      "-을/를 치다"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "선거",
+        "category": 1
+      },
+      {
+        "index": 1,
+        "content": "강조",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "매미",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "손뼉",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "해수욕장",
+        "category": 2
+      },
+      {
+        "index": 5,
+        "content": "재산",
+        "category": 0
+      },
+      {
+        "index": 6,
+        "content": "피아노",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "역설",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "화투",
+        "category": 3
+      },
+      {
+        "index": 9,
+        "content": "덥다",
+        "category": 2
+      },
+      {
+        "index": 10,
+        "content": "반복",
+        "category": 0
+      },
+      {
+        "index": 11,
+        "content": "근로",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "비유",
+        "category": 0
+      },
+      {
+        "index": 13,
+        "content": "청원",
+        "category": 1
+      },
+      {
+        "index": 14,
+        "content": "사기",
+        "category": 3
+      },
+      {
+        "index": 15,
+        "content": "팥빙수",
+        "category": 2
+      }
+    ]
   }
 }

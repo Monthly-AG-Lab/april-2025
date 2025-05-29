@@ -4268,5 +4268,184 @@
         "category": 2
       }
     ]
+  },
+  "20250604": {
+    "date": "2025-06-04T00:00:00.000Z",
+    "title": "2025년 6월 4일의 관계들",
+    "categories": [
+      "오르내리기 위한",
+      "불을 붙이는",
+      "MBTI를 이루는",
+      "스튜디오 지브리 애니메이션의 제목을 이루는"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "승강기",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "담배",
+        "category": 1
+      },
+      {
+        "index": 2,
+        "content": "판단",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "돼지",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "폭죽",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "내향",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "벼랑",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "사다리",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "직관",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "계단",
+        "category": 0
+      },
+      {
+        "index": 10,
+        "content": "마녀",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "성냥",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "도화선",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "행방불명",
+        "category": 3
+      },
+      {
+        "index": 14,
+        "content": "무빙워크",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "사고",
+        "category": 2
+      }
+    ]
+  },
+  "20250605": {
+    "date": "2025-06-05T00:00:00.000Z",
+    "title": "2025년 6월 5일의 관계들",
+    "categories": ["음악의 요소", "한국 가수 활동명", "점차 퍼지는", "-력"],
+    "words": [
+      {
+        "index": 0,
+        "content": "태양",
+        "category": 1
+      },
+      {
+        "index": 1,
+        "content": "지구",
+        "category": 3
+      },
+      {
+        "index": 2,
+        "content": "화성",
+        "category": 0
+      },
+      {
+        "index": 3,
+        "content": "바다",
+        "category": 1
+      },
+      {
+        "index": 4,
+        "content": "바이러스",
+        "category": 2
+      },
+      {
+        "index": 5,
+        "content": "멜로디",
+        "category": 0
+      },
+      {
+        "index": 6,
+        "content": "사고",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "소문",
+        "category": 2
+      },
+      {
+        "index": 8,
+        "content": "리듬",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "면발",
+        "category": 2
+      },
+      {
+        "index": 10,
+        "content": "양파",
+        "category": 1
+      },
+      {
+        "index": 11,
+        "content": "냄새",
+        "category": 2
+      },
+      {
+        "index": 12,
+        "content": "거미",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "어휘",
+        "category": 3
+      },
+      {
+        "index": 14,
+        "content": "경쟁",
+        "category": 3
+      },
+      {
+        "index": 15,
+        "content": "음색",
+        "category": 0
+      }
+    ]
   }
 }

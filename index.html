@@ -1,39 +1,31 @@
 <!DOCTYPE html>
 <html lang="ko">
-  <head>
+
+<head>
     <meta charset="UTF-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
-    />
-    <link
-      rel="stylesheet"
-      as="style"
-      crossorigin
-      href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css"
-    />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" />
     <link rel="stylesheet" href="reset.css" />
     <link rel="stylesheet" href="fonts.css" />
     <link rel="stylesheet" href="style.css" />
     <title>관계들</title>
-  </head>
+</head>
 
-  <body>
+<body>
     <main class="main">
-      <section class="section game">
-        <div class="container nav">
-          <nav class="nav">
-            <button id="prevDay">어제</button>
-            <h1 id="title"></h1>
-            <button id="nextDay">내일</button>
-          </nav>
-        </div>
-        <div class="container game">
-          <ul class="words"></ul>
-          <button id="submit"></button>
-          <div class="additional-buttons">
-            <a class="button" href="dictionary.html" target="_blank"
-              >찾아보기</a
+        <section class="section game">
+            <div class="container nav">
+                <nav class="nav">
+                    <button id="prevDay">어제</button>
+                    <h1 id="title"></h1>
+                    <button id="nextDay">내일</button>
+                </nav>
+            </div>
+            <div class="container game">
+                <ul class="words"></ul>
+                <button id="submit"></button>
+                <div class="additional-buttons">
+                    <a class="button" href="dictionary.html" target="_blank">찾아보기</a
             >
             <a
               href="http://lab.ag.co.kr/hyperlinks/connections"
@@ -42,20 +34,26 @@
             >
               소개
             </a>
-          </div>
-        </div>
+                </div>
+            </div>
 
-        <div class="container disclaimer">
-          <p class="disclaimer">
-            <span class="ahn">관계들</span>은 The New York Times의
-            <a href="https://www.nytimes.com/games/connections" target="_blank"
-              ><span class="karnak">Connections</span></a
+            <div class="container disclaimer">
+                <p class="disclaimer">
+                    <span class="ahn">관계들</span>은 The New York Times의
+                    <a href="https://www.nytimes.com/games/connections" target="_blank"><span class="karnak">Connections</span></a
             >를 향한 사랑으로 쓰였습니다.
           </p>
           <p class="credit"></p>
         </div>
       </section>
+      
     </main>
-    <script type="module" src="script.js"></script>
-  </body>
+    <footer class="footer">
+      <div><a href="http://lab.ag.co.kr"><span class="logo"><span>안그라픽스 랩</span><span>AG 랩</span></span></a></div>
+            <div><a href="https://aglab.neocities.org">작고, 단순하고, 느닷없고, 끊임없이!</a></div>
+            </footer>
+
+            <script type="module" src="script.js"></script>
+</body>
+
 </html>

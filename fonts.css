@@ -1,69 +1,66 @@
 @font-face {
-  font-family: "Choi Jeongho Screen";
-  font-weight: 400;
-  src: url("./assets/fonts/choi-jeongho-screen-regular.woff2") format("woff2"),
-    url("./assets/fonts/choi-jeongho-screen-regular.woff") format("woff");
+    font-family: "Choi Jeongho Screen";
+    font-weight: 400;
+    src: url("./assets/fonts/choi-jeongho-screen-regular.woff2") format("woff2"), url("./assets/fonts/choi-jeongho-screen-regular.woff") format("woff");
 }
 
 @font-face {
-  font-family: "Choi Jeongho Screen";
-  font-weight: 600;
-  src: url("./assets/fonts/choi-jeongho-screen-semi-bold.woff2") format("woff2"),
-    url("./assets/fonts/choi-jeongho-screen-semi-bold.woff") format("woff");
+    font-family: "Choi Jeongho Screen";
+    font-weight: 600;
+    src: url("./assets/fonts/choi-jeongho-screen-semi-bold.woff2") format("woff2"), url("./assets/fonts/choi-jeongho-screen-semi-bold.woff") format("woff");
 }
 
 @font-face {
-  font-family: "Choi Jeongho Screen";
-  font-weight: 700;
-  src: url("./assets/fonts/choi-jeongho-screen-bold.woff2") format("woff2"),
-    url("./assets/fonts/choi-jeongho-screen-bold.woff") format("woff");
+    font-family: "Choi Jeongho Screen";
+    font-weight: 700;
+    src: url("./assets/fonts/choi-jeongho-screen-bold.woff2") format("woff2"), url("./assets/fonts/choi-jeongho-screen-bold.woff") format("woff");
 }
 
 @font-face {
-  font-family: "Ahn Sangsoo";
-  font-style: normal;
-  font-weight: 200;
-  src: url("./assets/fonts/ahn-sangsoo-extra-light.woff2") format("woff2"),
-    url("./assets/fonts/ahn-sangsoo-extra-light.woff") format("woff");
+    font-family: "Ahn Sangsoo";
+    font-style: normal;
+    font-weight: 200;
+    src: url("./assets/fonts/ahn-sangsoo-extra-light.woff2") format("woff2"), url("./assets/fonts/ahn-sangsoo-extra-light.woff") format("woff");
 }
 
 @font-face {
-  font-family: "Ahn Sangsoo";
-  font-style: normal;
-  font-weight: 300;
-  src: url("./assets/fonts/ahn-sangsoo-light.woff2") format("woff2"),
-    url("./assets/fonts/ahn-sangsoo-light.woff") format("woff");
+    font-family: "Ahn Sangsoo";
+    font-style: normal;
+    font-weight: 300;
+    src: url("./assets/fonts/ahn-sangsoo-light.woff2") format("woff2"), url("./assets/fonts/ahn-sangsoo-light.woff") format("woff");
 }
 
 @font-face {
-  font-family: "Ahn Sangsoo";
-  font-style: normal;
-  font-weight: 400;
-  src: url("./assets/fonts/ahn-sangsoo-medium.woff2") format("woff2"),
-    url("./assets/fonts/ahn-sangsoo-medium.woff") format("woff");
+    font-family: "Ahn Sangsoo";
+    font-style: normal;
+    font-weight: 400;
+    src: url("./assets/fonts/ahn-sangsoo-medium.woff2") format("woff2"), url("./assets/fonts/ahn-sangsoo-medium.woff") format("woff");
 }
 
 @font-face {
-  font-family: "Ahn Sangsoo";
-  font-style: normal;
-  font-weight: 700;
-  src: url("./assets/fonts/ahn-sangsoo-bold.woff") format("woff");
+    font-family: "Ahn Sangsoo";
+    font-style: normal;
+    font-weight: 700;
+    src: url("./assets/fonts/ahn-sangsoo-bold.woff") format("woff");
 }
 
 @font-face {
-  font-family: "Ahn Sangsoo";
-  font-style: normal;
-  font-weight: 900;
-  src: url("./assets/fonts/ahn-sangsoo-extra-bold.woff2") format("woff2"),
-    url("./assets/fonts/ahn-sangsoo-extra-bold.woff") format("woff");
+    font-family: "Ahn Sangsoo";
+    font-style: normal;
+    font-weight: 900;
+    src: url("./assets/fonts/ahn-sangsoo-extra-bold.woff2") format("woff2"), url("./assets/fonts/ahn-sangsoo-extra-bold.woff") format("woff");
 }
 
 @font-face {
-  font-family: "NYTKarnakCondensed";
-  font-style: normal;
-  font-weight: 700;
-  src: url("https://db.onlinewebfonts.com/t/4789cf828c01b22acb9b2b73ee91aa0d.woff2")
-      format("woff2"),
-    url("https://db.onlinewebfonts.com/t/4789cf828c01b22acb9b2b73ee91aa0d.woff")
-      format("woff");
+    font-family: "NYTKarnakCondensed";
+    font-style: normal;
+    font-weight: 700;
+    src: url("https://db.onlinewebfonts.com/t/4789cf828c01b22acb9b2b73ee91aa0d.woff2") format("woff2"), url("https://db.onlinewebfonts.com/t/4789cf828c01b22acb9b2b73ee91aa0d.woff") format("woff");
+}
+
+@font-face {
+    font-family: Logo;
+    src: url('./assets/fonts/logo.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }

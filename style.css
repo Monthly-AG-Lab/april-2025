@@ -61,7 +61,12 @@ button {
     font-weight: 700;
     font-size: 4rem;
     width: 100%;
+    height: auto;
     display: block;
+}
+
+.section.stats {
+    height: auto;
 }
 
 .container {
@@ -340,6 +345,22 @@ li.active {
     display: none;
 }
 
+.three-stars {
+    font-family: 'Pretendard Variable', Pretendard, sans-serif;
+    font-weight: 700;
+    font-size: 1.5rem;
+    padding: 1.5rem;
+}
+
+.stats-container {
+    font-family: 'Pretendard Variable', Pretendard, sans-serif;
+    font-weight: 700;
+    font-size: 1rem;
+    text-align: center;
+    line-height: 1.7;
+    padding-bottom: 1rem;
+}
+
 @media screen and (max-width: 899px) {
     .logo span:first-child {
         display: none;
@@ -441,6 +462,12 @@ li.active {
     }
     .disclaimer {
         font-size: 0.7rem;
+    }
+    .three-stars {
+        font-size: 1rem;
+    }
+    .stats-container {
+        font-size: .75rem;
     }
 }
 

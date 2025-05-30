@@ -2,9 +2,13 @@ import { fetchData } from "./fetchData.js";
 
 const dictionarySection = document.querySelector(".section.dictionary");
 const dictionaryContainer = document.querySelector(".dictionary-container");
+const statsContainer = document.querySelector(".stats-container");
 
 const wordList = {}; // 사전 데이터
 let allData = {}; // 오늘까지의 전체 데이터
+let multipleWordsCount = 0;
+let mostFrequentNum = 0;
+let mostFrequentWord = "";
 
 const createDictionary = async() => {
     const data = await fetchData();
@@ -16,6 +20,8 @@ const createDictionary = async() => {
             return entryDate.getTime() <= today;
         })
     );
+
+    const days = Object.keys(allData).length;
 
     // 단어 리스트 생성
     for (const [key, value] of Object.entries(allData)) {
@@ -31,6 +37,15 @@ const createDictionary = async() => {
                     )
                     .map((w) => w.content),
             });
+
+            if (wordList[word.content].length == 2) {
+                multipleWordsCount++;
+            }
+
+            if (wordList[word.content].length > mostFrequentNum) {
+                mostFrequentNum = wordList[word.content].length;
+                mostFrequentWord = word.content;
+            }
         });
     }
 
@@ -47,6 +62,19 @@ const createDictionary = async() => {
         dictionaryContainer.appendChild(span);
         span.addEventListener("click", onWordClick);
     });
+
+    // 통계 컨테이너에 렌더링
+    const dayStats = document.createElement("p");
+    dayStats.textContent = `오늘까지 ${days}일 동안 ${
+    Object.keys(wordList).length
+  }개의 단어들이 ${days * 4}개의 관계들을 맺었습니다.`;
+    const multipleStats = document.createElement("p");
+    multipleStats.textContent = `그 중 ${multipleWordsCount}개의 단어들은 관계들의 무대에 두 번 이상 올랐습니다.`;
+    const mostFrequentStats = document.createElement("p");
+    mostFrequentStats.textContent = ` 게다가 "${mostFrequentWord}"는 무려 ${mostFrequentNum}번이나 관계들을 맺었군요!`;
+    statsContainer.appendChild(dayStats);
+    statsContainer.appendChild(multipleStats);
+    statsContainer.appendChild(mostFrequentStats);
 };
 
 const onWordClick = (event) => {

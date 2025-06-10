@@ -5163,5 +5163,189 @@
         "category": 2
       }
     ]
+  },
+  "20250614": {
+    "date": "2025-06-14T00:00:00.000Z",
+    "title": "2025년 6월 14일의 관계들",
+    "categories": [
+      "신발을 이루는",
+      "구매를 위한",
+      "긴 것이 특징적인",
+      "연결하는"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "코끼리",
+        "category": 2
+      },
+      {
+        "index": 1,
+        "content": "밑창",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "키오스크",
+        "category": 1
+      },
+      {
+        "index": 3,
+        "content": "접속사",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "카드",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "하이퍼링크",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "대하소설",
+        "category": 2
+      },
+      {
+        "index": 7,
+        "content": "굽",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "마라톤",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "끈",
+        "category": 0
+      },
+      {
+        "index": 10,
+        "content": "다리",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "쿠폰",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "장바구니",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "나일강",
+        "category": 2
+      },
+      {
+        "index": 14,
+        "content": "갈고리",
+        "category": 3
+      },
+      {
+        "index": 15,
+        "content": "앞코",
+        "category": 0
+      }
+    ]
+  },
+  "20250615": {
+    "date": "2025-06-15T00:00:00.000Z",
+    "title": "2025년 6월 15일의 관계들",
+    "categories": [
+      "내야 하는 돈의 종류",
+      "웃음을 유발할 수 있는",
+      "2000년대 히트곡",
+      "-장"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "거짓말",
+        "category": 2
+      },
+      {
+        "index": 1,
+        "content": "말장난",
+        "category": 1
+      },
+      {
+        "index": 2,
+        "content": "난방비",
+        "category": 0
+      },
+      {
+        "index": 3,
+        "content": "비행기",
+        "category": 2
+      },
+      {
+        "index": 4,
+        "content": "위약금",
+        "category": 0
+      },
+      {
+        "index": 5,
+        "content": "결혼식",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "십이지",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "코미디",
+        "category": 1
+      },
+      {
+        "index": 8,
+        "content": "챔피언",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "아수라",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "붙박이",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "상속세",
+        "category": 0
+      },
+      {
+        "index": 12,
+        "content": "시트콤",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "임대료",
+        "category": 0
+      },
+      {
+        "index": 14,
+        "content": "간지럼",
+        "category": 1
+      },
+      {
+        "index": 15,
+        "content": "겁쟁이",
+        "category": 2
+      }
+    ]
   }
 }

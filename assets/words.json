@@ -5347,5 +5347,189 @@
         "category": 2
       }
     ]
+  },
+  "20250616": {
+    "date": "2025-06-16T00:00:00.000Z",
+    "title": "2025년 6월 16일의 관계들",
+    "categories": [
+      "국민의 4대 의무",
+      "영웅의 조건",
+      "왔다 갔다",
+      "야구선수 이름의 앞 두 글자"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "악당",
+        "category": 1
+      },
+      {
+        "index": 1,
+        "content": "변덕",
+        "category": 2
+      },
+      {
+        "index": 2,
+        "content": "유희",
+        "category": 3
+      },
+      {
+        "index": 3,
+        "content": "근로",
+        "category": 0
+      },
+      {
+        "index": 4,
+        "content": "진자",
+        "category": 2
+      },
+      {
+        "index": 5,
+        "content": "시련",
+        "category": 1
+      },
+      {
+        "index": 6,
+        "content": "왕복",
+        "category": 2
+      },
+      {
+        "index": 7,
+        "content": "오타",
+        "category": 3
+      },
+      {
+        "index": 8,
+        "content": "국방",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "이대",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "추신",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "모험",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "극복",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "납세",
+        "category": 0
+      },
+      {
+        "index": 14,
+        "content": "톱질",
+        "category": 2
+      },
+      {
+        "index": 15,
+        "content": "교육",
+        "category": 0
+      }
+    ]
+  },
+  "20250617": {
+    "date": "2025-06-17T00:00:00.000Z",
+    "title": "2025년 6월 17일의 관계들",
+    "categories": [
+      "된장찌개를 끓이기 위한",
+      "주기적으로 해야 하는",
+      "동그라미 여러 개",
+      "호-"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "건강검진",
+        "category": 1
+      },
+      {
+        "index": 1,
+        "content": "업데이트",
+        "category": 1
+      },
+      {
+        "index": 2,
+        "content": "뚝배기",
+        "category": 0
+      },
+      {
+        "index": 3,
+        "content": "오륜기",
+        "category": 2
+      },
+      {
+        "index": 4,
+        "content": "주머니",
+        "category": 3
+      },
+      {
+        "index": 5,
+        "content": "버블티",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "호박",
+        "category": 0
+      },
+      {
+        "index": 7,
+        "content": "떡",
+        "category": 3
+      },
+      {
+        "index": 8,
+        "content": "포도",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "두부",
+        "category": 0
+      },
+      {
+        "index": 10,
+        "content": "밀",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "된장",
+        "category": 0
+      },
+      {
+        "index": 12,
+        "content": "세차",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "운동",
+        "category": 1
+      },
+      {
+        "index": 14,
+        "content": "시절",
+        "category": 3
+      },
+      {
+        "index": 15,
+        "content": "묵주",
+        "category": 2
+      }
+    ]
   }
 }

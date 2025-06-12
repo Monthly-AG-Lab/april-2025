@@ -5531,5 +5531,189 @@
         "category": 2
       }
     ]
+  },
+  "20250618": {
+    "date": "2025-06-18T00:00:00.000Z",
+    "title": "2025년 6월 18일의 관계들",
+    "categories": [
+      "아기를 위한",
+      "동물 이름으로 시작하는",
+      "색으로 나누는",
+      "박찬욱 영화의 제목을 이루는"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "이유식",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "스토커",
+        "category": 3
+      },
+      {
+        "index": 2,
+        "content": "노루잠",
+        "category": 1
+      },
+      {
+        "index": 3,
+        "content": "신호등",
+        "category": 2
+      },
+      {
+        "index": 4,
+        "content": "쥐며느리",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "관계들",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "괜찮아",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "젖병",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "요람",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "대하소설",
+        "category": 1
+      },
+      {
+        "index": 10,
+        "content": "무지개",
+        "category": 2
+      },
+      {
+        "index": 11,
+        "content": "결심",
+        "category": 3
+      },
+      {
+        "index": 12,
+        "content": "복수",
+        "category": 3
+      },
+      {
+        "index": 13,
+        "content": "기저귀",
+        "category": 0
+      },
+      {
+        "index": 14,
+        "content": "노선도",
+        "category": 2
+      },
+      {
+        "index": 15,
+        "content": "여우비",
+        "category": 1
+      }
+    ]
+  },
+  "20250619": {
+    "date": "2025-06-19T00:00:00.000Z",
+    "title": "2025년 6월 19일의 관계들",
+    "categories": [
+      "증정하는",
+      "트럭으로 옮기는",
+      "식을 수 있는",
+      "'말'이 뜻할 수 있는"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "선물",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "화물",
+        "category": 1
+      },
+      {
+        "index": 2,
+        "content": "국물",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "동물",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "애정",
+        "category": 2
+      },
+      {
+        "index": 5,
+        "content": "쿠폰",
+        "category": 0
+      },
+      {
+        "index": 6,
+        "content": "더위",
+        "category": 2
+      },
+      {
+        "index": 7,
+        "content": "가전제품",
+        "category": 1
+      },
+      {
+        "index": 8,
+        "content": "음성",
+        "category": 3
+      },
+      {
+        "index": 9,
+        "content": "단위",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "이삿짐",
+        "category": 1
+      },
+      {
+        "index": 11,
+        "content": "상품권",
+        "category": 0
+      },
+      {
+        "index": 12,
+        "content": "택배",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "경품",
+        "category": 0
+      },
+      {
+        "index": 14,
+        "content": "분노",
+        "category": 2
+      },
+      {
+        "index": 15,
+        "content": "끝",
+        "category": 3
+      }
+    ]
   }
 }

@@ -5715,5 +5715,189 @@
         "category": 3
       }
     ]
+  },
+  "20250620": {
+    "date": "2025-06-20T00:00:00.000Z",
+    "title": "2025년 6월 20일의 관계들",
+    "categories": [
+      "예술의 유형",
+      "흰",
+      "아침이 왔음을 알리는",
+      "픽사 영화의 주인공"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "우유",
+        "category": 1
+      },
+      {
+        "index": 1,
+        "content": "햇살",
+        "category": 2
+      },
+      {
+        "index": 2,
+        "content": "로봇",
+        "category": 3
+      },
+      {
+        "index": 3,
+        "content": "문학",
+        "category": 0
+      },
+      {
+        "index": 4,
+        "content": "회화",
+        "category": 0
+      },
+      {
+        "index": 5,
+        "content": "물고기",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "쌀밥",
+        "category": 1
+      },
+      {
+        "index": 7,
+        "content": "나팔",
+        "category": 2
+      },
+      {
+        "index": 8,
+        "content": "알람",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "감정",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "음악",
+        "category": 0
+      },
+      {
+        "index": 11,
+        "content": "휴지",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "눈",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "영화",
+        "category": 0
+      },
+      {
+        "index": 14,
+        "content": "수탉",
+        "category": 2
+      },
+      {
+        "index": 15,
+        "content": "자동차",
+        "category": 3
+      }
+    ]
+  },
+  "20250621": {
+    "date": "2025-06-21T00:00:00.000Z",
+    "title": "2025년 6월 21일의 관계들",
+    "categories": [
+      "재활용 분류",
+      "인형 뽑기 기계를 이루는",
+      "손가락을 끼우는",
+      "-기타"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "어쿠스틱",
+        "category": 3
+      },
+      {
+        "index": 1,
+        "content": "조이스틱",
+        "category": 1
+      },
+      {
+        "index": 2,
+        "content": "플라스틱",
+        "category": 0
+      },
+      {
+        "index": 3,
+        "content": "반지",
+        "category": 2
+      },
+      {
+        "index": 4,
+        "content": "캔",
+        "category": 0
+      },
+      {
+        "index": 5,
+        "content": "통",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "볼링공",
+        "category": 2
+      },
+      {
+        "index": 7,
+        "content": "인형",
+        "category": 1
+      },
+      {
+        "index": 8,
+        "content": "요요",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "리드",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "가위",
+        "category": 2
+      },
+      {
+        "index": 11,
+        "content": "비닐",
+        "category": 0
+      },
+      {
+        "index": 12,
+        "content": "집게",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "종이",
+        "category": 0
+      },
+      {
+        "index": 14,
+        "content": "투입구",
+        "category": 1
+      },
+      {
+        "index": 15,
+        "content": "클래식",
+        "category": 3
+      }
+    ]
   }
 }

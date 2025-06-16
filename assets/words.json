@@ -5899,5 +5899,179 @@
         "category": 3
       }
     ]
+  },
+  "20250622": {
+    "date": "2025-06-22T00:00:00.000Z",
+    "title": "2025년 6월 22일의 관계들",
+    "categories": ["수납하기 위한", "미리 준비하는", "'보다'의 활용형", "한-"],
+    "words": [
+      {
+        "index": 0,
+        "content": "봄",
+        "category": 2
+      },
+      {
+        "index": 1,
+        "content": "여름",
+        "category": 3
+      },
+      {
+        "index": 2,
+        "content": "장",
+        "category": 0
+      },
+      {
+        "index": 3,
+        "content": "보고",
+        "category": 2
+      },
+      {
+        "index": 4,
+        "content": "반도",
+        "category": 3
+      },
+      {
+        "index": 5,
+        "content": "박스",
+        "category": 0
+      },
+      {
+        "index": 6,
+        "content": "기상예보",
+        "category": 1
+      },
+      {
+        "index": 7,
+        "content": "사물함",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "가위",
+        "category": 3
+      },
+      {
+        "index": 9,
+        "content": "볼",
+        "category": 2
+      },
+      {
+        "index": 10,
+        "content": "평생",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "보험",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "상비약",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "서랍",
+        "category": 0
+      },
+      {
+        "index": 14,
+        "content": "계획",
+        "category": 1
+      },
+      {
+        "index": 15,
+        "content": "보아",
+        "category": 2
+      }
+    ]
+  },
+  "20250623": {
+    "date": "2025-06-23T00:00:00.000Z",
+    "title": "2025년 6월 23일의 관계들",
+    "categories": ["탈것", "웹상의 모임", "html 태그 이름", "블랙-"],
+    "words": [
+      {
+        "index": 0,
+        "content": "그룹",
+        "category": 1
+      },
+      {
+        "index": 1,
+        "content": "버스",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "커피",
+        "category": 3
+      },
+      {
+        "index": 3,
+        "content": "카페",
+        "category": 1
+      },
+      {
+        "index": 4,
+        "content": "버튼",
+        "category": 2
+      },
+      {
+        "index": 5,
+        "content": "박스",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "홀",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "택시",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "헬리콥터",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "코미디",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "테이블",
+        "category": 2
+      },
+      {
+        "index": 11,
+        "content": "커뮤니티",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "폼",
+        "category": 2
+      },
+      {
+        "index": 13,
+        "content": "밴드",
+        "category": 1
+      },
+      {
+        "index": 14,
+        "content": "탱크",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "헤더",
+        "category": 2
+      }
+    ]
   }
 }

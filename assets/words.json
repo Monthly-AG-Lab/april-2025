@@ -6073,5 +6073,189 @@
         "category": 2
       }
     ]
+  },
+  "20250624": {
+    "date": "2025-06-24T00:00:00.000Z",
+    "title": "2025년 6월 24일의 관계들",
+    "categories": [
+      "재테크를 위한",
+      "투표에 관한",
+      "무언가를 방지하기 위한",
+      "청-"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "부동산",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "부동층",
+        "category": 1
+      },
+      {
+        "index": 2,
+        "content": "부동액",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "사진",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "난간",
+        "category": 2
+      },
+      {
+        "index": 5,
+        "content": "소년",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "적금",
+        "category": 0
+      },
+      {
+        "index": 7,
+        "content": "금",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "후보",
+        "category": 1
+      },
+      {
+        "index": 9,
+        "content": "자물쇠",
+        "category": 2
+      },
+      {
+        "index": 10,
+        "content": "바지",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "기표소",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "주식",
+        "category": 0
+      },
+      {
+        "index": 13,
+        "content": "도장",
+        "category": 1
+      },
+      {
+        "index": 14,
+        "content": "신호",
+        "category": 3
+      },
+      {
+        "index": 15,
+        "content": "마스크",
+        "category": 2
+      }
+    ]
+  },
+  "20250625": {
+    "date": "2025-06-25T00:00:00.000Z",
+    "title": "2025년 6월 25일의 관계들",
+    "categories": [
+      "청소 도구",
+      "아름다움에 관한",
+      "골프 점수",
+      "여러 레이어로 이루어진"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "솔",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "미",
+        "category": 1
+      },
+      {
+        "index": 2,
+        "content": "파",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "양파",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "매력",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "나이테",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "보기",
+        "category": 2
+      },
+      {
+        "index": 7,
+        "content": "청소기",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "걸레",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "버디",
+        "category": 2
+      },
+      {
+        "index": 10,
+        "content": "지층",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "우아",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "곱다",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "포토샵",
+        "category": 3
+      },
+      {
+        "index": 14,
+        "content": "빗자루",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "이글",
+        "category": 2
+      }
+    ]
   }
 }

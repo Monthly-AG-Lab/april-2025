@@ -6257,5 +6257,189 @@
         "category": 2
       }
     ]
+  },
+  "20250626": {
+    "date": "2025-06-26T00:00:00.000Z",
+    "title": "2025년 6월 26일의 관계들",
+    "categories": [
+      "바지를 이루는",
+      "십장생",
+      "변동하는",
+      "유명 브랜드의 앞 두 글자"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "지퍼",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "스타",
+        "category": 3
+      },
+      {
+        "index": 2,
+        "content": "물가",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "거북",
+        "category": 1
+      },
+      {
+        "index": 4,
+        "content": "소나무",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "지각",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "나이",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "단추",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "사회",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "고무줄",
+        "category": 0
+      },
+      {
+        "index": 10,
+        "content": "아마",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "해",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "주머니",
+        "category": 0
+      },
+      {
+        "index": 13,
+        "content": "돌",
+        "category": 1
+      },
+      {
+        "index": 14,
+        "content": "페이",
+        "category": 3
+      },
+      {
+        "index": 15,
+        "content": "정세",
+        "category": 2
+      }
+    ]
+  },
+  "20250627": {
+    "date": "2025-06-27T00:00:00.000Z",
+    "title": "2025년 6월 27일의 관계들",
+    "categories": [
+      "잘못의 대가",
+      "중세의 기사를 이루는",
+      "-떡",
+      "히어로 이름을 한국어로 직역한"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "빈대",
+        "category": 2
+      },
+      {
+        "index": 1,
+        "content": "벌",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "박쥐",
+        "category": 3
+      },
+      {
+        "index": 3,
+        "content": "거미",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "칼",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "철",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "죄책감",
+        "category": 0
+      },
+      {
+        "index": 7,
+        "content": "투구",
+        "category": 1
+      },
+      {
+        "index": 8,
+        "content": "과태료",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "찹쌀",
+        "category": 2
+      },
+      {
+        "index": 10,
+        "content": "말",
+        "category": 1
+      },
+      {
+        "index": 11,
+        "content": "꿀",
+        "category": 2
+      },
+      {
+        "index": 12,
+        "content": "갑옷",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "대단한",
+        "category": 3
+      },
+      {
+        "index": 14,
+        "content": "무지개",
+        "category": 2
+      },
+      {
+        "index": 15,
+        "content": "징계",
+        "category": 0
+      }
+    ]
   }
 }

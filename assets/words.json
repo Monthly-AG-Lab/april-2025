@@ -6620,5 +6620,189 @@
         "category": 1
       }
     ]
+  },
+  "20250630": {
+    "date": "2025-06-30T00:00:00.000Z",
+    "title": "2025년 6월 30일의 관계들",
+    "categories": [
+      "영화관을 이루는",
+      "돈이 들어있는",
+      "인사의 방식",
+      "'x'가 뜻할 수 있는"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "좌석",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "지갑",
+        "category": 1
+      },
+      {
+        "index": 2,
+        "content": "입맞춤",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "오답",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "절",
+        "category": 2
+      },
+      {
+        "index": 5,
+        "content": "미지수",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "팝콘",
+        "category": 0
+      },
+      {
+        "index": 7,
+        "content": "자판기",
+        "category": 1
+      },
+      {
+        "index": 8,
+        "content": "비상구",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "아니요",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "저금통",
+        "category": 1
+      },
+      {
+        "index": 11,
+        "content": "악수",
+        "category": 2
+      },
+      {
+        "index": 12,
+        "content": "모금함",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "포옹",
+        "category": 2
+      },
+      {
+        "index": 14,
+        "content": "곱하기",
+        "category": 3
+      },
+      {
+        "index": 15,
+        "content": "스크린",
+        "category": 0
+      }
+    ]
+  },
+  "20250701": {
+    "date": "2025-07-01T00:00:00.000Z",
+    "title": "2025년 7월 1일의 관계들",
+    "categories": [
+      "계획 없이",
+      "농산물 앞에 붙는",
+      "반원 모양",
+      "불교에서 유래한"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "무작정",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "무공해",
+        "category": 1
+      },
+      {
+        "index": 2,
+        "content": "무지개",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "무진장",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "반달",
+        "category": 2
+      },
+      {
+        "index": 5,
+        "content": "찰나",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "제철",
+        "category": 1
+      },
+      {
+        "index": 7,
+        "content": "다짜고짜",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "산지직송",
+        "category": 1
+      },
+      {
+        "index": 9,
+        "content": "느닷없이",
+        "category": 0
+      },
+      {
+        "index": 10,
+        "content": "야단법석",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "각도기",
+        "category": 2
+      },
+      {
+        "index": 12,
+        "content": "단말마",
+        "category": 3
+      },
+      {
+        "index": 13,
+        "content": "돔",
+        "category": 2
+      },
+      {
+        "index": 14,
+        "content": "유기농",
+        "category": 1
+      },
+      {
+        "index": 15,
+        "content": "갑자기",
+        "category": 0
+      }
+    ]
   }
 }

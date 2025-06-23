@@ -6804,5 +6804,189 @@
         "category": 0
       }
     ]
+  },
+  "20250702": {
+    "date": "2025-07-02T00:00:00.000Z",
+    "title": "2025년 7월 2일의 관계들",
+    "categories": [
+      "구황작물",
+      "보드게임에 주로 쓰는",
+      "접근성을 위한",
+      "무늬를 이루는"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "감자",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "칩",
+        "category": 1
+      },
+      {
+        "index": 2,
+        "content": "말",
+        "category": 1
+      },
+      {
+        "index": 3,
+        "content": "마",
+        "category": 0
+      },
+      {
+        "index": 4,
+        "content": "자막",
+        "category": 2
+      },
+      {
+        "index": 5,
+        "content": "체크",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "점",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "점자",
+        "category": 2
+      },
+      {
+        "index": 8,
+        "content": "꽃",
+        "category": 3
+      },
+      {
+        "index": 9,
+        "content": "경사로",
+        "category": 2
+      },
+      {
+        "index": 10,
+        "content": "주사위",
+        "category": 1
+      },
+      {
+        "index": 11,
+        "content": "옥수수",
+        "category": 0
+      },
+      {
+        "index": 12,
+        "content": "카드",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "고구마",
+        "category": 0
+      },
+      {
+        "index": 14,
+        "content": "고대비",
+        "category": 2
+      },
+      {
+        "index": 15,
+        "content": "줄",
+        "category": 3
+      }
+    ]
+  },
+  "20250703": {
+    "date": "2025-07-01T00:00:00.000Z",
+    "title": "2025년 7월 3일의 관계들",
+    "categories": [
+      "여럿이서 말하는",
+      "현재에 관한",
+      "식사를 뜻할 수 있는",
+      "‘A/a’가 나타낼 수 있는"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "하이퍼링크",
+        "category": 3
+      },
+      {
+        "index": 1,
+        "content": "토크",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "오늘",
+        "category": 1
+      },
+      {
+        "index": 3,
+        "content": "저녁",
+        "category": 2
+      },
+      {
+        "index": 4,
+        "content": "지금",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "골뱅이",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "밥",
+        "category": 2
+      },
+      {
+        "index": 7,
+        "content": "대화",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "진지",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "최우수",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "좌담",
+        "category": 0
+      },
+      {
+        "index": 11,
+        "content": "현",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "이야기",
+        "category": 0
+      },
+      {
+        "index": 13,
+        "content": "이때",
+        "category": 1
+      },
+      {
+        "index": 14,
+        "content": "라",
+        "category": 3
+      },
+      {
+        "index": 15,
+        "content": "끼",
+        "category": 2
+      }
+    ]
   }
 }

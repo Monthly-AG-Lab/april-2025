@@ -6898,7 +6898,7 @@
     ]
   },
   "20250703": {
-    "date": "2025-07-01T00:00:00.000Z",
+    "date": "2025-07-03T00:00:00.000Z",
     "title": "2025년 7월 3일의 관계들",
     "categories": [
       "여럿이서 말하는",
@@ -6985,6 +6985,190 @@
       {
         "index": 15,
         "content": "끼",
+        "category": 2
+      }
+    ]
+  },
+  "20250704": {
+    "date": "2025-07-04T00:00:00.000Z",
+    "title": "2025년 7월 4일의 관계들",
+    "categories": [
+      "이루는",
+      "게를 이루는",
+      "한옥을 이루는",
+      "앤디 워홀 작품을 이루는"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "사랑",
+        "category": 2
+      },
+      {
+        "index": 1,
+        "content": "실현",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "배",
+        "category": 1
+      },
+      {
+        "index": 3,
+        "content": "배우",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "통조림",
+        "category": 3
+      },
+      {
+        "index": 5,
+        "content": "집게",
+        "category": 1
+      },
+      {
+        "index": 6,
+        "content": "대청",
+        "category": 2
+      },
+      {
+        "index": 7,
+        "content": "달성",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "완수",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "부엌",
+        "category": 2
+      },
+      {
+        "index": 10,
+        "content": "바나나",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "껍데기",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "다리",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "콜라",
+        "category": 3
+      },
+      {
+        "index": 14,
+        "content": "성취",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "안채",
+        "category": 2
+      }
+    ]
+  },
+  "20250705": {
+    "date": "2025-07-05T00:00:00.000Z",
+    "title": "2025년 7월 5일의 관계들",
+    "categories": [
+      "저명한",
+      "감자를 요리하는 방법",
+      "소리를 내기 위해 만들어진",
+      "-지기"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "칩",
+        "category": 1
+      },
+      {
+        "index": 1,
+        "content": "스타",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "북",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "찜",
+        "category": 1
+      },
+      {
+        "index": 4,
+        "content": "욕",
+        "category": 3
+      },
+      {
+        "index": 5,
+        "content": "풍경",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "문",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "명사",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "초인종",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "거물",
+        "category": 0
+      },
+      {
+        "index": 10,
+        "content": "십년",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "튀김",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "공인",
+        "category": 0
+      },
+      {
+        "index": 13,
+        "content": "조림",
+        "category": 1
+      },
+      {
+        "index": 14,
+        "content": "등대",
+        "category": 3
+      },
+      {
+        "index": 15,
+        "content": "스피커",
         "category": 2
       }
     ]

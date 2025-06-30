@@ -7172,5 +7172,189 @@
         "category": 2
       }
     ]
+  },
+  "20250706": {
+    "date": "2025-07-06T00:00:00.000Z",
+    "title": "2025년 7월 6일의 관계들",
+    "categories": [
+      "생명 유지에 필수적인",
+      "뜻에 관한",
+      "촛불이 쓰이는 곳",
+      "카프카의 소설 제목"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "시위",
+        "category": 2
+      },
+      {
+        "index": 1,
+        "content": "소송",
+        "category": 3
+      },
+      {
+        "index": 2,
+        "content": "정의",
+        "category": 1
+      },
+      {
+        "index": 3,
+        "content": "물",
+        "category": 0
+      },
+      {
+        "index": 4,
+        "content": "메시지",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "영양소",
+        "category": 0
+      },
+      {
+        "index": 6,
+        "content": "제사상",
+        "category": 2
+      },
+      {
+        "index": 7,
+        "content": "성",
+        "category": 3
+      },
+      {
+        "index": 8,
+        "content": "파티",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "맥락",
+        "category": 1
+      },
+      {
+        "index": 10,
+        "content": "공기",
+        "category": 0
+      },
+      {
+        "index": 11,
+        "content": "절",
+        "category": 2
+      },
+      {
+        "index": 12,
+        "content": "햇빛",
+        "category": 0
+      },
+      {
+        "index": 13,
+        "content": "아메리카",
+        "category": 3
+      },
+      {
+        "index": 14,
+        "content": "변신",
+        "category": 3
+      },
+      {
+        "index": 15,
+        "content": "교훈",
+        "category": 1
+      }
+    ]
+  },
+  "20250707": {
+    "date": "2025-07-07T00:00:00.000Z",
+    "title": "2025년 7월 7일의 관계들",
+    "categories": [
+      "잘 모르겠습니다",
+      "sf 영화의 단골 소재",
+      "더 잘 보기 위한",
+      "동물 이름에 받침이 붙은"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "흠",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "솔",
+        "category": 3
+      },
+      {
+        "index": 2,
+        "content": "고대비",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "외계인",
+        "category": 1
+      },
+      {
+        "index": 4,
+        "content": "로봇",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "안경",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "타종",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "글쎄",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "사장",
+        "category": 3
+      },
+      {
+        "index": 9,
+        "content": "불확실",
+        "category": 0
+      },
+      {
+        "index": 10,
+        "content": "바이러스",
+        "category": 1
+      },
+      {
+        "index": 11,
+        "content": "조명",
+        "category": 2
+      },
+      {
+        "index": 12,
+        "content": "도민",
+        "category": 3
+      },
+      {
+        "index": 13,
+        "content": "복제",
+        "category": 1
+      },
+      {
+        "index": 14,
+        "content": "돋보기",
+        "category": 2
+      },
+      {
+        "index": 15,
+        "content": "미지수",
+        "category": 0
+      }
+    ]
   }
 }

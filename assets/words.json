@@ -7356,5 +7356,184 @@
         "category": 0
       }
     ]
+  },
+  "20250708": {
+    "date": "2025-07-08T00:00:00.000Z",
+    "title": "2025년 7월 8일의 관계들",
+    "categories": [
+      "물고기를 이루는",
+      "조마조마",
+      "조합하여 만드는",
+      "'형'이 뜻할 수 있는"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "꼬리",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "긴장",
+        "category": 1
+      },
+      {
+        "index": 2,
+        "content": "칵테일",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "향수",
+        "category": 2
+      },
+      {
+        "index": 4,
+        "content": "모양",
+        "category": 3
+      },
+      {
+        "index": 5,
+        "content": "처벌",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "지느러미",
+        "category": 0
+      },
+      {
+        "index": 7,
+        "content": "조바심",
+        "category": 1
+      },
+      {
+        "index": 8,
+        "content": "비늘",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "호칭",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "안달",
+        "category": 1
+      },
+      {
+        "index": 11,
+        "content": "폰트",
+        "category": 2
+      },
+      {
+        "index": 12,
+        "content": "초조하다",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "프라모델",
+        "category": 2
+      },
+      {
+        "index": 14,
+        "content": "스타일",
+        "category": 3
+      },
+      {
+        "index": 15,
+        "content": "아가미",
+        "category": 0
+      }
+    ]
+  },
+  "20250709": {
+    "date": "2025-07-09T00:00:00.000Z",
+    "title": "2025년 7월 9일의 관계들",
+    "categories": ["몸의 움직임", "고무로 만든", "용수철이 들어간", "색-"],
+    "words": [
+      {
+        "index": 0,
+        "content": "종이",
+        "category": 3
+      },
+      {
+        "index": 1,
+        "content": "지우개",
+        "category": 1
+      },
+      {
+        "index": 2,
+        "content": "볼펜",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "칠",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "무용",
+        "category": 0
+      },
+      {
+        "index": 5,
+        "content": "저울",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "안경",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "타이어",
+        "category": 1
+      },
+      {
+        "index": 8,
+        "content": "장화",
+        "category": 1
+      },
+      {
+        "index": 9,
+        "content": "다르다",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "댄스",
+        "category": 0
+      },
+      {
+        "index": 11,
+        "content": "매트리스",
+        "category": 2
+      },
+      {
+        "index": 12,
+        "content": "안무",
+        "category": 0
+      },
+      {
+        "index": 13,
+        "content": "키보드",
+        "category": 2
+      },
+      {
+        "index": 14,
+        "content": "풍선",
+        "category": 1
+      },
+      {
+        "index": 15,
+        "content": "춤",
+        "category": 0
+      }
+    ]
   }
 }

@@ -7535,5 +7535,92 @@
         "category": 0
       }
     ]
+  },
+  "20250710": {
+    "date": "2025-07-10T00:00:00.000Z",
+    "title": "2025년 7월 10일의 관계들",
+    "categories": ["지붕을 만드는", "무언가를 상징하는", "터질 수 있는", "-형"],
+    "words": [
+      {
+        "index": 0,
+        "content": "비둘기",
+        "category": 1
+      },
+      {
+        "index": 1,
+        "content": "자유",
+        "category": 3
+      },
+      {
+        "index": 2,
+        "content": "기와",
+        "category": 0
+      },
+      {
+        "index": 3,
+        "content": "풍선",
+        "category": 2
+      },
+      {
+        "index": 4,
+        "content": "사건",
+        "category": 2
+      },
+      {
+        "index": 5,
+        "content": "유리",
+        "category": 0
+      },
+      {
+        "index": 6,
+        "content": "유선",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "메타포",
+        "category": 1
+      },
+      {
+        "index": 8,
+        "content": "슬레이트",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "십자가",
+        "category": 1
+      },
+      {
+        "index": 10,
+        "content": "폭탄",
+        "category": 2
+      },
+      {
+        "index": 11,
+        "content": "서술",
+        "category": 3
+      },
+      {
+        "index": 12,
+        "content": "교수",
+        "category": 3
+      },
+      {
+        "index": 13,
+        "content": "불만",
+        "category": 2
+      },
+      {
+        "index": 14,
+        "content": "오륜기",
+        "category": 1
+      },
+      {
+        "index": 15,
+        "content": "볏짚",
+        "category": 0
+      }
+    ]
   }
 }

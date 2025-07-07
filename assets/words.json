@@ -7622,5 +7622,189 @@
         "category": 0
       }
     ]
+  },
+  "20250711": {
+    "date": "2025-07-11T00:00:00.000Z",
+    "title": "2025년 7월 11일의 관계들",
+    "categories": [
+      "자동차를 이루는",
+      "영화 촬영에 필요한",
+      "이물질을 걸러내기 위한",
+      "정의의 여신상을 이루는"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "카메라",
+        "category": 1
+      },
+      {
+        "index": 1,
+        "content": "체",
+        "category": 2
+      },
+      {
+        "index": 2,
+        "content": "안대",
+        "category": 3
+      },
+      {
+        "index": 3,
+        "content": "타이어",
+        "category": 0
+      },
+      {
+        "index": 4,
+        "content": "브레이크",
+        "category": 0
+      },
+      {
+        "index": 5,
+        "content": "슬레이트",
+        "category": 1
+      },
+      {
+        "index": 6,
+        "content": "칼",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "콧털",
+        "category": 2
+      },
+      {
+        "index": 8,
+        "content": "거름망",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "저울",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "조명",
+        "category": 1
+      },
+      {
+        "index": 11,
+        "content": "엔진",
+        "category": 0
+      },
+      {
+        "index": 12,
+        "content": "모니터",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "운전대",
+        "category": 0
+      },
+      {
+        "index": 14,
+        "content": "마스크",
+        "category": 2
+      },
+      {
+        "index": 15,
+        "content": "여신",
+        "category": 3
+      }
+    ]
+  },
+  "20250712": {
+    "date": "2025-07-12T00:00:00.000Z",
+    "title": "2025년 7월 12일의 관계들",
+    "categories": [
+      "다른 사람",
+      "감정의 응어리",
+      "잠글 수 있는",
+      "영화사 로고를 이루는"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "남",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "한",
+        "category": 1
+      },
+      {
+        "index": 2,
+        "content": "산",
+        "category": 3
+      },
+      {
+        "index": 3,
+        "content": "성",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "단추",
+        "category": 2
+      },
+      {
+        "index": 5,
+        "content": "사자",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "제삼자",
+        "category": 0
+      },
+      {
+        "index": 7,
+        "content": "원망",
+        "category": 1
+      },
+      {
+        "index": 8,
+        "content": "앙심",
+        "category": 1
+      },
+      {
+        "index": 9,
+        "content": "타인",
+        "category": 0
+      },
+      {
+        "index": 10,
+        "content": "지구",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "자물쇠",
+        "category": 2
+      },
+      {
+        "index": 12,
+        "content": "수도꼭지",
+        "category": 2
+      },
+      {
+        "index": 13,
+        "content": "화면",
+        "category": 2
+      },
+      {
+        "index": 14,
+        "content": "불만",
+        "category": 1
+      },
+      {
+        "index": 15,
+        "content": "상대",
+        "category": 0
+      }
+    ]
   }
 }

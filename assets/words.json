@@ -8261,5 +8261,184 @@
         "category": 0
       }
     ]
+  },
+  "20250718": {
+    "date": "2025-07-18T00:00:00.000Z",
+    "title": "2025년 7월 18일의 관계들",
+    "categories": [
+      "행사",
+      "닦기 위한",
+      "안경을 이루는",
+      "기호로 나타낼 수 있는"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "원소",
+        "category": 3
+      },
+      {
+        "index": 1,
+        "content": "잔치",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "헝겊",
+        "category": 1
+      },
+      {
+        "index": 3,
+        "content": "테",
+        "category": 2
+      },
+      {
+        "index": 4,
+        "content": "수건",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "다리",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "화장실",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "파티",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "축제",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "백분율",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "알",
+        "category": 2
+      },
+      {
+        "index": 11,
+        "content": "걸레",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "콧대",
+        "category": 2
+      },
+      {
+        "index": 13,
+        "content": "휴지",
+        "category": 1
+      },
+      {
+        "index": 14,
+        "content": "페스티벌",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "날씨",
+        "category": 3
+      }
+    ]
+  },
+  "20250719": {
+    "date": "2025-07-19T00:00:00.000Z",
+    "title": "2025년 7월 19일의 관계들",
+    "categories": ["까만", "대한민국을 상징하는", "똑같이 따라 하는", "-시계"],
+    "words": [
+      {
+        "index": 0,
+        "content": "까마귀",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "까치",
+        "category": 1
+      },
+      {
+        "index": 2,
+        "content": "앵무새",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "뻐꾸기",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "무궁화",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "해",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "배꼽",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "선글라스",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "메아리",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "간장",
+        "category": 0
+      },
+      {
+        "index": 10,
+        "content": "거울",
+        "category": 2
+      },
+      {
+        "index": 11,
+        "content": "태극기",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "모래",
+        "category": 3
+      },
+      {
+        "index": 13,
+        "content": "호랑이",
+        "category": 1
+      },
+      {
+        "index": 14,
+        "content": "밤하늘",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "복사기",
+        "category": 2
+      }
+    ]
   }
 }

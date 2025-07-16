@@ -8440,5 +8440,189 @@
         "category": 2
       }
     ]
+  },
+  "20250720": {
+    "date": "2025-07-20T00:00:00.000Z",
+    "title": "2025년 7월 20일의 관계들",
+    "categories": [
+      "점치기 위한",
+      "힘들여",
+      "'학' 앞에 붙어 학문이 되는",
+      "돼지-"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "타로",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "간신히",
+        "category": 1
+      },
+      {
+        "index": 2,
+        "content": "수",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "고기",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "철",
+        "category": 2
+      },
+      {
+        "index": 5,
+        "content": "띠",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "관상",
+        "category": 0
+      },
+      {
+        "index": 7,
+        "content": "애쓰다",
+        "category": 1
+      },
+      {
+        "index": 8,
+        "content": "손금",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "감자",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "우리",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "사회",
+        "category": 2
+      },
+      {
+        "index": 12,
+        "content": "끙끙",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "심리",
+        "category": 2
+      },
+      {
+        "index": 14,
+        "content": "고생",
+        "category": 1
+      },
+      {
+        "index": 15,
+        "content": "사주",
+        "category": 0
+      }
+    ]
+  },
+  "20250721": {
+    "date": "2025-07-21T00:00:00.000Z",
+    "title": "2025년 7월 21일의 관계들",
+    "categories": [
+      "땅의 유형",
+      "따뜻한 마음",
+      "공포를 일으키는",
+      "《하늘과 바람과 별과 시》"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "정",
+        "category": 1
+      },
+      {
+        "index": 1,
+        "content": "섬",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "시",
+        "category": 3
+      },
+      {
+        "index": 3,
+        "content": "별",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "분지",
+        "category": 0
+      },
+      {
+        "index": 5,
+        "content": "어둠",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "하늘",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "선심",
+        "category": 1
+      },
+      {
+        "index": 8,
+        "content": "바람",
+        "category": 3
+      },
+      {
+        "index": 9,
+        "content": "인정",
+        "category": 1
+      },
+      {
+        "index": 10,
+        "content": "귀신",
+        "category": 2
+      },
+      {
+        "index": 11,
+        "content": "반도",
+        "category": 0
+      },
+      {
+        "index": 12,
+        "content": "미지",
+        "category": 2
+      },
+      {
+        "index": 13,
+        "content": "대륙",
+        "category": 0
+      },
+      {
+        "index": 14,
+        "content": "사랑",
+        "category": 1
+      },
+      {
+        "index": 15,
+        "content": "전쟁",
+        "category": 2
+      }
+    ]
   }
 }

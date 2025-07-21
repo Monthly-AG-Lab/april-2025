@@ -7670,7 +7670,7 @@
       },
       {
         "index": 7,
-        "content": "콧털",
+        "content": "코털",
         "category": 2
       },
       {
@@ -8622,6 +8622,190 @@
         "index": 15,
         "content": "전쟁",
         "category": 2
+      }
+    ]
+  },
+  "20250722": {
+    "date": "2025-07-22T00:00:00.000Z",
+    "title": "2025년 7월 22일의 관계들",
+    "categories": [
+      "병원에서 볼 수 있는",
+      "닭을 이루는",
+      "우유 브랜드",
+      "'주'가 뜻할 수 있는"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "예수",
+        "category": 3
+      },
+      {
+        "index": 1,
+        "content": "연세",
+        "category": 2
+      },
+      {
+        "index": 2,
+        "content": "의사",
+        "category": 0
+      },
+      {
+        "index": 3,
+        "content": "다리",
+        "category": 1
+      },
+      {
+        "index": 4,
+        "content": "링거",
+        "category": 0
+      },
+      {
+        "index": 5,
+        "content": "파스퇴르",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "주식회사",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "서울",
+        "category": 2
+      },
+      {
+        "index": 8,
+        "content": "매일",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "일주일",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "부리",
+        "category": 1
+      },
+      {
+        "index": 11,
+        "content": "주사기",
+        "category": 0
+      },
+      {
+        "index": 12,
+        "content": "모래주머니",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "침대",
+        "category": 0
+      },
+      {
+        "index": 14,
+        "content": "구역",
+        "category": 3
+      },
+      {
+        "index": 15,
+        "content": "날개",
+        "category": 1
+      }
+    ]
+  },
+  "20250723": {
+    "date": "2025-07-23T00:00:00.000Z",
+    "title": "2025년 7월 23일의 관계들",
+    "categories": [
+      "이루고 싶은",
+      "연령 제한과 관련된",
+      "두 가닥으로 갈라진",
+      "이창동 감독의 영화"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "시",
+        "category": 3
+      },
+      {
+        "index": 1,
+        "content": "꿈",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "이어폰",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "담배",
+        "category": 1
+      },
+      {
+        "index": 4,
+        "content": "클럽",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "오아시스",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "바지",
+        "category": 2
+      },
+      {
+        "index": 7,
+        "content": "포부",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "야망",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "운전",
+        "category": 1
+      },
+      {
+        "index": 10,
+        "content": "새총",
+        "category": 2
+      },
+      {
+        "index": 11,
+        "content": "밀양",
+        "category": 3
+      },
+      {
+        "index": 12,
+        "content": "집게",
+        "category": 2
+      },
+      {
+        "index": 13,
+        "content": "박하사탕",
+        "category": 3
+      },
+      {
+        "index": 14,
+        "content": "이상",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "투표",
+        "category": 1
       }
     ]
   }

@@ -8808,5 +8808,184 @@
         "category": 1
       }
     ]
+  },
+  "20250724": {
+    "date": "2025-07-24T00:00:00.000Z",
+    "title": "2025년 7월 24일의 관계들",
+    "categories": ["놀이터를 이루는", "잠에 관한", "날개가 있는", "-날"],
+    "words": [
+      {
+        "index": 0,
+        "content": "하품",
+        "category": 1
+      },
+      {
+        "index": 1,
+        "content": "시소",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "한글",
+        "category": 3
+      },
+      {
+        "index": 3,
+        "content": "책",
+        "category": 2
+      },
+      {
+        "index": 4,
+        "content": "비행기",
+        "category": 2
+      },
+      {
+        "index": 5,
+        "content": "오늘",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "꿈",
+        "category": 1
+      },
+      {
+        "index": 7,
+        "content": "미끄럼틀",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "그네",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "어린이",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "면도",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "선풍기",
+        "category": 2
+      },
+      {
+        "index": 12,
+        "content": "코골이",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "학",
+        "category": 2
+      },
+      {
+        "index": 14,
+        "content": "철봉",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "침대",
+        "category": 1
+      }
+    ]
+  },
+  "20250725": {
+    "date": "2025-07-25T00:00:00.000Z",
+    "title": "2025년 7월 25일의 관계들",
+    "categories": [
+      "더울 때 필요한",
+      "대면이 아닌 회의를 일컫는",
+      "뜯을 수 있는",
+      "신체 부위 + 계이름"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "비대면",
+        "category": 1
+      },
+      {
+        "index": 1,
+        "content": "다리미",
+        "category": 3
+      },
+      {
+        "index": 2,
+        "content": "가야금",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "선크림",
+        "category": 0
+      },
+      {
+        "index": 4,
+        "content": "얼음",
+        "category": 0
+      },
+      {
+        "index": 5,
+        "content": "화상",
+        "category": 1
+      },
+      {
+        "index": 6,
+        "content": "간파",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "휴지",
+        "category": 2
+      },
+      {
+        "index": 8,
+        "content": "봉투",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "입시",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "부채",
+        "category": 0
+      },
+      {
+        "index": 11,
+        "content": "원격",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "줌",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "모자",
+        "category": 0
+      },
+      {
+        "index": 14,
+        "content": "갈비",
+        "category": 2
+      },
+      {
+        "index": 15,
+        "content": "위도",
+        "category": 3
+      }
+    ]
   }
 }

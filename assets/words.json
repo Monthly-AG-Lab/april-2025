@@ -8987,5 +8987,184 @@
         "category": 3
       }
     ]
+  },
+  "20250726": {
+    "date": "2025-07-26T00:00:00.000Z",
+    "title": "2025년 7월 26일의 관계들",
+    "categories": [
+      "스포츠 경기를 이루는",
+      "본래의",
+      "칸이 있는",
+      "'산'의 반대말"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "판",
+        "category": 3
+      },
+      {
+        "index": 1,
+        "content": "심판",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "휴지",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "뿌리",
+        "category": 1
+      },
+      {
+        "index": 4,
+        "content": "기차",
+        "category": 2
+      },
+      {
+        "index": 5,
+        "content": "원형",
+        "category": 1
+      },
+      {
+        "index": 6,
+        "content": "바다",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "관객",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "경기장",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "시험지",
+        "category": 2
+      },
+      {
+        "index": 10,
+        "content": "염기",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "바탕",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "기원",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "죽은",
+        "category": 3
+      },
+      {
+        "index": 14,
+        "content": "선수",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "화장실",
+        "category": 2
+      }
+    ]
+  },
+  "20250727": {
+    "date": "2025-07-27T00:00:00.000Z",
+    "title": "2025년 7월 27일의 관계들",
+    "categories": ["잘하는", "강조하고 과장하는", "5에 관한", "-돌"],
+    "words": [
+      {
+        "index": 0,
+        "content": "바둑",
+        "category": 3
+      },
+      {
+        "index": 1,
+        "content": "오목",
+        "category": 2
+      },
+      {
+        "index": 2,
+        "content": "장기",
+        "category": 0
+      },
+      {
+        "index": 3,
+        "content": "대박",
+        "category": 1
+      },
+      {
+        "index": 4,
+        "content": "솜씨",
+        "category": 0
+      },
+      {
+        "index": 5,
+        "content": "아이",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "정말",
+        "category": 1
+      },
+      {
+        "index": 7,
+        "content": "손가락",
+        "category": 2
+      },
+      {
+        "index": 8,
+        "content": "완전",
+        "category": 1
+      },
+      {
+        "index": 9,
+        "content": "어린이날",
+        "category": 2
+      },
+      {
+        "index": 10,
+        "content": "고인",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "재주",
+        "category": 0
+      },
+      {
+        "index": 12,
+        "content": "벽",
+        "category": 3
+      },
+      {
+        "index": 13,
+        "content": "진짜",
+        "category": 1
+      },
+      {
+        "index": 14,
+        "content": "주특기",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "펜타곤",
+        "category": 2
+      }
+    ]
   }
 }

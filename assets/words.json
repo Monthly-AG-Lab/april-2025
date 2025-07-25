@@ -9166,5 +9166,92 @@
         "category": 2
       }
     ]
+  },
+  "20250728": {
+    "date": "2025-07-28T00:00:00.000Z",
+    "title": "2025년 7월 28일의 관계들",
+    "categories": ["비를 막기 위한", "재치 있는", "-을/를 갚다", "물-"],
+    "words": [
+      {
+        "index": 0,
+        "content": "수건",
+        "category": 3
+      },
+      {
+        "index": 1,
+        "content": "우산",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "수모",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "유머",
+        "category": 1
+      },
+      {
+        "index": 4,
+        "content": "위트",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "안개",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "장구",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "장화",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "비옷",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "원수",
+        "category": 2
+      },
+      {
+        "index": 10,
+        "content": "거품",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "해학",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "은혜",
+        "category": 2
+      },
+      {
+        "index": 13,
+        "content": "골계",
+        "category": 1
+      },
+      {
+        "index": 14,
+        "content": "방수포",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "빚",
+        "category": 2
+      }
+    ]
   }
 }

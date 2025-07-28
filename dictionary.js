@@ -71,7 +71,9 @@ const createDictionary = async() => {
     const multipleStats = document.createElement("p");
     multipleStats.textContent = `그 중 ${multipleWordsCount}개의 단어들은 관계들의 무대에 두 번 이상 올랐습니다.`;
     const mostFrequentStats = document.createElement("p");
-    mostFrequentStats.textContent = ` 게다가 "${mostFrequentWord}"는 무려 ${mostFrequentNum}번이나 관계들을 맺었군요!`;
+    mostFrequentStats.textContent = ` 게다가 "${mostFrequentWord}"${
+      hasBatchim(mostFrequentWord) ? "은" : "는"
+    } 무려 ${mostFrequentNum}번이나 관계들을 맺었군요!`;
     statsContainer.appendChild(dayStats);
     statsContainer.appendChild(multipleStats);
     statsContainer.appendChild(mostFrequentStats);

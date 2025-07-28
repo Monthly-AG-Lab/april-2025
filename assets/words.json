@@ -9253,5 +9253,276 @@
         "category": 2
       }
     ]
+  },
+  "20250729": {
+    "date": "2025-07-29T00:00:00.000Z",
+    "title": "2025년 7월 29일의 관계들",
+    "categories": [
+      "목욕탕에서 볼 수 있는",
+      "졸음을 쫓기 위한",
+      "인류를 바꾼 발견 또는 발명",
+      "반-"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "치약",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "껌",
+        "category": 1
+      },
+      {
+        "index": 2,
+        "content": "불",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "달",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "커피",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "농사",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "비례",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "수건",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "바지",
+        "category": 3
+      },
+      {
+        "index": 9,
+        "content": "대야",
+        "category": 0
+      },
+      {
+        "index": 10,
+        "content": "기지개",
+        "category": 1
+      },
+      {
+        "index": 11,
+        "content": "증기기관",
+        "category": 2
+      },
+      {
+        "index": 12,
+        "content": "컴퓨터",
+        "category": 2
+      },
+      {
+        "index": 13,
+        "content": "투명",
+        "category": 3
+      },
+      {
+        "index": 14,
+        "content": "샤워기",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "산책",
+        "category": 1
+      }
+    ]
+  },
+  "20250730": {
+    "date": "2025-07-30T00:00:00.000Z",
+    "title": "2025년 7월 30일의 관계들",
+    "categories": [
+      "밴드를 이루는",
+      "자기소개서에 적는",
+      "가루를 날리는",
+      "-딱지"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "기타",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "동기",
+        "category": 1
+      },
+      {
+        "index": 2,
+        "content": "꽃",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "껌",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "숯",
+        "category": 2
+      },
+      {
+        "index": 5,
+        "content": "게",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "강점",
+        "category": 1
+      },
+      {
+        "index": 7,
+        "content": "키보드",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "보컬",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "분필",
+        "category": 2
+      },
+      {
+        "index": 10,
+        "content": "코",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "경험",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "포부",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "화",
+        "category": 3
+      },
+      {
+        "index": 14,
+        "content": "드럼",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "인절미",
+        "category": 2
+      }
+    ]
+  },
+  "20250731": {
+    "date": "2025-07-31T00:00:00.000Z",
+    "title": "2025년 7월 31일의 관계들",
+    "categories": ["L", "O", "V", "E"],
+    "words": [
+      {
+        "index": 0,
+        "content": "ㄴ",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "ㅌ",
+        "category": 3
+      },
+      {
+        "index": 2,
+        "content": "오",
+        "category": 1
+      },
+      {
+        "index": 3,
+        "content": "이",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "원",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "승리",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "에너지",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "직각",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "리터",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "전자",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "산소",
+        "category": 1
+      },
+      {
+        "index": 11,
+        "content": "포즈",
+        "category": 2
+      },
+      {
+        "index": 12,
+        "content": "평화",
+        "category": 2
+      },
+      {
+        "index": 13,
+        "content": "정답",
+        "category": 1
+      },
+      {
+        "index": 14,
+        "content": "가위",
+        "category": 2
+      },
+      {
+        "index": 15,
+        "content": "왼쪽",
+        "category": 0
+      }
+    ]
   }
 }

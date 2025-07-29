@@ -9524,5 +9524,184 @@
         "category": 0
       }
     ]
+  },
+  "20250801": {
+    "date": "2025-08-01T00:00:00.000Z",
+    "title": "2025년 8월 1일의 관계들",
+    "categories": ["체스 기물", "샌드위치 종류", "달라붙는", "-끈"],
+    "words": [
+      {
+        "index": 0,
+        "content": "나이트",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "클럽",
+        "category": 1
+      },
+      {
+        "index": 2,
+        "content": "풀",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "폰",
+        "category": 0
+      },
+      {
+        "index": 4,
+        "content": "참치",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "산낙지",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "계란",
+        "category": 1
+      },
+      {
+        "index": 7,
+        "content": "알",
+        "category": 3
+      },
+      {
+        "index": 8,
+        "content": "신발",
+        "category": 3
+      },
+      {
+        "index": 9,
+        "content": "가방",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "룩",
+        "category": 0
+      },
+      {
+        "index": 11,
+        "content": "킹",
+        "category": 0
+      },
+      {
+        "index": 12,
+        "content": "껌",
+        "category": 2
+      },
+      {
+        "index": 13,
+        "content": "닭가슴살",
+        "category": 1
+      },
+      {
+        "index": 14,
+        "content": "머리",
+        "category": 3
+      },
+      {
+        "index": 15,
+        "content": "거머리",
+        "category": 2
+      }
+    ]
+  },
+  "20250802": {
+    "date": "2025-08-02T00:00:00.000Z",
+    "title": "2025년 8월 2일의 관계들",
+    "categories": [
+      "알레르기를 유발하는",
+      "계획되지 않은",
+      "뽑을 수 있는",
+      "동물 이름을 거꾸로 한"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "번개",
+        "category": 1
+      },
+      {
+        "index": 1,
+        "content": "미개",
+        "category": 3
+      },
+      {
+        "index": 2,
+        "content": "피",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "털",
+        "category": 0
+      },
+      {
+        "index": 4,
+        "content": "새참",
+        "category": 3
+      },
+      {
+        "index": 5,
+        "content": "우유",
+        "category": 0
+      },
+      {
+        "index": 6,
+        "content": "사랑니",
+        "category": 2
+      },
+      {
+        "index": 7,
+        "content": "생이별",
+        "category": 1
+      },
+      {
+        "index": 8,
+        "content": "대통령",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "애드리브",
+        "category": 1
+      },
+      {
+        "index": 10,
+        "content": "꽃가루",
+        "category": 0
+      },
+      {
+        "index": 11,
+        "content": "휴지",
+        "category": 2
+      },
+      {
+        "index": 12,
+        "content": "땅콩",
+        "category": 0
+      },
+      {
+        "index": 13,
+        "content": "양산",
+        "category": 3
+      },
+      {
+        "index": 14,
+        "content": "마하",
+        "category": 3
+      },
+      {
+        "index": 15,
+        "content": "돌발",
+        "category": 1
+      }
+    ]
   }
 }

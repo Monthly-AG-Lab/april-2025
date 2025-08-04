@@ -9703,5 +9703,365 @@
         "category": 1
       }
     ]
+  },
+  "20250803": {
+    "date": "2025-08-03T00:00:00.000Z",
+    "title": "2025년 8월 3일의 관계들",
+    "credit": "이 관계들은 최규리의 지원으로 쓰였습니다.",
+    "categories": ["다 자란", "굳혀서 만든", "금지 표시에 그려진", "-집"],
+    "words": [
+      {
+        "index": 0,
+        "content": "어린이",
+        "category": 3
+      },
+      {
+        "index": 1,
+        "content": "어른",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "선지",
+        "category": 1
+      },
+      {
+        "index": 3,
+        "content": "칼",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "젤리",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "중국",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "담배",
+        "category": 2
+      },
+      {
+        "index": 7,
+        "content": "성인",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "윗사람",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "손",
+        "category": 2
+      },
+      {
+        "index": 10,
+        "content": "시",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "양초",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "스피커",
+        "category": 2
+      },
+      {
+        "index": 13,
+        "content": "크레용",
+        "category": 1
+      },
+      {
+        "index": 14,
+        "content": "연장자",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "카메라",
+        "category": 2
+      }
+    ]
+  },
+  "20250804": {
+    "date": "2025-08-04T00:00:00.000Z",
+    "title": "2025년 8월 4일의 관계들",
+    "credit": "이 관계들은 최규리의 지원으로 쓰였습니다.",
+    "categories": ["술", "버스를 이루는", "연극 무대를 이루는", "-질"],
+    "words": [
+      {
+        "index": 0,
+        "content": "소품",
+        "category": 2
+      },
+      {
+        "index": 1,
+        "content": "소주",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "손가락",
+        "category": 3
+      },
+      {
+        "index": 3,
+        "content": "손잡이",
+        "category": 1
+      },
+      {
+        "index": 4,
+        "content": "벨",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "커튼",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "신경",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "와인",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "막걸리",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "노선도",
+        "category": 1
+      },
+      {
+        "index": 10,
+        "content": "조명",
+        "category": 2
+      },
+      {
+        "index": 11,
+        "content": "채찍",
+        "category": 3
+      },
+      {
+        "index": 12,
+        "content": "양치",
+        "category": 3
+      },
+      {
+        "index": 13,
+        "content": "사케",
+        "category": 0
+      },
+      {
+        "index": 14,
+        "content": "좌석",
+        "category": 1
+      },
+      {
+        "index": 15,
+        "content": "배우",
+        "category": 2
+      }
+    ]
+  },
+  "20250805": {
+    "date": "2025-08-05T00:00:00.000Z",
+    "title": "2025년 8월 5일의 관계들",
+    "categories": [
+      "미술 작품의 유형",
+      "트럼프 카드에 그려진",
+      "기름을 내는",
+      "첫-"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "다이아몬드",
+        "category": 1
+      },
+      {
+        "index": 1,
+        "content": "아몬드",
+        "category": 2
+      },
+      {
+        "index": 2,
+        "content": "고기",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "조각",
+        "category": 0
+      },
+      {
+        "index": 4,
+        "content": "사랑",
+        "category": 3
+      },
+      {
+        "index": 5,
+        "content": "하트",
+        "category": 1
+      },
+      {
+        "index": 6,
+        "content": "퍼포먼스",
+        "category": 0
+      },
+      {
+        "index": 7,
+        "content": "왕",
+        "category": 1
+      },
+      {
+        "index": 8,
+        "content": "인상",
+        "category": 3
+      },
+      {
+        "index": 9,
+        "content": "회화",
+        "category": 0
+      },
+      {
+        "index": 10,
+        "content": "걸음",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "숫자",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "유전",
+        "category": 2
+      },
+      {
+        "index": 13,
+        "content": "눈",
+        "category": 3
+      },
+      {
+        "index": 14,
+        "content": "설치",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "참깨",
+        "category": 2
+      }
+    ]
+  },
+  "20250806": {
+    "date": "2025-08-06T00:00:00.000Z",
+    "title": "2025년 8월 6일의 관계들",
+    "categories": [
+      "주기적으로 깎는",
+      "교과목 이름",
+      "비디오 게임",
+      "'말'을 뜻하는 단어로 끝나는"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "포털",
+        "category": 2
+      },
+      {
+        "index": 1,
+        "content": "코털",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "문명",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "사회",
+        "category": 1
+      },
+      {
+        "index": 4,
+        "content": "시멘트",
+        "category": 3
+      },
+      {
+        "index": 5,
+        "content": "아스팔트",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "손톱",
+        "category": 0
+      },
+      {
+        "index": 7,
+        "content": "부수다",
+        "category": 3
+      },
+      {
+        "index": 8,
+        "content": "머리카락",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "도덕",
+        "category": 1
+      },
+      {
+        "index": 10,
+        "content": "뒷이야기",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "정보",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "한문",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "철권",
+        "category": 2
+      },
+      {
+        "index": 14,
+        "content": "수염",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "현대화",
+        "category": 3
+      }
+    ]
   }
 }

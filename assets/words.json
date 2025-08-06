@@ -10247,5 +10247,190 @@
         "category": 0
       }
     ]
+  },
+  "20250809": {
+    "date": "2025-08-09T00:00:00.000Z",
+    "title": "2025년 8월 9일의 관계들",
+    "credit":"이 관계들은 최규리의 지원으로 쓰였습니다.",
+    "categories": [
+      "지시문",
+      "채를 쓰는",
+      "우유 하면 떠오르는",
+      "-을/를 풀다"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "코",
+        "category": 3
+      },
+      {
+        "index": 1,
+        "content": "코드",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "소",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "독",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "북",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "곽",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "희곡",
+        "category": 0
+      },
+      {
+        "index": 7,
+        "content": "칼슘",
+        "category": 2
+      },
+      {
+        "index": 8,
+        "content": "시리얼",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "매뉴얼",
+        "category": 0
+      },
+      {
+        "index": 10,
+        "content": "골프",
+        "category": 1
+      },
+      {
+        "index": 11,
+        "content": "설명서",
+        "category": 0
+      },
+      {
+        "index": 12,
+        "content": "테니스",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "신발끈",
+        "category": 3
+      },
+      {
+        "index": 14,
+        "content": "회포",
+        "category": 3
+      },
+      {
+        "index": 15,
+        "content": "장구",
+        "category": 1
+      }
+    ]
+  },
+  "20250810": {
+    "date": "2025-08-10T00:00:00.000Z",
+    "title": "2025년 8월 10일의 관계들",
+    "categories": [
+      "물줄기의 형태",
+      "단일한 음악 작품을 뜻하는",
+      "한국어 관형사",
+      "-벌레"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "곡",
+        "category": 1
+      },
+      {
+        "index": 1,
+        "content": "계곡",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "아무",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "노래",
+        "category": 1
+      },
+      {
+        "index": 4,
+        "content": "새",
+        "category": 2
+      },
+      {
+        "index": 5,
+        "content": "책",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "세계적",
+        "category": 2
+      },
+      {
+        "index": 7,
+        "content": "강",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "바다",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "싱글",
+        "category": 1
+      },
+      {
+        "index": 10,
+        "content": "둘째",
+        "category": 2
+      },
+      {
+        "index": 11,
+        "content": "사슴",
+        "category": 3
+      },
+      {
+        "index": 12,
+        "content": "트랙",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "바퀴",
+        "category": 3
+      },
+      {
+        "index": 14,
+        "content": "시내",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "무당",
+        "category": 3
+      }
+    ]
   }
 }

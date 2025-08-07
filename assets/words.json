@@ -10432,5 +10432,189 @@
         "category": 3
       }
     ]
+  },
+  "20250811": {
+    "date": "2025-08-11T00:00:00.000Z",
+    "title": "2025년 8월 11일의 관계들",
+    "categories": [
+      "머리에 쓰는",
+      "실제와 다르게",
+      "클래식 곡 이름",
+      "-회"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "모자",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "부녀",
+        "category": 3
+      },
+      {
+        "index": 2,
+        "content": "과장",
+        "category": 1
+      },
+      {
+        "index": 3,
+        "content": "이사",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "광어",
+        "category": 3
+      },
+      {
+        "index": 5,
+        "content": "송어",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "가발",
+        "category": 0
+      },
+      {
+        "index": 7,
+        "content": "허풍",
+        "category": 1
+      },
+      {
+        "index": 8,
+        "content": "달빛",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "두건",
+        "category": 0
+      },
+      {
+        "index": 10,
+        "content": "미화",
+        "category": 1
+      },
+      {
+        "index": 11,
+        "content": "백조",
+        "category": 2
+      },
+      {
+        "index": 12,
+        "content": "왜곡",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "전시",
+        "category": 3
+      },
+      {
+        "index": 14,
+        "content": "운명",
+        "category": 2
+      },
+      {
+        "index": 15,
+        "content": "헬멧",
+        "category": 0
+      }
+    ]
+  },
+  "20250812": {
+    "date": "2025-08-12T00:00:00.000Z",
+    "title": "2025년 8월 12일의 관계들",
+    "categories": [
+      "레스토랑 자리에 놓인",
+      "발사하는",
+      "투명한",
+      "색깔의 앞 글자"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "칼",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "총",
+        "category": 1
+      },
+      {
+        "index": 2,
+        "content": "창",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "검",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "대포",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "자",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "연",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "포크",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "파",
+        "category": 3
+      },
+      {
+        "index": 9,
+        "content": "냅킨",
+        "category": 0
+      },
+      {
+        "index": 10,
+        "content": "광선",
+        "category": 1
+      },
+      {
+        "index": 11,
+        "content": "렌즈",
+        "category": 2
+      },
+      {
+        "index": 12,
+        "content": "로켓",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "랩",
+        "category": 2
+      },
+      {
+        "index": 14,
+        "content": "물",
+        "category": 2
+      },
+      {
+        "index": 15,
+        "content": "식탁보",
+        "category": 0
+      }
+    ]
   }
 }

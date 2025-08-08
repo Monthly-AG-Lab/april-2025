@@ -10071,7 +10071,7 @@
       "영화관에서 볼 수 있는",
       "소금 하면 떠오르는",
       "편지에 적는",
-      "사자성의 앞 두 글자"
+      "사자성어의 앞 두 글자"
     ],
     "words": [
       {
@@ -10614,6 +10614,98 @@
         "index": 15,
         "content": "식탁보",
         "category": 0
+      }
+    ]
+  },
+  "20250813": {
+    "date": "2025-08-13T00:00:00.000Z",
+    "title": "2025년 8월 13일의 관계들",
+    "categories": [
+      "결혼식을 이루는",
+      "음식에 더하는",
+      "가족 호칭",
+      "숫자 + 신체 부위"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "누나",
+        "category": 2
+      },
+      {
+        "index": 1,
+        "content": "드레스",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "사다리",
+        "category": 3
+      },
+      {
+        "index": 3,
+        "content": "금가루",
+        "category": 1
+      },
+      {
+        "index": 4,
+        "content": "행진",
+        "category": 0
+      },
+      {
+        "index": 5,
+        "content": "이발",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "처형",
+        "category": 2
+      },
+      {
+        "index": 7,
+        "content": "소금",
+        "category": 1
+      },
+      {
+        "index": 8,
+        "content": "동서",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "일손",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "구입",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "주례",
+        "category": 0
+      },
+      {
+        "index": 12,
+        "content": "꿀",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "부케",
+        "category": 0
+      },
+      {
+        "index": 14,
+        "content": "연두",
+        "category": 1
+      },
+      {
+        "index": 15,
+        "content": "장인",
+        "category": 2
       }
     ]
   }

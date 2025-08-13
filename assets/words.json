@@ -11076,5 +11076,189 @@
         "category": 2
       }
     ]
+  },
+  "20250818": {
+    "date": "2025-08-18T00:00:00.000Z",
+    "title": "2025년 8월 18일의 관계들",
+    "categories": [
+      "동물 이름",
+      "장기",
+      "막걸리에 들어가는",
+      "-파리"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "해",
+        "category": 3
+      },
+      {
+        "index": 1,
+        "content": "물",
+        "category": 2
+      },
+      {
+        "index": 2,
+        "content": "매",
+        "category": 0
+      },
+      {
+        "index": 3,
+        "content": "장",
+        "category": 1
+      },
+      {
+        "index": 4,
+        "content": "초",
+        "category": 3
+      },
+      {
+        "index": 5,
+        "content": "소",
+        "category": 0
+      },
+      {
+        "index": 6,
+        "content": "사",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "위",
+        "category": 1
+      },
+      {
+        "index": 8,
+        "content": "쥐",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "똥",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "간",
+        "category": 1
+      },
+      {
+        "index": 11,
+        "content": "밤",
+        "category": 2
+      },
+      {
+        "index": 12,
+        "content": "뱀",
+        "category": 0
+      },
+      {
+        "index": 13,
+        "content": "꿀",
+        "category": 2
+      },
+      {
+        "index": 14,
+        "content": "폐",
+        "category": 1
+      },
+      {
+        "index": 15,
+        "content": "쌀",
+        "category": 2
+      }
+    ]
+  },
+  "20250819": {
+    "date": "2025-08-19T00:00:00.000Z",
+    "title": "2025년 8월 19일의 관계들",
+    "categories": [
+      "달콤한 군것질",
+      "주황색",
+      "소스의 원재료",
+      "어떤 날을 기념하여 먹는"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "굴",
+        "category": 2
+      },
+      {
+        "index": 1,
+        "content": "귤",
+        "category": 1
+      },
+      {
+        "index": 2,
+        "content": "떡국",
+        "category": 3
+      },
+      {
+        "index": 3,
+        "content": "떡",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "사탕",
+        "category": 0
+      },
+      {
+        "index": 5,
+        "content": "당근",
+        "category": 1
+      },
+      {
+        "index": 6,
+        "content": "감",
+        "category": 1
+      },
+      {
+        "index": 7,
+        "content": "젤리",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "겨자",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "삼계탕",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "토마토",
+        "category": 2
+      },
+      {
+        "index": 11,
+        "content": "초콜릿",
+        "category": 0
+      },
+      {
+        "index": 12,
+        "content": "연어",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "캐러멜",
+        "category": 0
+      },
+      {
+        "index": 14,
+        "content": "계란",
+        "category": 2
+      },
+      {
+        "index": 15,
+        "content": "미역국",
+        "category": 3
+      }
+    ]
   }
 }

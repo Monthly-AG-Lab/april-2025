@@ -11628,5 +11628,97 @@
         "category": 0
       }
     ]
+  },
+  "20250824": {
+    "date": "2025-08-24T00:00:00.000Z",
+    "title": "2025년 8월 24일의 관계들",
+    "categories": [
+      "동의를 표하는",
+      "힙합에 관한",
+      "누군가의 이름을 따서 만든",
+      "-나무"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "버드",
+        "category": 3
+      },
+      {
+        "index": 1,
+        "content": "콜",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "안그라픽스",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "랩",
+        "category": 1
+      },
+      {
+        "index": 4,
+        "content": "전",
+        "category": 3
+      },
+      {
+        "index": 5,
+        "content": "댄스",
+        "category": 1
+      },
+      {
+        "index": 6,
+        "content": "패션",
+        "category": 1
+      },
+      {
+        "index": 7,
+        "content": "좋아",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "블루투스",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "은행",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "오케이",
+        "category": 0
+      },
+      {
+        "index": 11,
+        "content": "가시",
+        "category": 3
+      },
+      {
+        "index": 12,
+        "content": "그래",
+        "category": 0
+      },
+      {
+        "index": 13,
+        "content": "디즈니",
+        "category": 2
+      },
+      {
+        "index": 14,
+        "content": "디제잉",
+        "category": 1
+      },
+      {
+        "index": 15,
+        "content": "파킨슨병",
+        "category": 2
+      }
+    ]
   }
 }

@@ -11720,5 +11720,189 @@
         "category": 2
       }
     ]
+  },
+  "20250825": {
+    "date": "2025-08-25T00:00:00.000Z",
+    "title": "2025년 8월 25일의 관계들",
+    "categories": [
+      "보관을 위한",
+      "부르는 말",
+      "초밥 위에 올라가는",
+      "'바' 앞에 붙어 아이스크림이 되는"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "돼지",
+        "category": 3
+      },
+      {
+        "index": 1,
+        "content": "참치",
+        "category": 2
+      },
+      {
+        "index": 2,
+        "content": "양",
+        "category": 1
+      },
+      {
+        "index": 3,
+        "content": "소고기",
+        "category": 2
+      },
+      {
+        "index": 4,
+        "content": "냉장고",
+        "category": 0
+      },
+      {
+        "index": 5,
+        "content": "수박",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "씨",
+        "category": 1
+      },
+      {
+        "index": 7,
+        "content": "계란",
+        "category": 2
+      },
+      {
+        "index": 8,
+        "content": "누가",
+        "category": 3
+      },
+      {
+        "index": 9,
+        "content": "보석",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "금고",
+        "category": 0
+      },
+      {
+        "index": 11,
+        "content": "군",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "약통",
+        "category": 0
+      },
+      {
+        "index": 13,
+        "content": "새우",
+        "category": 2
+      },
+      {
+        "index": 14,
+        "content": "선생님",
+        "category": 1
+      },
+      {
+        "index": 15,
+        "content": "사물함",
+        "category": 0
+      }
+    ]
+  },
+  "20250826": {
+    "date": "2025-08-26T00:00:00.000Z",
+    "title": "2025년 8월 26일의 관계들",
+    "categories": [
+      "노란색",
+      "초록색",
+      "파란색",
+      "보라색"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "심슨",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "슈렉",
+        "category": 1
+      },
+      {
+        "index": 2,
+        "content": "스머프",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "고수",
+        "category": 1
+      },
+      {
+        "index": 4,
+        "content": "제비꽃",
+        "category": 3
+      },
+      {
+        "index": 5,
+        "content": "잔디",
+        "category": 1
+      },
+      {
+        "index": 6,
+        "content": "은행나무",
+        "category": 0
+      },
+      {
+        "index": 7,
+        "content": "라벤더",
+        "category": 3
+      },
+      {
+        "index": 8,
+        "content": "가지",
+        "category": 3
+      },
+      {
+        "index": 9,
+        "content": "카레",
+        "category": 0
+      },
+      {
+        "index": 10,
+        "content": "흑미밥",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "청양고추",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "사파이어",
+        "category": 2
+      },
+      {
+        "index": 13,
+        "content": "병아리",
+        "category": 0
+      },
+      {
+        "index": 14,
+        "content": "페이스북",
+        "category": 2
+      },
+      {
+        "index": 15,
+        "content": "하늘",
+        "category": 2
+      }
+    ]
   }
 }

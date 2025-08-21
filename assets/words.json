@@ -11904,5 +11904,189 @@
         "category": 2
       }
     ]
+  },
+  "20250827": {
+    "date": "2025-08-27T00:00:00.000Z",
+    "title": "2025년 8월 27일의 관계들",
+    "categories": [
+      "함께",
+      "정형외과 간판에 붙을 법한",
+      "끝이 휜",
+      "동물 이름의 첫 닿자를 'ㄱ'으로 바꾼"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "고리",
+        "category": 3
+      },
+      {
+        "index": 1,
+        "content": "갈고리",
+        "category": 2
+      },
+      {
+        "index": 2,
+        "content": "두루두루",
+        "category": 0
+      },
+      {
+        "index": 3,
+        "content": "척추",
+        "category": 1
+      },
+      {
+        "index": 4,
+        "content": "지팡이",
+        "category": 2
+      },
+      {
+        "index": 5,
+        "content": "같이",
+        "category": 0
+      },
+      {
+        "index": 6,
+        "content": "관절",
+        "category": 1
+      },
+      {
+        "index": 7,
+        "content": "간다",
+        "category": 3
+      },
+      {
+        "index": 8,
+        "content": "아울러",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "옷걸이",
+        "category": 2
+      },
+      {
+        "index": 10,
+        "content": "겨우",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "도수",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "가슴",
+        "category": 3
+      },
+      {
+        "index": 13,
+        "content": "통증",
+        "category": 1
+      },
+      {
+        "index": 14,
+        "content": "공공",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "우산",
+        "category": 2
+      }
+    ]
+  },
+  "20250828": {
+    "date": "2025-08-28T00:00:00.000Z",
+    "title": "2025년 8월 28일의 관계들",
+    "categories": [
+      "사람들이 모여 사는",
+      "다친 곳",
+      "도서 카테고리",
+      "-원"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "동심",
+        "category": 3
+      },
+      {
+        "index": 1,
+        "content": "동화",
+        "category": 2
+      },
+      {
+        "index": 2,
+        "content": "동네",
+        "category": 0
+      },
+      {
+        "index": 3,
+        "content": "동물",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "에너지",
+        "category": 3
+      },
+      {
+        "index": 5,
+        "content": "단지",
+        "category": 0
+      },
+      {
+        "index": 6,
+        "content": "경제",
+        "category": 2
+      },
+      {
+        "index": 7,
+        "content": "금",
+        "category": 1
+      },
+      {
+        "index": 8,
+        "content": "자기계발",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "상처",
+        "category": 1
+      },
+      {
+        "index": 10,
+        "content": "마을",
+        "category": 0
+      },
+      {
+        "index": 11,
+        "content": "회사",
+        "category": 3
+      },
+      {
+        "index": 12,
+        "content": "멍",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "여행",
+        "category": 2
+      },
+      {
+        "index": 14,
+        "content": "촌",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "생채기",
+        "category": 1
+      }
+    ]
   }
 }

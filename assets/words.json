@@ -12272,5 +12272,189 @@
         "category": 0
       }
     ]
+  },
+  "20250831": {
+    "date": "2025-08-31T00:00:00.000Z",
+    "title": "2025년 8월 31일의 관계들",
+    "categories": [
+      "바른 가치",
+      "바지의 소재",
+      "같은 홀자로 이루어진",
+      "-쟁이"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "점",
+        "category": 3
+      },
+      {
+        "index": 1,
+        "content": "선",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "면",
+        "category": 1
+      },
+      {
+        "index": 3,
+        "content": "겁",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "도덕",
+        "category": 0
+      },
+      {
+        "index": 5,
+        "content": "데님",
+        "category": 1
+      },
+      {
+        "index": 6,
+        "content": "소금",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "후추",
+        "category": 2
+      },
+      {
+        "index": 8,
+        "content": "빚",
+        "category": 3
+      },
+      {
+        "index": 9,
+        "content": "지리",
+        "category": 2
+      },
+      {
+        "index": 10,
+        "content": "실크",
+        "category": 1
+      },
+      {
+        "index": 11,
+        "content": "인의",
+        "category": 0
+      },
+      {
+        "index": 12,
+        "content": "린넨",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "윤리",
+        "category": 0
+      },
+      {
+        "index": 14,
+        "content": "바다",
+        "category": 2
+      },
+      {
+        "index": 15,
+        "content": "고모",
+        "category": 2
+      }
+    ]
+  },
+  "20250901": {
+    "date": "2025-09-01T00:00:00.000Z",
+    "title": "2025년 9월 1일의 관계들",
+    "categories": [
+      "매일",
+      "사실무근",
+      "《어린 왕자》를 이루는",
+      "인천광역시의 법정동"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "구월",
+        "category": 3
+      },
+      {
+        "index": 1,
+        "content": "일일",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "날마다",
+        "category": 0
+      },
+      {
+        "index": 3,
+        "content": "거짓말",
+        "category": 1
+      },
+      {
+        "index": 4,
+        "content": "뱀",
+        "category": 2
+      },
+      {
+        "index": 5,
+        "content": "계산",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "낭설",
+        "category": 1
+      },
+      {
+        "index": 7,
+        "content": "왕자",
+        "category": 2
+      },
+      {
+        "index": 8,
+        "content": "나날이",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "헛소문",
+        "category": 1
+      },
+      {
+        "index": 10,
+        "content": "오류",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "장미",
+        "category": 2
+      },
+      {
+        "index": 12,
+        "content": "유언비어",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "여우",
+        "category": 2
+      },
+      {
+        "index": 14,
+        "content": "하루하루",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "문학",
+        "category": 3
+      }
+    ]
   }
 }

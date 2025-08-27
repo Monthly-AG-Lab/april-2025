@@ -12456,5 +12456,189 @@
         "category": 3
       }
     ]
+  },
+  "20250902": {
+    "date": "2025-09-02T00:00:00.000Z",
+    "title": "2025년 9월 2일의 관계들",
+    "categories": [
+      "차지한 곳",
+      "가을에 관한",
+      "아이유 노래 제목",
+      "문화-"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "센터",
+        "category": 3
+      },
+      {
+        "index": 1,
+        "content": "포지션",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "코트",
+        "category": 1
+      },
+      {
+        "index": 3,
+        "content": "팔레트",
+        "category": 2
+      },
+      {
+        "index": 4,
+        "content": "낙엽",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "홀씨",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "재",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "자리",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "유산",
+        "category": 3
+      },
+      {
+        "index": 9,
+        "content": "위치",
+        "category": 0
+      },
+      {
+        "index": 10,
+        "content": "추석",
+        "category": 1
+      },
+      {
+        "index": 11,
+        "content": "잔소리",
+        "category": 2
+      },
+      {
+        "index": 12,
+        "content": "에잇",
+        "category": 2
+      },
+      {
+        "index": 13,
+        "content": "쌀쌀하다",
+        "category": 1
+      },
+      {
+        "index": 14,
+        "content": "상품권",
+        "category": 3
+      },
+      {
+        "index": 15,
+        "content": "좌표",
+        "category": 0
+      }
+    ]
+  },
+  "20250903": {
+    "date": "2025-09-03T00:00:00.000Z",
+    "title": "2025년 9월 3일의 관계들",
+    "categories": [
+      "오곡",
+      "문에 다는",
+      "픽사 영화 캐릭터 이름",
+      "요리에 관한 동사의 어간"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "고리",
+        "category": 1
+      },
+      {
+        "index": 1,
+        "content": "도리",
+        "category": 2
+      },
+      {
+        "index": 2,
+        "content": "보리",
+        "category": 0
+      },
+      {
+        "index": 3,
+        "content": "조리",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "콩",
+        "category": 0
+      },
+      {
+        "index": 5,
+        "content": "버즈",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "자물쇠",
+        "category": 1
+      },
+      {
+        "index": 7,
+        "content": "지지",
+        "category": 3
+      },
+      {
+        "index": 8,
+        "content": "손잡이",
+        "category": 1
+      },
+      {
+        "index": 9,
+        "content": "기장",
+        "category": 0
+      },
+      {
+        "index": 10,
+        "content": "이브",
+        "category": 2
+      },
+      {
+        "index": 11,
+        "content": "도어록",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "삶",
+        "category": 3
+      },
+      {
+        "index": 13,
+        "content": "슬픔",
+        "category": 2
+      },
+      {
+        "index": 14,
+        "content": "조",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "굽",
+        "category": 3
+      }
+    ]
   }
 }

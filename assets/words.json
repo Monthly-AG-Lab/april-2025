@@ -12824,5 +12824,189 @@
         "category": 0
       }
     ]
+  },
+  "20250906": {
+    "date": "2025-09-06T00:00:00.000Z",
+    "title": "2025년 9월 6일의 관계들",
+    "categories": [
+      "정신적인",
+      "소독에 쓰이는",
+      "꽃잎으로 만들 수 있는",
+      "'선'이 뜻할 수 있는"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "얼",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "열",
+        "category": 1
+      },
+      {
+        "index": 2,
+        "content": "전",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "줄",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "햇빛",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "장식",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "먼저",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "차",
+        "category": 2
+      },
+      {
+        "index": 8,
+        "content": "영혼",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "착하다",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "자외선",
+        "category": 1
+      },
+      {
+        "index": 11,
+        "content": "배",
+        "category": 3
+      },
+      {
+        "index": 12,
+        "content": "알코올",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "마음",
+        "category": 0
+      },
+      {
+        "index": 14,
+        "content": "책갈피",
+        "category": 2
+      },
+      {
+        "index": 15,
+        "content": "넋",
+        "category": 0
+      }
+    ]
+  },
+  "20250907": {
+    "date": "2025-09-07T00:00:00.000Z",
+    "title": "2025년 9월 7일의 관계들",
+    "categories": [
+      "모양을 규정하는",
+      "귀여움을 받는",
+      "처음 만난 사이에 주고받는",
+      "키보드 자판을 한국어로 직역한"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "형",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "인형",
+        "category": 1
+      },
+      {
+        "index": 2,
+        "content": "악수",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "통제",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "우주",
+        "category": 3
+      },
+      {
+        "index": 5,
+        "content": "스타일",
+        "category": 0
+      },
+      {
+        "index": 6,
+        "content": "강아지",
+        "category": 1
+      },
+      {
+        "index": 7,
+        "content": "막내",
+        "category": 1
+      },
+      {
+        "index": 8,
+        "content": "소개",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "들어가다",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "명함",
+        "category": 2
+      },
+      {
+        "index": 11,
+        "content": "양식",
+        "category": 0
+      },
+      {
+        "index": 12,
+        "content": "아기",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "연락처",
+        "category": 2
+      },
+      {
+        "index": 14,
+        "content": "틀",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "지우다",
+        "category": 3
+      }
+    ]
   }
 }

@@ -13008,5 +13008,189 @@
         "category": 3
       }
     ]
+  },
+  "20250908": {
+    "date": "2025-09-08T00:00:00.000Z",
+    "title": "2025년 9월 8일의 관계들",
+    "categories": [
+      "시간을 다스리는",
+      "왜 그랬을까!",
+      "환절기에 관한",
+      "종합-"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "감기",
+        "category": 2
+      },
+      {
+        "index": 1,
+        "content": "되감기",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "빨리감기",
+        "category": 0
+      },
+      {
+        "index": 3,
+        "content": "감기약",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "자책",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "소득세",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "반성",
+        "category": 1
+      },
+      {
+        "index": 7,
+        "content": "매뉴얼",
+        "category": 3
+      },
+      {
+        "index": 8,
+        "content": "일교차",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "뉘우치다",
+        "category": 1
+      },
+      {
+        "index": 10,
+        "content": "알레르기",
+        "category": 2
+      },
+      {
+        "index": 11,
+        "content": "재생",
+        "category": 0
+      },
+      {
+        "index": 12,
+        "content": "비타민",
+        "category": 3
+      },
+      {
+        "index": 13,
+        "content": "정지",
+        "category": 0
+      },
+      {
+        "index": 14,
+        "content": "후회",
+        "category": 1
+      },
+      {
+        "index": 15,
+        "content": "졸음",
+        "category": 2
+      }
+    ]
+  },
+  "20250909": {
+    "date": "2025-09-09T00:00:00.000Z",
+    "title": "2025년 9월 9일의 관계들",
+    "categories": [
+      "울음소리",
+      "다리가 두 개인",
+      "만두를 먹기까지",
+      "-빵"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "소",
+        "category": 2
+      },
+      {
+        "index": 1,
+        "content": "음메",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "닭",
+        "category": 1
+      },
+      {
+        "index": 3,
+        "content": "꼬꼬댁",
+        "category": 0
+      },
+      {
+        "index": 4,
+        "content": "비둘기",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "구구",
+        "category": 0
+      },
+      {
+        "index": 6,
+        "content": "사람",
+        "category": 1
+      },
+      {
+        "index": 7,
+        "content": "야옹",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "붕어",
+        "category": 3
+      },
+      {
+        "index": 9,
+        "content": "모닝",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "간장",
+        "category": 2
+      },
+      {
+        "index": 11,
+        "content": "피",
+        "category": 2
+      },
+      {
+        "index": 12,
+        "content": "국화",
+        "category": 3
+      },
+      {
+        "index": 13,
+        "content": "찜기",
+        "category": 2
+      },
+      {
+        "index": 14,
+        "content": "마늘",
+        "category": 3
+      },
+      {
+        "index": 15,
+        "content": "안경",
+        "category": 1
+      }
+    ]
   }
 }

@@ -13376,5 +13376,97 @@
         "category": 2
       }
     ]
+  },
+  "20250912": {
+    "date": "2025-09-12T00:00:00.000Z",
+    "title": "2025년 9월 12일의 관계들",
+    "categories": [
+      "사무의 각 부문",
+      "원형 표적이 있는",
+      "좌우 대칭",
+      "-만두"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "다트",
+        "category": 1
+      },
+      {
+        "index": 1,
+        "content": "카트",
+        "category": 3
+      },
+      {
+        "index": 2,
+        "content": "파트",
+        "category": 0
+      },
+      {
+        "index": 3,
+        "content": "하트",
+        "category": 2
+      },
+      {
+        "index": 4,
+        "content": "물",
+        "category": 3
+      },
+      {
+        "index": 5,
+        "content": "고기",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "더블유",
+        "category": 2
+      },
+      {
+        "index": 7,
+        "content": "양궁",
+        "category": 1
+      },
+      {
+        "index": 8,
+        "content": "컬링",
+        "category": 1
+      },
+      {
+        "index": 9,
+        "content": "팀",
+        "category": 0
+      },
+      {
+        "index": 10,
+        "content": "사격",
+        "category": 1
+      },
+      {
+        "index": 11,
+        "content": "부",
+        "category": 0
+      },
+      {
+        "index": 12,
+        "content": "부서",
+        "category": 0
+      },
+      {
+        "index": 13,
+        "content": "데칼코마니",
+        "category": 2
+      },
+      {
+        "index": 14,
+        "content": "고향",
+        "category": 3
+      },
+      {
+        "index": 15,
+        "content": "십자가",
+        "category": 2
+      }
+    ]
   }
 }

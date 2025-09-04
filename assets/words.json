@@ -13468,5 +13468,189 @@
         "category": 2
       }
     ]
+  },
+  "20250913": {
+    "date": "2025-09-13T00:00:00.000Z",
+    "title": "2025년 9월 13일의 관계들",
+    "categories": [
+      "방법을 알려주는",
+      "마트를 이루는",
+      "야구 구종",
+      "예능 프로그램 벌칙을 위한"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "설명서",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "진열대",
+        "category": 1
+      },
+      {
+        "index": 2,
+        "content": "물풍선",
+        "category": 3
+      },
+      {
+        "index": 3,
+        "content": "계산대",
+        "category": 1
+      },
+      {
+        "index": 4,
+        "content": "슬라이더",
+        "category": 2
+      },
+      {
+        "index": 5,
+        "content": "카트",
+        "category": 1
+      },
+      {
+        "index": 6,
+        "content": "포크",
+        "category": 2
+      },
+      {
+        "index": 7,
+        "content": "쟁반",
+        "category": 3
+      },
+      {
+        "index": 8,
+        "content": "직구",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "지침",
+        "category": 0
+      },
+      {
+        "index": 10,
+        "content": "뿅망치",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "가격표",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "안내문",
+        "category": 0
+      },
+      {
+        "index": 13,
+        "content": "박",
+        "category": 3
+      },
+      {
+        "index": 14,
+        "content": "매뉴얼",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "커브",
+        "category": 2
+      }
+    ]
+  },
+  "20250914": {
+    "date": "2025-09-14T00:00:00.000Z",
+    "title": "2025년 9월 14일의 관계들",
+    "categories": [
+      "쇼핑몰에 관한",
+      "핸들을 돌려야 하는",
+      "음악 장르",
+      "-잡이"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "직구",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "커브",
+        "category": 1
+      },
+      {
+        "index": 2,
+        "content": "포크",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "마구",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "돌",
+        "category": 3
+      },
+      {
+        "index": 5,
+        "content": "락",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "로터리",
+        "category": 1
+      },
+      {
+        "index": 7,
+        "content": "컨트리",
+        "category": 2
+      },
+      {
+        "index": 8,
+        "content": "배송",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "코너",
+        "category": 1
+      },
+      {
+        "index": 10,
+        "content": "장바구니",
+        "category": 0
+      },
+      {
+        "index": 11,
+        "content": "앞",
+        "category": 3
+      },
+      {
+        "index": 12,
+        "content": "왼손",
+        "category": 3
+      },
+      {
+        "index": 13,
+        "content": "환불",
+        "category": 0
+      },
+      {
+        "index": 14,
+        "content": "클래식",
+        "category": 2
+      },
+      {
+        "index": 15,
+        "content": "모퉁이",
+        "category": 1
+      }
+    ]
   }
 }

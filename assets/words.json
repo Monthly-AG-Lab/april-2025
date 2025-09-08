@@ -13744,5 +13744,189 @@
         "category": 1
       }
     ]
+  },
+  "20250916": {
+    "date": "2025-09-16T00:00:00.000Z",
+    "title": "2025년 9월 16일의 관계들",
+    "categories": [
+      "눈-",
+      "코-",
+      "입-",
+      "귀-"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "사람",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "대중",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "부인",
+        "category": 3
+      },
+      {
+        "index": 3,
+        "content": "상어",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "감기",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "조심",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "하다",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "높이",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "싸움",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "방아",
+        "category": 2
+      },
+      {
+        "index": 10,
+        "content": "딱지",
+        "category": 1
+      },
+      {
+        "index": 11,
+        "content": "금속",
+        "category": 3
+      },
+      {
+        "index": 12,
+        "content": "천장",
+        "category": 2
+      },
+      {
+        "index": 13,
+        "content": "사인",
+        "category": 1
+      },
+      {
+        "index": 14,
+        "content": "간판",
+        "category": 2
+      },
+      {
+        "index": 15,
+        "content": "브라",
+        "category": 1
+      }
+    ]
+  },
+  "20250917": {
+    "date": "2025-09-17T00:00:00.000Z",
+    "title": "2025년 9월 17일의 관계들",
+    "categories": [
+      "일인자",
+      "완전하지 못한",
+      "픽토그램으로 표현되는",
+      "악성-"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "곱슬",
+        "category": 3
+      },
+      {
+        "index": 1,
+        "content": "머리",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "프로그램",
+        "category": 3
+      },
+      {
+        "index": 3,
+        "content": "비상구",
+        "category": 2
+      },
+      {
+        "index": 4,
+        "content": "장",
+        "category": 0
+      },
+      {
+        "index": 5,
+        "content": "탈",
+        "category": 1
+      },
+      {
+        "index": 6,
+        "content": "화장실",
+        "category": 2
+      },
+      {
+        "index": 7,
+        "content": "두목",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "장애인",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "댓글",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "리더",
+        "category": 0
+      },
+      {
+        "index": 11,
+        "content": "흠",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "종양",
+        "category": 3
+      },
+      {
+        "index": 13,
+        "content": "결점",
+        "category": 1
+      },
+      {
+        "index": 14,
+        "content": "엘리베이터",
+        "category": 2
+      },
+      {
+        "index": 15,
+        "content": "고장",
+        "category": 1
+      }
+    ]
   }
 }

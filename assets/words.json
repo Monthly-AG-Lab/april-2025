@@ -13928,5 +13928,189 @@
         "category": 1
       }
     ]
+  },
+  "20250918": {
+    "date": "2025-09-18T00:00:00.000Z",
+    "title": "2025년 9월 18일의 관계들",
+    "categories": [
+      "파일의 종류",
+      "나쁜 말",
+      "비상구를 이루는",
+      "-탕"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "욕",
+        "category": 1
+      },
+      {
+        "index": 1,
+        "content": "목욕",
+        "category": 3
+      },
+      {
+        "index": 2,
+        "content": "문",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "곰",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "초록색",
+        "category": 2
+      },
+      {
+        "index": 5,
+        "content": "시트",
+        "category": 0
+      },
+      {
+        "index": 6,
+        "content": "사람",
+        "category": 2
+      },
+      {
+        "index": 7,
+        "content": "오디오",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "텍스트",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "독설",
+        "category": 1
+      },
+      {
+        "index": 10,
+        "content": "매운",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "갈비",
+        "category": 3
+      },
+      {
+        "index": 12,
+        "content": "비방",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "동영상",
+        "category": 0
+      },
+      {
+        "index": 14,
+        "content": "그림자",
+        "category": 2
+      },
+      {
+        "index": 15,
+        "content": "악담",
+        "category": 1
+      }
+    ]
+  },
+  "20250919": {
+    "date": "2025-09-19T00:00:00.000Z",
+    "title": "2025년 9월 19일의 관계들",
+    "categories": [
+      "숫자",
+      "매운",
+      "코요태 노래 제목",
+      "-새"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "파",
+        "category": 1
+      },
+      {
+        "index": 1,
+        "content": "팔",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "파란",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "파랑",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "어느",
+        "category": 3
+      },
+      {
+        "index": 5,
+        "content": "서른",
+        "category": 0
+      },
+      {
+        "index": 6,
+        "content": "순정",
+        "category": 2
+      },
+      {
+        "index": 7,
+        "content": "모양",
+        "category": 3
+      },
+      {
+        "index": 8,
+        "content": "실연",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "연기",
+        "category": 1
+      },
+      {
+        "index": 10,
+        "content": "마늘",
+        "category": 1
+      },
+      {
+        "index": 11,
+        "content": "하나",
+        "category": 0
+      },
+      {
+        "index": 12,
+        "content": "고추",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "물총",
+        "category": 3
+      },
+      {
+        "index": 14,
+        "content": "천만",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "빙고",
+        "category": 2
+      }
+    ]
   }
 }

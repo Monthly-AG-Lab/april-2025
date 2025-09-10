@@ -14112,5 +14112,189 @@
         "category": 2
       }
     ]
+  },
+  "20250920": {
+    "date": "2025-09-20T00:00:00.000Z",
+    "title": "2025년 9월 20일의 관계들",
+    "categories": [
+      "화장실을 이루는",
+      "지구의 레이어",
+      "몸살이 걸렸을 때 필요한",
+      "'빠지다'가 뜻할 수 있는"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "지각",
+        "category": 1
+      },
+      {
+        "index": 1,
+        "content": "불참",
+        "category": 3
+      },
+      {
+        "index": 2,
+        "content": "휴식",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "휴지",
+        "category": 0
+      },
+      {
+        "index": 4,
+        "content": "변기",
+        "category": 0
+      },
+      {
+        "index": 5,
+        "content": "얼음주머니",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "사고",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "핵",
+        "category": 1
+      },
+      {
+        "index": 8,
+        "content": "맨틀",
+        "category": 1
+      },
+      {
+        "index": 9,
+        "content": "감소",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "약",
+        "category": 2
+      },
+      {
+        "index": 11,
+        "content": "몰입",
+        "category": 3
+      },
+      {
+        "index": 12,
+        "content": "세면대",
+        "category": 0
+      },
+      {
+        "index": 13,
+        "content": "마스크",
+        "category": 2
+      },
+      {
+        "index": 14,
+        "content": "대기권",
+        "category": 1
+      },
+      {
+        "index": 15,
+        "content": "비누",
+        "category": 0
+      }
+    ]
+  },
+  "20250921": {
+    "date": "2025-09-21T00:00:00.000Z",
+    "title": "2025년 9월 21일의 관계들",
+    "categories": [
+      "갚아야 할 돈",
+      "좋은 냄새가 나는",
+      "빠름을 비유적으로 나타내는",
+      "연달아 말하여 부사가 되는"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "번개",
+        "category": 2
+      },
+      {
+        "index": 1,
+        "content": "빚",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "꽃",
+        "category": 1
+      },
+      {
+        "index": 3,
+        "content": "반짝",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "향수",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "우물",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "차용",
+        "category": 0
+      },
+      {
+        "index": 7,
+        "content": "무시",
+        "category": 3
+      },
+      {
+        "index": 8,
+        "content": "채무",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "빵집",
+        "category": 1
+      },
+      {
+        "index": 10,
+        "content": "바람",
+        "category": 2
+      },
+      {
+        "index": 11,
+        "content": "부채",
+        "category": 0
+      },
+      {
+        "index": 12,
+        "content": "총알",
+        "category": 2
+      },
+      {
+        "index": 13,
+        "content": "사각",
+        "category": 3
+      },
+      {
+        "index": 14,
+        "content": "비누",
+        "category": 1
+      },
+      {
+        "index": 15,
+        "content": "치타",
+        "category": 2
+      }
+    ]
   }
 }

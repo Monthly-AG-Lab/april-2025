@@ -14296,5 +14296,189 @@
         "category": 2
       }
     ]
+  },
+  "20250922": {
+    "date": "2025-09-22T00:00:00.000Z",
+    "title": "2025년 9월 22일의 관계들",
+    "categories": [
+      "음식이 있는",
+      "통증이 있는",
+      "다리가 있는",
+      "주름이 있는"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "식당",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "책상",
+        "category": 2
+      },
+      {
+        "index": 2,
+        "content": "대뇌",
+        "category": 3
+      },
+      {
+        "index": 3,
+        "content": "두통",
+        "category": 1
+      },
+      {
+        "index": 4,
+        "content": "한강",
+        "category": 2
+      },
+      {
+        "index": 5,
+        "content": "상처",
+        "category": 1
+      },
+      {
+        "index": 6,
+        "content": "냉장고",
+        "category": 0
+      },
+      {
+        "index": 7,
+        "content": "빨대",
+        "category": 3
+      },
+      {
+        "index": 8,
+        "content": "몸살",
+        "category": 1
+      },
+      {
+        "index": 9,
+        "content": "커튼",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "안경",
+        "category": 2
+      },
+      {
+        "index": 11,
+        "content": "주방",
+        "category": 0
+      },
+      {
+        "index": 12,
+        "content": "이마",
+        "category": 3
+      },
+      {
+        "index": 13,
+        "content": "잔치",
+        "category": 0
+      },
+      {
+        "index": 14,
+        "content": "궤양",
+        "category": 1
+      },
+      {
+        "index": 15,
+        "content": "오징어",
+        "category": 2
+      }
+    ]
+  },
+  "20250923": {
+    "date": "2025-09-23T00:00:00.000Z",
+    "title": "2025년 9월 23일의 관계들",
+    "categories": [
+      "의식의 내용",
+      "좋아하는 것",
+      "반대되는 한자로 이뤄진",
+      "-공"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "남아",
+        "category": 3
+      },
+      {
+        "index": 1,
+        "content": "선호",
+        "category": 1
+      },
+      {
+        "index": 2,
+        "content": "사상",
+        "category": 0
+      },
+      {
+        "index": 3,
+        "content": "여야",
+        "category": 2
+      },
+      {
+        "index": 4,
+        "content": "좌우",
+        "category": 2
+      },
+      {
+        "index": 5,
+        "content": "주인",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "인식",
+        "category": 0
+      },
+      {
+        "index": 7,
+        "content": "유무",
+        "category": 2
+      },
+      {
+        "index": 8,
+        "content": "축구",
+        "category": 3
+      },
+      {
+        "index": 9,
+        "content": "스타일",
+        "category": 1
+      },
+      {
+        "index": 10,
+        "content": "취향",
+        "category": 1
+      },
+      {
+        "index": 11,
+        "content": "생각",
+        "category": 0
+      },
+      {
+        "index": 12,
+        "content": "관념",
+        "category": 0
+      },
+      {
+        "index": 13,
+        "content": "벽돌",
+        "category": 3
+      },
+      {
+        "index": 14,
+        "content": "선악",
+        "category": 2
+      },
+      {
+        "index": 15,
+        "content": "기호",
+        "category": 1
+      }
+    ]
   }
 }

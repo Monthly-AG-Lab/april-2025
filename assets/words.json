@@ -14572,5 +14572,97 @@
         "category": 1
       }
     ]
+  },
+  "20250925": {
+    "date": "2025-09-25T00:00:00.000Z",
+    "title": "2025년 9월 25일의 관계들",
+    "categories": [
+      "얼른 하겠습니다!",
+      "노동의 대가",
+      "흰",
+      "-알"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "임금",
+        "category": 1
+      },
+      {
+        "index": 1,
+        "content": "소금",
+        "category": 2
+      },
+      {
+        "index": 2,
+        "content": "지금",
+        "category": 0
+      },
+      {
+        "index": 3,
+        "content": "황금",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "모래",
+        "category": 3
+      },
+      {
+        "index": 5,
+        "content": "바로",
+        "category": 0
+      },
+      {
+        "index": 6,
+        "content": "두부",
+        "category": 2
+      },
+      {
+        "index": 7,
+        "content": "월급",
+        "category": 1
+      },
+      {
+        "index": 8,
+        "content": "삯",
+        "category": 1
+      },
+      {
+        "index": 9,
+        "content": "분필",
+        "category": 2
+      },
+      {
+        "index": 10,
+        "content": "당장",
+        "category": 0
+      },
+      {
+        "index": 11,
+        "content": "바둑",
+        "category": 3
+      },
+      {
+        "index": 12,
+        "content": "즉시",
+        "category": 0
+      },
+      {
+        "index": 13,
+        "content": "보수",
+        "category": 1
+      },
+      {
+        "index": 14,
+        "content": "백조",
+        "category": 2
+      },
+      {
+        "index": 15,
+        "content": "대포",
+        "category": 3
+      }
+    ]
   }
 }

@@ -14664,5 +14664,189 @@
         "category": 3
       }
     ]
+  },
+  "20250926": {
+    "date": "2025-09-26T00:00:00.000Z",
+    "title": "2025년 9월 26일의 관계들",
+    "categories": [
+      "식물을 이루는",
+      "잘못된",
+      "정수기 옵션",
+      "동물 이름 + 요일"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "양수",
+        "category": 3
+      },
+      {
+        "index": 1,
+        "content": "정수",
+        "category": 2
+      },
+      {
+        "index": 2,
+        "content": "실수",
+        "category": 1
+      },
+      {
+        "index": 3,
+        "content": "온수",
+        "category": 2
+      },
+      {
+        "index": 4,
+        "content": "얼음",
+        "category": 2
+      },
+      {
+        "index": 5,
+        "content": "꽃",
+        "category": 0
+      },
+      {
+        "index": 6,
+        "content": "개화",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "오류",
+        "category": 1
+      },
+      {
+        "index": 8,
+        "content": "말일",
+        "category": 3
+      },
+      {
+        "index": 9,
+        "content": "연속",
+        "category": 2
+      },
+      {
+        "index": 10,
+        "content": "착오",
+        "category": 1
+      },
+      {
+        "index": 11,
+        "content": "열매",
+        "category": 0
+      },
+      {
+        "index": 12,
+        "content": "뿌리",
+        "category": 0
+      },
+      {
+        "index": 13,
+        "content": "소금",
+        "category": 3
+      },
+      {
+        "index": 14,
+        "content": "줄기",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "에러",
+        "category": 1
+      }
+    ]
+  },
+  "20250927": {
+    "date": "2025-09-27T00:00:00.000Z",
+    "title": "2025년 9월 27일의 관계들",
+    "categories": [
+      "리듬악기",
+      "조용필 노래 제목",
+      "지하철 9호선 역명",
+      "지문이 있는"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "고추잠자리",
+        "category": 1
+      },
+      {
+        "index": 1,
+        "content": "국회의사당",
+        "category": 2
+      },
+      {
+        "index": 2,
+        "content": "주민등록증",
+        "category": 3
+      },
+      {
+        "index": 3,
+        "content": "트라이앵글",
+        "category": 0
+      },
+      {
+        "index": 4,
+        "content": "단발머리",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "마라카스",
+        "category": 0
+      },
+      {
+        "index": 6,
+        "content": "모나리자",
+        "category": 1
+      },
+      {
+        "index": 7,
+        "content": "손가락",
+        "category": 3
+      },
+      {
+        "index": 8,
+        "content": "탬버린",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "동작",
+        "category": 2
+      },
+      {
+        "index": 10,
+        "content": "문제",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "샛강",
+        "category": 2
+      },
+      {
+        "index": 12,
+        "content": "개화",
+        "category": 2
+      },
+      {
+        "index": 13,
+        "content": "희곡",
+        "category": 3
+      },
+      {
+        "index": 14,
+        "content": "큰북",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "꿈",
+        "category": 1
+      }
+    ]
   }
 }

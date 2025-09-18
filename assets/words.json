@@ -14848,5 +14848,189 @@
         "category": 1
       }
     ]
+  },
+  "20250928": {
+    "date": "2025-09-28T00:00:00.000Z",
+    "title": "2025년 9월 28일의 관계들",
+    "categories": [
+      "미술 시간",
+      "씨름에 관한",
+      "웹에서 더 보기 위한",
+      "원과 막대기"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "더보기",
+        "category": 2
+      },
+      {
+        "index": 1,
+        "content": "돋보기",
+        "category": 3
+      },
+      {
+        "index": 2,
+        "content": "뒤집기",
+        "category": 1
+      },
+      {
+        "index": 3,
+        "content": "펼치기",
+        "category": 2
+      },
+      {
+        "index": 4,
+        "content": "종이접기",
+        "category": 0
+      },
+      {
+        "index": 5,
+        "content": "롤리팝",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "천하장사",
+        "category": 1
+      },
+      {
+        "index": 7,
+        "content": "데칼코마니",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "숟가락",
+        "category": 3
+      },
+      {
+        "index": 9,
+        "content": "판화",
+        "category": 0
+      },
+      {
+        "index": 10,
+        "content": "자세히",
+        "category": 2
+      },
+      {
+        "index": 11,
+        "content": "체급",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "다음",
+        "category": 2
+      },
+      {
+        "index": 13,
+        "content": "샅바",
+        "category": 1
+      },
+      {
+        "index": 14,
+        "content": "찰흙",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "시계추",
+        "category": 3
+      }
+    ]
+  },
+  "20250929": {
+    "date": "2025-09-29T00:00:00.000Z",
+    "title": "2025년 9월 29일의 관계들",
+    "categories": [
+      "문구류",
+      "신년에 관한",
+      "점수를 내는 방법",
+      "-가게"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "카운트다운",
+        "category": 1
+      },
+      {
+        "index": 1,
+        "content": "터치다운",
+        "category": 2
+      },
+      {
+        "index": 2,
+        "content": "아름다운",
+        "category": 3
+      },
+      {
+        "index": 3,
+        "content": "해돋이",
+        "category": 1
+      },
+      {
+        "index": 4,
+        "content": "골",
+        "category": 2
+      },
+      {
+        "index": 5,
+        "content": "풀",
+        "category": 0
+      },
+      {
+        "index": 6,
+        "content": "과일",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "가위",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "버저비터",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "구멍",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "자",
+        "category": 0
+      },
+      {
+        "index": 11,
+        "content": "덕담",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "타종",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "각도기",
+        "category": 0
+      },
+      {
+        "index": 14,
+        "content": "홈런",
+        "category": 2
+      },
+      {
+        "index": 15,
+        "content": "무인",
+        "category": 3
+      }
+    ]
   }
 }

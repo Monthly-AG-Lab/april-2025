@@ -15032,5 +15032,97 @@
         "category": 3
       }
     ]
+  },
+  "20250930": {
+    "date": "2025-09-30T00:00:00.000Z",
+    "title": "2025년 9월 30일의 관계들",
+    "categories": [
+      "얼굴에 쓰는",
+      "치과 간판에 붙어 있는",
+      "전기밥솥 옵션",
+      "-욕"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "미백",
+        "category": 1
+      },
+      {
+        "index": 1,
+        "content": "백미",
+        "category": 2
+      },
+      {
+        "index": 2,
+        "content": "가면",
+        "category": 0
+      },
+      {
+        "index": 3,
+        "content": "소유",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "마스크",
+        "category": 0
+      },
+      {
+        "index": 5,
+        "content": "임플란트",
+        "category": 1
+      },
+      {
+        "index": 6,
+        "content": "쾌속",
+        "category": 2
+      },
+      {
+        "index": 7,
+        "content": "교정",
+        "category": 1
+      },
+      {
+        "index": 8,
+        "content": "발치",
+        "category": 1
+      },
+      {
+        "index": 9,
+        "content": "산림",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "식",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "탈",
+        "category": 0
+      },
+      {
+        "index": 12,
+        "content": "복면",
+        "category": 0
+      },
+      {
+        "index": 13,
+        "content": "이유식",
+        "category": 2
+      },
+      {
+        "index": 14,
+        "content": "목",
+        "category": 3
+      },
+      {
+        "index": 15,
+        "content": "잡곡",
+        "category": 2
+      }
+    ]
   }
 }

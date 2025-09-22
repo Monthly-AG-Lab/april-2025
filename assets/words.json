@@ -15124,5 +15124,189 @@
         "category": 2
       }
     ]
+  },
+  "20251001": {
+    "date": "2025-10-01T00:00:00.000Z",
+    "title": "2025년 10월 1일의 관계들",
+    "categories": [
+      "훌륭하여 따를 만한",
+      "선택 가능한",
+      "10 100 1000 10000",
+      "웹에서 흔히 쓰이는 아이콘"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "보기",
+        "category": 1
+      },
+      {
+        "index": 1,
+        "content": "돋보기",
+        "category": 3
+      },
+      {
+        "index": 2,
+        "content": "만보기",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "본보기",
+        "category": 0
+      },
+      {
+        "index": 4,
+        "content": "천자문",
+        "category": 2
+      },
+      {
+        "index": 5,
+        "content": "모범",
+        "category": 0
+      },
+      {
+        "index": 6,
+        "content": "선지",
+        "category": 1
+      },
+      {
+        "index": 7,
+        "content": "연필",
+        "category": 3
+      },
+      {
+        "index": 8,
+        "content": "편지봉투",
+        "category": 3
+      },
+      {
+        "index": 9,
+        "content": "롤모델",
+        "category": 0
+      },
+      {
+        "index": 10,
+        "content": "백과사전",
+        "category": 2
+      },
+      {
+        "index": 11,
+        "content": "옵션",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "집",
+        "category": 3
+      },
+      {
+        "index": 13,
+        "content": "메뉴",
+        "category": 1
+      },
+      {
+        "index": 14,
+        "content": "귀감",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "십장생",
+        "category": 2
+      }
+    ]
+  },
+  "20251002": {
+    "date": "2025-10-02T00:00:00.000Z",
+    "title": "2025년 10월 2일의 관계들",
+    "categories": [
+      "숫자로 측정하는",
+      "작은 것을 크게 보기 위한",
+      "시험 삼아",
+      "'index'가 뜻할 수 있는"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "돋보기",
+        "category": 1
+      },
+      {
+        "index": 1,
+        "content": "만보기",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "맛보기",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "찾아보기",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "홈페이지",
+        "category": 3
+      },
+      {
+        "index": 5,
+        "content": "체험판",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "스톱워치",
+        "category": 0
+      },
+      {
+        "index": 7,
+        "content": "확대",
+        "category": 1
+      },
+      {
+        "index": 8,
+        "content": "자",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "데모",
+        "category": 2
+      },
+      {
+        "index": 10,
+        "content": "줌",
+        "category": 1
+      },
+      {
+        "index": 11,
+        "content": "검지",
+        "category": 3
+      },
+      {
+        "index": 12,
+        "content": "베타",
+        "category": 2
+      },
+      {
+        "index": 13,
+        "content": "저울",
+        "category": 0
+      },
+      {
+        "index": 14,
+        "content": "색인",
+        "category": 3
+      },
+      {
+        "index": 15,
+        "content": "현미경",
+        "category": 1
+      }
+    ]
   }
 }

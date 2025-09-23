@@ -15308,5 +15308,189 @@
         "category": 1
       }
     ]
+  },
+  "20251003": {
+    "date": "2025-10-03T00:00:00.000Z",
+    "title": "2025년 10월 3일의 관계들",
+    "categories": [
+      "감상 이후",
+      "길게 쉬는",
+      "예능 프로그램의 첫 몇 글자",
+      "-경"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "휴가",
+        "category": 1
+      },
+      {
+        "index": 1,
+        "content": "후기",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "무한",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "만화",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "현미",
+        "category": 3
+      },
+      {
+        "index": 5,
+        "content": "냉장고",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "평론",
+        "category": 0
+      },
+      {
+        "index": 7,
+        "content": "요지",
+        "category": 3
+      },
+      {
+        "index": 8,
+        "content": "연휴",
+        "category": 1
+      },
+      {
+        "index": 9,
+        "content": "라디오",
+        "category": 2
+      },
+      {
+        "index": 10,
+        "content": "망원",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "별점",
+        "category": 0
+      },
+      {
+        "index": 12,
+        "content": "복면",
+        "category": 2
+      },
+      {
+        "index": 13,
+        "content": "방학",
+        "category": 1
+      },
+      {
+        "index": 14,
+        "content": "코멘트",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "공백기",
+        "category": 1
+      }
+    ]
+  },
+  "20251004": {
+    "date": "2025-10-04T00:00:00.000Z",
+    "title": "2025년 10월 4일의 관계들",
+    "categories": [
+      "앞서",
+      "예상치 못한",
+      "6호선 지하철 역명",
+      "'-'가 붙는"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "상수",
+        "category": 2
+      },
+      {
+        "index": 1,
+        "content": "변수",
+        "category": 1
+      },
+      {
+        "index": 2,
+        "content": "음수",
+        "category": 3
+      },
+      {
+        "index": 3,
+        "content": "약수",
+        "category": 2
+      },
+      {
+        "index": 4,
+        "content": "느닷없이",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "망원",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "미리",
+        "category": 0
+      },
+      {
+        "index": 7,
+        "content": "기습",
+        "category": 1
+      },
+      {
+        "index": 8,
+        "content": "이태원",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "접미사",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "날벼락",
+        "category": 1
+      },
+      {
+        "index": 11,
+        "content": "리허설",
+        "category": 0
+      },
+      {
+        "index": 12,
+        "content": "예행",
+        "category": 0
+      },
+      {
+        "index": 13,
+        "content": "목록",
+        "category": 3
+      },
+      {
+        "index": 14,
+        "content": "사전",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "날짜",
+        "category": 3
+      }
+    ]
   }
 }

@@ -15492,5 +15492,189 @@
         "category": 3
       }
     ]
+  },
+  "20251005": {
+    "date": "2025-10-05T00:00:00.000Z",
+    "title": "2025년 10월 5일의 관계들",
+    "categories": [
+      "변치 않는",
+      "법률이 나오기까지",
+      "포장할 수 있는",
+      "-관"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "상수",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "도로",
+        "category": 2
+      },
+      {
+        "index": 2,
+        "content": "공포",
+        "category": 1
+      },
+      {
+        "index": 3,
+        "content": "영화",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "커피",
+        "category": 2
+      },
+      {
+        "index": 5,
+        "content": "발효",
+        "category": 1
+      },
+      {
+        "index": 6,
+        "content": "제품",
+        "category": 2
+      },
+      {
+        "index": 7,
+        "content": "순애",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "경찰",
+        "category": 3
+      },
+      {
+        "index": 9,
+        "content": "맹세",
+        "category": 0
+      },
+      {
+        "index": 10,
+        "content": "대사",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "선물",
+        "category": 2
+      },
+      {
+        "index": 12,
+        "content": "심의",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "영원",
+        "category": 0
+      },
+      {
+        "index": 14,
+        "content": "수족",
+        "category": 3
+      },
+      {
+        "index": 15,
+        "content": "시행",
+        "category": 1
+      }
+    ]
+  },
+  "20251006": {
+    "date": "2025-10-06T00:00:00.000Z",
+    "title": "2025년 10월 6일의 관계들",
+    "categories": [
+      "그리스 문자",
+      "송편 속재료",
+      "초록색",
+      "막이 있는"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "알파",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "파",
+        "category": 2
+      },
+      {
+        "index": 2,
+        "content": "파이",
+        "category": 0
+      },
+      {
+        "index": 3,
+        "content": "팥",
+        "category": 1
+      },
+      {
+        "index": 4,
+        "content": "밤",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "눈",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "세포",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "콩",
+        "category": 1
+      },
+      {
+        "index": 8,
+        "content": "베타",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "연극",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "이태리타월",
+        "category": 2
+      },
+      {
+        "index": 11,
+        "content": "녹차",
+        "category": 2
+      },
+      {
+        "index": 12,
+        "content": "깨",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "풀",
+        "category": 2
+      },
+      {
+        "index": 14,
+        "content": "계란",
+        "category": 3
+      },
+      {
+        "index": 15,
+        "content": "오메가",
+        "category": 0
+      }
+    ]
   }
 }

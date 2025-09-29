@@ -15676,5 +15676,189 @@
         "category": 0
       }
     ]
+  },
+  "20251007": {
+    "date": "2025-10-07T00:00:00.000Z",
+    "title": "2025년 10월 7일의 관계들",
+    "categories": [
+      "피부 질환",
+      "음식을 담는",
+      "눈물 나게 하는",
+      "말-"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "용기",
+        "category": 1
+      },
+      {
+        "index": 1,
+        "content": "종기",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "연기",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "접시",
+        "category": 1
+      },
+      {
+        "index": 4,
+        "content": "뾰루지",
+        "category": 0
+      },
+      {
+        "index": 5,
+        "content": "꼬리",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "주변",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "이별",
+        "category": 2
+      },
+      {
+        "index": 8,
+        "content": "양파",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "양푼",
+        "category": 1
+      },
+      {
+        "index": 10,
+        "content": "풍선",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "발진",
+        "category": 0
+      },
+      {
+        "index": 12,
+        "content": "감동",
+        "category": 2
+      },
+      {
+        "index": 13,
+        "content": "대꾸",
+        "category": 3
+      },
+      {
+        "index": 14,
+        "content": "여드름",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "그릇",
+        "category": 1
+      }
+    ]
+  },
+  "20251008": {
+    "date": "2025-10-08T00:00:00.000Z",
+    "title": "2025년 10월 8일의 관계들",
+    "categories": [
+      "2",
+      "겹자음이 있는",
+      "행운을 상징하는",
+      "'일'이 뜻할 수 있는"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "하나",
+        "category": 3
+      },
+      {
+        "index": 1,
+        "content": "둘",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "일곱",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "여덟",
+        "category": 1
+      },
+      {
+        "index": 4,
+        "content": "값",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "날",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "짝",
+        "category": 0
+      },
+      {
+        "index": 7,
+        "content": "몫",
+        "category": 1
+      },
+      {
+        "index": 8,
+        "content": "클로버",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "페어",
+        "category": 0
+      },
+      {
+        "index": 10,
+        "content": "노동",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "말발굽",
+        "category": 2
+      },
+      {
+        "index": 12,
+        "content": "일본",
+        "category": 3
+      },
+      {
+        "index": 13,
+        "content": "복주머니",
+        "category": 2
+      },
+      {
+        "index": 14,
+        "content": "핥다",
+        "category": 1
+      },
+      {
+        "index": 15,
+        "content": "듀오",
+        "category": 0
+      }
+    ]
   }
 }

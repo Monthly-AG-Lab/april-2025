@@ -15860,5 +15860,281 @@
         "category": 0
       }
     ]
+  },
+  "20251009": {
+    "date": "2025-10-09T00:00:00.000Z",
+    "title": "2025년 10월 9일의 관계들",
+    "categories": [
+      "시프트 키가 필요한",
+      "한붓그리기가 가능한",
+      "단모음 전설 모음",
+      "키보드 가장 아랫줄에 위치한"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "ㄱ",
+        "category": 1
+      },
+      {
+        "index": 1,
+        "content": "ㄲ",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "ㄷ",
+        "category": 1
+      },
+      {
+        "index": 3,
+        "content": "ㄹ",
+        "category": 1
+      },
+      {
+        "index": 4,
+        "content": "ㅁ",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "ㅃ",
+        "category": 0
+      },
+      {
+        "index": 6,
+        "content": "ㅉ",
+        "category": 0
+      },
+      {
+        "index": 7,
+        "content": "ㅊ",
+        "category": 3
+      },
+      {
+        "index": 8,
+        "content": "ㅋ",
+        "category": 3
+      },
+      {
+        "index": 9,
+        "content": "ㅍ",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "ㅐ",
+        "category": 2
+      },
+      {
+        "index": 11,
+        "content": "ㅒ",
+        "category": 0
+      },
+      {
+        "index": 12,
+        "content": "ㅔ",
+        "category": 2
+      },
+      {
+        "index": 13,
+        "content": "ㅚ",
+        "category": 2
+      },
+      {
+        "index": 14,
+        "content": "ㅟ",
+        "category": 2
+      },
+      {
+        "index": 15,
+        "content": "ㅠ",
+        "category": 3
+      }
+    ]
+  },
+  "20251010": {
+    "date": "2025-10-10T00:00:00.000Z",
+    "title": "2025년 10월 10일의 관계들",
+    "categories": [
+      "여럿이 즐기는",
+      "무의식에 관한",
+      "길고 가는",
+      "-김치"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "잔치",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "국수",
+        "category": 2
+      },
+      {
+        "index": 2,
+        "content": "꿈",
+        "category": 1
+      },
+      {
+        "index": 3,
+        "content": "축제",
+        "category": 0
+      },
+      {
+        "index": 4,
+        "content": "머리카락",
+        "category": 2
+      },
+      {
+        "index": 5,
+        "content": "총각",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "넋",
+        "category": 1
+      },
+      {
+        "index": 7,
+        "content": "백",
+        "category": 3
+      },
+      {
+        "index": 8,
+        "content": "레이저",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "페스티벌",
+        "category": 0
+      },
+      {
+        "index": 10,
+        "content": "실",
+        "category": 2
+      },
+      {
+        "index": 11,
+        "content": "물",
+        "category": 3
+      },
+      {
+        "index": 12,
+        "content": "최면",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "갓",
+        "category": 3
+      },
+      {
+        "index": 14,
+        "content": "영혼",
+        "category": 1
+      },
+      {
+        "index": 15,
+        "content": "페어",
+        "category": 0
+      }
+    ]
+  },
+  "20251011": {
+    "date": "2025-10-11T00:00:00.000Z",
+    "title": "2025년 10월 11일의 관계들",
+    "categories": [
+      "으뜸가는",
+      "입는 것 관한",
+      "사회과학의 분과 학문",
+      "-작"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "인류",
+        "category": 2
+      },
+      {
+        "index": 1,
+        "content": "일류",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "의류",
+        "category": 1
+      },
+      {
+        "index": 3,
+        "content": "아류",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "최고급",
+        "category": 0
+      },
+      {
+        "index": 5,
+        "content": "야심",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "언론",
+        "category": 2
+      },
+      {
+        "index": 7,
+        "content": "데뷔",
+        "category": 3
+      },
+      {
+        "index": 8,
+        "content": "명품",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "패션",
+        "category": 1
+      },
+      {
+        "index": 10,
+        "content": "경제",
+        "category": 2
+      },
+      {
+        "index": 11,
+        "content": "복장",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "옷",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "지리",
+        "category": 2
+      },
+      {
+        "index": 14,
+        "content": "걸작",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "후보",
+        "category": 3
+      }
+    ]
   }
 }

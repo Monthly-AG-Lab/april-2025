@@ -16050,7 +16050,7 @@
     "title": "2025년 10월 11일의 관계들",
     "categories": [
       "으뜸가는",
-      "입는 것 관한",
+      "입는 것에 관한",
       "사회과학의 분과 학문",
       "-작"
     ],
@@ -16134,6 +16134,282 @@
         "index": 15,
         "content": "후보",
         "category": 3
+      }
+    ]
+  },
+  "20251012": {
+    "date": "2025-10-12T00:00:00.000Z",
+    "title": "2025년 10월 12일의 관계들",
+    "categories": [
+      "배움의 장",
+      "있는 것처럼 꾸미는",
+      "포커 게임을 이루는",
+      "-장"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "수영",
+        "category": 3
+      },
+      {
+        "index": 1,
+        "content": "수업",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "카드",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "표창",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "플레이어",
+        "category": 2
+      },
+      {
+        "index": 5,
+        "content": "서랍",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "연기",
+        "category": 1
+      },
+      {
+        "index": 7,
+        "content": "워크숍",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "강좌",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "칩",
+        "category": 2
+      },
+      {
+        "index": 10,
+        "content": "마임",
+        "category": 1
+      },
+      {
+        "index": 11,
+        "content": "고추",
+        "category": 3
+      },
+      {
+        "index": 12,
+        "content": "가장",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "거짓말",
+        "category": 1
+      },
+      {
+        "index": 14,
+        "content": "딜러",
+        "category": 2
+      },
+      {
+        "index": 15,
+        "content": "레슨",
+        "category": 0
+      }
+    ]
+  },
+  "20251013": {
+    "date": "2025-10-13T00:00:00.000Z",
+    "title": "2025년 10월 13일의 관계들",
+    "categories": [
+      "우편에 관한",
+      "'부' 앞에 붙어 행정 조직이 되는",
+      "네이버 앱",
+      "카카오톡 답장 이모티콘"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "편지",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "메일",
+        "category": 2
+      },
+      {
+        "index": 2,
+        "content": "통일",
+        "category": 1
+      },
+      {
+        "index": 3,
+        "content": "교육",
+        "category": 1
+      },
+      {
+        "index": 4,
+        "content": "외교",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "소포",
+        "category": 0
+      },
+      {
+        "index": 6,
+        "content": "사전",
+        "category": 2
+      },
+      {
+        "index": 7,
+        "content": "체크",
+        "category": 3
+      },
+      {
+        "index": 8,
+        "content": "엄지",
+        "category": 3
+      },
+      {
+        "index": 9,
+        "content": "지도",
+        "category": 2
+      },
+      {
+        "index": 10,
+        "content": "등기",
+        "category": 0
+      },
+      {
+        "index": 11,
+        "content": "국방",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "웃음",
+        "category": 3
+      },
+      {
+        "index": 13,
+        "content": "택배",
+        "category": 0
+      },
+      {
+        "index": 14,
+        "content": "카페",
+        "category": 2
+      },
+      {
+        "index": 15,
+        "content": "하트",
+        "category": 3
+      }
+    ]
+  },
+  "20251014": {
+    "date": "2025-10-14T00:00:00.000Z",
+    "title": "2025년 10월 14일의 관계들",
+    "categories": [
+      "무슨 일이 있더라도!",
+      "찜질방을 이루는",
+      "구멍이 두 개",
+      "사자성어의 뒤 두 글자"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "결단코",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "결단",
+        "category": 3
+      },
+      {
+        "index": 2,
+        "content": "코",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "꼭",
+        "category": 0
+      },
+      {
+        "index": 4,
+        "content": "수건",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "단추",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "계란",
+        "category": 1
+      },
+      {
+        "index": 7,
+        "content": "전도",
+        "category": 3
+      },
+      {
+        "index": 8,
+        "content": "반드시",
+        "category": 0
+      },
+      {
+        "index": 9,
+        "content": "일생",
+        "category": 3
+      },
+      {
+        "index": 10,
+        "content": "허전",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "식혜",
+        "category": 1
+      },
+      {
+        "index": 12,
+        "content": "한증막",
+        "category": 1
+      },
+      {
+        "index": 13,
+        "content": "콘센트",
+        "category": 2
+      },
+      {
+        "index": 14,
+        "content": "절대",
+        "category": 0
+      },
+      {
+        "index": 15,
+        "content": "가위",
+        "category": 2
       }
     ]
   }

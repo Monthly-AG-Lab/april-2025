@@ -16412,5 +16412,97 @@
         "category": 2
       }
     ]
+  },
+  "20251015": {
+    "date": "2025-10-15T00:00:00.000Z",
+    "title": "2025년 10월 15일의 관계들",
+    "categories": [
+      "예정보다 늦게",
+      "꾸미는",
+      "가위가 있는",
+      "'스타'가 뜻할 수 있는"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "연기",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "연예인",
+        "category": 3
+      },
+      {
+        "index": 2,
+        "content": "미용",
+        "category": 1
+      },
+      {
+        "index": 3,
+        "content": "미용실",
+        "category": 2
+      },
+      {
+        "index": 4,
+        "content": "메이크업",
+        "category": 1
+      },
+      {
+        "index": 5,
+        "content": "즐겨찾기",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "등급",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "보류",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "장식",
+        "category": 1
+      },
+      {
+        "index": 9,
+        "content": "지체",
+        "category": 0
+      },
+      {
+        "index": 10,
+        "content": "주방",
+        "category": 2
+      },
+      {
+        "index": 11,
+        "content": "별",
+        "category": 3
+      },
+      {
+        "index": 12,
+        "content": "필통",
+        "category": 2
+      },
+      {
+        "index": 13,
+        "content": "화장",
+        "category": 1
+      },
+      {
+        "index": 14,
+        "content": "엿장수",
+        "category": 2
+      },
+      {
+        "index": 15,
+        "content": "유예",
+        "category": 0
+      }
+    ]
   }
 }

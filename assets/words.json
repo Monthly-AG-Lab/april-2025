@@ -16504,5 +16504,97 @@
         "category": 0
       }
     ]
+  },
+  "20251016": {
+    "date": "2025-10-16T00:00:00.000Z",
+    "title": "2025년 10월 16일의 관계들",
+    "categories": [
+      "사랑하는 관계",
+      "피를 뽑는",
+      "유럽 도시 이름",
+      "-꾸러기"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "모기",
+        "category": 1
+      },
+      {
+        "index": 1,
+        "content": "파리",
+        "category": 2
+      },
+      {
+        "index": 2,
+        "content": "연인",
+        "category": 0
+      },
+      {
+        "index": 3,
+        "content": "욕심",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "빈",
+        "category": 2
+      },
+      {
+        "index": 5,
+        "content": "칸",
+        "category": 2
+      },
+      {
+        "index": 6,
+        "content": "장난",
+        "category": 3
+      },
+      {
+        "index": 7,
+        "content": "주사기",
+        "category": 1
+      },
+      {
+        "index": 8,
+        "content": "거머리",
+        "category": 1
+      },
+      {
+        "index": 9,
+        "content": "부부",
+        "category": 0
+      },
+      {
+        "index": 10,
+        "content": "잠",
+        "category": 3
+      },
+      {
+        "index": 11,
+        "content": "말썽",
+        "category": 3
+      },
+      {
+        "index": 12,
+        "content": "커플",
+        "category": 0
+      },
+      {
+        "index": 13,
+        "content": "뱀파이어",
+        "category": 1
+      },
+      {
+        "index": 14,
+        "content": "로마",
+        "category": 2
+      },
+      {
+        "index": 15,
+        "content": "배필",
+        "category": 0
+      }
+    ]
   }
 }

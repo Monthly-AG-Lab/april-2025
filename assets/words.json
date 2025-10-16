@@ -16596,5 +16596,97 @@
         "category": 0
       }
     ]
+  },
+  "20251017": {
+    "date": "2025-10-17T00:00:00.000Z",
+    "title": "2025년 10월 17일의 관계들",
+    "categories": [
+      "마음을 전달하는",
+      "방정식을 이루는",
+      "일 년에 한 번",
+      "감-"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "생일",
+        "category": 2
+      },
+      {
+        "index": 1,
+        "content": "축하",
+        "category": 0
+      },
+      {
+        "index": 2,
+        "content": "해",
+        "category": 1
+      },
+      {
+        "index": 3,
+        "content": "귤",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "사과",
+        "category": 0
+      },
+      {
+        "index": 5,
+        "content": "상하다",
+        "category": 3
+      },
+      {
+        "index": 6,
+        "content": "수능",
+        "category": 2
+      },
+      {
+        "index": 7,
+        "content": "미지수",
+        "category": 1
+      },
+      {
+        "index": 8,
+        "content": "첫눈",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "크리스마스",
+        "category": 2
+      },
+      {
+        "index": 10,
+        "content": "감사",
+        "category": 0
+      },
+      {
+        "index": 11,
+        "content": "정적",
+        "category": 3
+      },
+      {
+        "index": 12,
+        "content": "애도",
+        "category": 0
+      },
+      {
+        "index": 13,
+        "content": "근",
+        "category": 1
+      },
+      {
+        "index": 14,
+        "content": "싸다",
+        "category": 3
+      },
+      {
+        "index": 15,
+        "content": "등호",
+        "category": 1
+      }
+    ]
   }
 }

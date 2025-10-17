@@ -16688,5 +16688,97 @@
         "category": 1
       }
     ]
+  },
+  "20251018": {
+    "date": "2025-10-18T00:00:00.000Z",
+    "title": "2025년 10월 18일의 관계들",
+    "categories": [
+      "단어 기반 게임",
+      "클래식 비디오 게임",
+      "카드가 필요한",
+      "'오징어 게임'에 등장하는"
+    ],
+    "words": [
+      {
+        "index": 0,
+        "content": "끝말잇기",
+        "category": 0
+      },
+      {
+        "index": 1,
+        "content": "줄다리기",
+        "category": 3
+      },
+      {
+        "index": 2,
+        "content": "할리갈리",
+        "category": 2
+      },
+      {
+        "index": 3,
+        "content": "구슬치기",
+        "category": 3
+      },
+      {
+        "index": 4,
+        "content": "포커",
+        "category": 2
+      },
+      {
+        "index": 5,
+        "content": "퐁",
+        "category": 1
+      },
+      {
+        "index": 6,
+        "content": "슈퍼마리오",
+        "category": 1
+      },
+      {
+        "index": 7,
+        "content": "십자말풀이",
+        "category": 0
+      },
+      {
+        "index": 8,
+        "content": "스플렌더",
+        "category": 2
+      },
+      {
+        "index": 9,
+        "content": "테트리스",
+        "category": 1
+      },
+      {
+        "index": 10,
+        "content": "쿵쿵따",
+        "category": 0
+      },
+      {
+        "index": 11,
+        "content": "뽑기",
+        "category": 3
+      },
+      {
+        "index": 12,
+        "content": "딱지치기",
+        "category": 3
+      },
+      {
+        "index": 13,
+        "content": "카탄",
+        "category": 2
+      },
+      {
+        "index": 14,
+        "content": "팩맨",
+        "category": 1
+      },
+      {
+        "index": 15,
+        "content": "관계들",
+        "category": 0
+      }
+    ]
   }
 }
